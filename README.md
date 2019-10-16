@@ -75,7 +75,7 @@
 | 3 |  [hawkeye](https://github.com/ipartola/hawkeye) | An simple and fast USB webcam MJPEG streaming server. | ipartola | 155 |
 | 4 |  [libui](https://github.com/andlabs/libui) | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. | andlabs | 8983 |
 | 5 |  [iodine](https://github.com/yarrick/iodine) | Official git repo for iodine dns tunnel | yarrick | 3088 |
-| 6 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 19788 |
+| 6 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 19790 |
 | 7 |  [usbpcap](https://github.com/desowin/usbpcap) | USB packet capture for Windows | desowin | 400 |
 | 8 |  [rDUINOScope](https://github.com/dEskoG/rDUINOScope) | rDUINOScope - Arduino based telescope control system (GOTO) | dEskoG | 59 |
 | 9 |  [mimikatz](https://github.com/gentilkiwi/mimikatz) | A little tool to play with Windows security | gentilkiwi | 8460 |
@@ -181,7 +181,7 @@
 | 60 |  [Lidarr](https://github.com/lidarr/Lidarr) | Looks and smells like Sonarr but made for music. | lidarr | 1169 |
 | 61 |  [Wax](https://github.com/tom-englert/Wax) | An interactive editor for WiX setup projects. | tom-englert | 138 |
 | 62 |  [coverlet](https://github.com/tonerdo/coverlet) | Cross platform code coverage for .NET | tonerdo | 1397 |
-| 63 |  [corert](https://github.com/dotnet/corert) | This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain. | dotnet | 2385 |
+| 63 |  [corert](https://github.com/dotnet/corert) | This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain. | dotnet | 2386 |
 | 64 |  [Vault.NET](https://github.com/Chatham/Vault.NET) | .NET API client for vault | Chatham | 60 |
 | 65 |  [VaultSharp](https://github.com/rajanadar/VaultSharp) | A cross-platform .NET Library for HashiCorp's Vault (Secret Management System) - http://rajanadar.github.io/VaultSharp/ | rajanadar | 156 |
 | 66 |  [SAML2](https://github.com/elerch/SAML2) | Fork of SAML2 library on codeplex. This library removes dependencies on Asp.net | elerch | 82 |
@@ -566,7 +566,7 @@
 | 11 |  [docker-slim](https://github.com/docker-slim/docker-slim) | DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) | docker-slim | 3306 |
 | 12 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | go-gitea | 16368 |
 | 13 |  [rancher](https://github.com/rancher/rancher) | Complete container management platform | rancher | 12729 |
-| 14 |  [wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal. | wtfutil | 10585 |
+| 14 |  [wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal. | wtfutil | 10586 |
 | 15 |  [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | kubernetes | 16059 |
 | 16 |  [dapperdox](https://github.com/DapperDox/dapperdox) | Beautiful, integrated, OpenAPI documentation. | DapperDox | 241 |
 | 17 |  [httplab](https://github.com/gchaincl/httplab) | The interactive web server | gchaincl | 3454 |
@@ -655,7 +655,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [flyway](https://github.com/flyway/flyway) | Flyway by Boxfuse • Database Migrations Made Easy. | flyway | 4507 |
-| 2 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 20157 |
+| 2 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 20158 |
 | 3 |  [selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) | JUnit 5 extension for Selenium and Appium | bonigarcia | 121 |
 | 4 |  [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | dbeaver | 10699 |
 | 5 |  [LauncherHijack](https://github.com/BaronKiko/LauncherHijack) | For Amazon Fire Tablets and TV's | BaronKiko | 233 |
@@ -664,7 +664,7 @@
 | 8 |  [keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. | kaikramer | 549 |
 | 9 |  [haven](https://github.com/guardianproject/haven) | Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors | guardianproject | 4850 |
 | 10 |  [shibboleth-oidc](https://github.com/uchicago/shibboleth-oidc) | OpenID Connect support for the Shibboleth Identity Provider  v3 | uchicago | 69 |
-| 11 |  [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI | java-decompiler | 7364 |
+| 11 |  [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI | java-decompiler | 7365 |
 | 12 |  [dns66](https://github.com/julian-klode/dns66) | DNS-based Host Blocker (and lightweight ad blocker) for Android | julian-klode | 1321 |
 | 13 |  [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) | Use SQL to query Elasticsearch | NLPchina | 5478 |
 | 14 |  [Terasology](https://github.com/MovingBlocks/Terasology) | Terasology - open source voxel world | MovingBlocks | 2647 |
@@ -695,7 +695,7 @@
 | 2 |  [bundle-stats](https://github.com/relative-ci/bundle-stats) | In-depth bundle analyzer for webpack(bundle size, assets, modules, packages) | relative-ci | 20 |
 | 3 |  [shiori](https://github.com/go-shiori/shiori) | Simple bookmark manager built with Go | go-shiori | 3360 |
 | 4 |  [webpack-boilerplate](https://github.com/taniarascia/webpack-boilerplate) | 📦 A sensible Webpack 4 boilerplate. | taniarascia | 364 |
-| 5 |  [nuxt.js](https://github.com/nuxt/nuxt.js) | The Vue.js Framework | nuxt | 22852 |
+| 5 |  [nuxt.js](https://github.com/nuxt/nuxt.js) | The Vue.js Framework | nuxt | 22853 |
 | 6 |  [nuxt-env](https://github.com/samtgarson/nuxt-env) | Inject env vars for your Nuxt app at runtime | samtgarson | 107 |
 | 7 |  [composerize](https://github.com/magicmark/composerize) | 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up | magicmark | 429 |
 | 8 |  [Darkmode.js](https://github.com/sandoche/Darkmode.js) | 🌓 Add a dark-mode / night-mode to your website in a few seconds | sandoche | 1351 |
@@ -846,9 +846,9 @@
 | 153 |  [awesome-npx](https://github.com/junosuarez/awesome-npx) | 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶 | junosuarez | 925 |
 | 154 |  [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) | A CLI dashboard for webpack dev server | FormidableLabs | 13435 |
 | 155 |  [You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) | Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. | nefe | 18655 |
-| 156 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33945 |
+| 156 |  [prettier](https://github.com/prettier/prettier) | Prettier is an opinionated code formatter. | prettier | 33946 |
 | 157 |  [browserify-ftw](https://github.com/thlorenz/browserify-ftw) | Converts an entire project that uses requirejs amd  into on that uses nodejs common modules so it can be browserified. | thlorenz | 190 |
-| 158 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49763 |
+| 158 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. | 30-seconds | 49765 |
 | 159 |  [nodemon](https://github.com/remy/nodemon) | Monitor for any changes in your node.js application and automatically restart the server - perfect for development | remy | 19146 |
 | 160 |  [nock](https://github.com/nock/nock) | HTTP server mocking and expectations library for Node.js | nock | 8672 |
 | 161 |  [json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | typicode | 43222 |
@@ -877,7 +877,7 @@
 | 184 |  [voca](https://github.com/panzerdp/voca) | The ultimate JavaScript string library | panzerdp | 2730 |
 | 185 |  [RegexHub](https://github.com/lukehaas/RegexHub) | A collection of useful regex patterns | lukehaas | 2009 |
 | 186 |  [JSON-Splora](https://github.com/wellsjo/JSON-Splora) | GUI for editing, visualizing, and manipulating JSON data | wellsjo | 1721 |
-| 187 |  [CyberChef](https://github.com/gchq/CyberChef) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | gchq | 7112 |
+| 187 |  [CyberChef](https://github.com/gchq/CyberChef) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis | gchq | 7113 |
 | 188 |  [inferno](https://github.com/infernojs/inferno) | :fire: An extremely fast, React-like JavaScript library for building modern user interfaces | infernojs | 13990 |
 | 189 |  [lumber](https://github.com/ForestAdmin/lumber) | Create your backend application in minutes. | ForestAdmin | 1872 |
 | 190 |  [js](https://github.com/turbo/js) | turbo.js - perform massive parallel computations in your browser with GPGPU. | turbo | 2482 |
@@ -981,7 +981,7 @@
 | 288 |  [Add-Clear](https://github.com/skorecky/Add-Clear) | jQuery Plugin to add a (x) clear button to your input fields | skorecky | 101 |
 | 289 |  [stylus](https://github.com/stylus/stylus) | Expressive, robust, feature-rich CSS language built for nodejs | stylus | 10124 |
 | 290 |  [csslint](https://github.com/CSSLint/csslint) | Automated linting of Cascading Stylesheets | CSSLint | 4462 |
-| 291 |  [eslint](https://github.com/eslint/eslint) | A fully pluggable tool for identifying and reporting on patterns in JavaScript | eslint | 15112 |
+| 291 |  [eslint](https://github.com/eslint/eslint) | A fully pluggable tool for identifying and reporting on patterns in JavaScript | eslint | 15111 |
 | 292 |  [node-jscs](https://github.com/jscs-dev/node-jscs) | :arrow_heading_up: JavaScript Code Style checker (unmaintained) | jscs-dev | 5100 |
 | 293 |  [jshint-stylish](https://github.com/sindresorhus/jshint-stylish) | Stylish reporter for JSHint | sindresorhus | 575 |
 | 294 |  [openwebrx](https://github.com/simonyiszk/openwebrx) | Open source, multi-user SDR receiver software with a web interface | simonyiszk | 639 |
@@ -1268,7 +1268,7 @@
 | 34 |  [MusicStore](https://github.com/aspnet/MusicStore) | [Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 1359 |
 | 35 |  [vue-admin](https://github.com/vue-bulma/vue-admin) | We are refactoring it, using the latest Vue and Bulma. WIP | vue-bulma | 9357 |
 | 36 |  [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) | Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects. | mbeaudru | 19240 |
-| 37 |  [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 49395 |
+| 37 |  [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 49396 |
 | 38 |  [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources. | n1trux | 8890 |
 | 39 |  [SANS-SEC505](https://github.com/EnclaveConsulting/SANS-SEC505) | Some of the lab files for the SANS Institute course SEC505: Securing Windows and PowerShell Automation: https://sans.org/sec505 | EnclaveConsulting | 217 |
 | 40 |  [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | sdmg15 | 27049 |
@@ -1293,9 +1293,9 @@
 | 59 |  [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro | AllThingsSmitty | 13993 |
 | 60 |  [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) | A collection of tips to help up your jQuery game | AllThingsSmitty | 4120 |
 | 61 |  [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) | Enhanced version of Asus's router firmware (Asuswrt) (legacy code base) | RMerl | 6069 |
-| 62 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65647 |
+| 62 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 65648 |
 | 63 |  [jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) | jQuery plugin to sorting lists also the tree structures. | camohub | 175 |
-| 64 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117610 |
+| 64 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 117611 |
 | 65 |  [DscResources](https://github.com/PowerShell/DscResources) | Central repository for PowerShell Desired State Configuration (DSC) resources. | PowerShell | 679 |
 | 66 |  [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository | OAI | 15578 |
 | 67 |  [awesome-material](https://github.com/sachin1092/awesome-material) | A curated list of Google's material design libraries for different frameworks. | sachin1092 | 547 |
@@ -1308,7 +1308,7 @@
 | 74 |  [flexbugs](https://github.com/philipwalton/flexbugs) | A community-curated list of flexbox issues and cross-browser workarounds for them. | philipwalton | 11481 |
 | 75 |  [guides](https://github.com/NARKOZ/guides) | Design and development guides | NARKOZ | 1678 |
 | 76 |  [rtl-sdr](https://github.com/Eisbaeeer/rtl-sdr) | rtlsdr rtl_fm fork - retune & change modes without restarting | Eisbaeeer | 4 |
-| 77 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 109795 |
+| 77 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 109799 |
 | 78 |  [decoding](https://github.com/michelinok/decoding) | Collection of guides for radio deconding signals | michelinok | 5 |
 | 79 |  [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! | davidsonfellipe | 6687 |
 | 80 |  [cursors](https://github.com/chrisnager/cursors) | All available cursors | chrisnager | 184 |
@@ -1465,7 +1465,7 @@
 | 31 |  [me_cleaner](https://github.com/corna/me_cleaner) | Tool for partial deblobbing of Intel ME/TXE firmware images | corna | 3089 |
 | 32 |  [GraphDash](https://github.com/AmadeusITGroup/GraphDash) | A web-based dashboard built on graphs and their metadata. | AmadeusITGroup | 278 |
 | 33 |  [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) | A Blender script to procedurally generate 3D spaceships | a1studmuffin | 5276 |
-| 34 |  [dupeguru](https://github.com/arsenetar/dupeguru) | Find duplicate files | arsenetar | 1099 |
+| 34 |  [dupeguru](https://github.com/arsenetar/dupeguru) | Find duplicate files | arsenetar | 1100 |
 | 35 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 63670 |
 | 36 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 8456 |
 | 37 |  [nzbhydra](https://github.com/theotherp/nzbhydra) | Meta search for NZB indexers | theotherp | 528 |
@@ -1588,20 +1588,20 @@
 | 18 |  [nest](https://github.com/nestjs/nest) | A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 | nestjs | 20406 |
 | 19 |  [typescript-book](https://github.com/basarat/typescript-book) | :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹 | basarat | 7848 |
 | 20 |  [emma-cli](https://github.com/maticzav/emma-cli) | 📦 Terminal assistant to find and install node packages. | maticzav | 1105 |
-| 21 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42136 |
+| 21 |  [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! | storybookjs | 42137 |
 | 22 |  [typewiz](https://github.com/urish/typewiz) | Automatically discover and add missing types in your TypeScript code | urish | 882 |
 | 23 |  [vetur](https://github.com/vuejs/vetur) | Vue tooling for VS Code. | vuejs | 3728 |
-| 24 |  [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Material Component Framework for Vue.js 2 | vuetifyjs | 22036 |
+| 24 |  [vuetify](https://github.com/vuetifyjs/vuetify) | 🐉 Material Component Framework for Vue.js 2 | vuetifyjs | 22037 |
 | 25 |  [azuredatastudio](https://github.com/microsoft/azuredatastudio) | Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux. | microsoft | 5355 |
 | 26 |  [AspNet5IdentityServerAngularImplicitFlow](https://github.com/damienbod/AspNet5IdentityServerAngularImplicitFlow) | OpenID Connect Code /  Implicit Flow with Angular and ASP.NET Core 3.0 IdentityServer4 | damienbod | 565 |
-| 27 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84453 |
+| 27 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 84455 |
 | 28 |  [redoc](https://github.com/Redocly/redoc) | 📘  OpenAPI/Swagger-generated API Reference Documentation | Redocly | 7052 |
 | 29 |  [chromeless](https://github.com/prisma-archive/chromeless) | 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda. | prisma-archive | 13263 |
 | 30 |  [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) | :package: Install C++ Build Tools for Windows using npm | felixrieseberg | 2630 |
 | 31 |  [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | The repository for high quality TypeScript type definitions. | DefinitelyTyped | 24654 |
 | 32 |  [fuse-box](https://github.com/fuse-box/fuse-box) | A blazing fast js bundler/loader with a comprehensive API :fire: | fuse-box | 3846 |
 | 33 |  [flatpickr](https://github.com/flatpickr/flatpickr) | lightweight, powerful javascript datetimepicker with no dependencies | flatpickr | 12326 |
-| 34 |  [grafana](https://github.com/grafana/grafana) | The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More | grafana | 31445 |
+| 34 |  [grafana](https://github.com/grafana/grafana) | The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More | grafana | 31446 |
 | 35 |  [airbrake-js](https://github.com/airbrake/airbrake-js) | Airbrake JavaScript Notifier | airbrake | 366 |
 | 36 |  [prettydiff](https://github.com/prettydiff/prettydiff) | Beautifier and language aware code comparison tool for many languages. It also minifies and a few other things. | prettydiff | 1383 |
 | 37 |  [agi.js](https://github.com/r1sc/agi.js) | Adventure Game Interpreter for Sierra's classic 80's adventure games written in TypeScript | r1sc | 33 |
@@ -1642,7 +1642,7 @@
 | 7 |  [vuesax](https://github.com/lusaxweb/vuesax) | New Framework Components for Vue.js 2 | lusaxweb | 3536 |
 | 8 |  [koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) | 🤓 A simple SPA built using Koa (2.5.1) as the backend and Vue (2.5.16) as the frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules. | johndatserakis | 180 |
 | 9 |  [coreui-free-vue-admin-template](https://github.com/coreui/coreui-free-vue-admin-template) | CoreUI Vue is free Vue admin template based on Bootstrap 4 | coreui | 1984 |
-| 10 |  [element](https://github.com/ElemeFE/element) | A Vue.js 2.0 UI Toolkit for Web | ElemeFE | 41584 |
+| 10 |  [element](https://github.com/ElemeFE/element) | A Vue.js 2.0 UI Toolkit for Web | ElemeFE | 41585 |
 | 11 |  [mint-ui](https://github.com/ElemeFE/mint-ui) | Mobile UI elements for Vue.js | ElemeFE | 15051 |
 | 12 |  [vux](https://github.com/airyland/vux) | Mobile UI Components based on Vue & WeUI | airyland | 16406 |
 | 13 |  [iview](https://github.com/iview/iview) | A high quality UI Toolkit built on Vue.js 2.0 | iview | 22647 |
