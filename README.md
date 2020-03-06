@@ -7,52 +7,771 @@
 
 ## 🏠 Contents
 
-- [JavaScript (511)](#javascript)
-- [C# (331)](#c)
-- [TypeScript (56)](#typescript)
-- [Python (64)](#python)
-- [Others (93)](#others)
-- [Rich&nbsp;Text&nbsp;Format (1)](#rich-text-format)
-- [Visual&nbsp;Basic&nbsp;.NET (1)](#visual-basic-net)
-- [Java (33)](#java)
-- [Go (24)](#go)
-- [TSQL (4)](#tsql)
-- [Shell (29)](#shell)
-- [Dockerfile (1)](#dockerfile)
-- [C++ (54)](#c-1)
-- [C (44)](#c-2)
-- [PowerShell (46)](#powershell)
-- [Dart (1)](#dart)
-- [Vue (20)](#vue)
-- [PHP (28)](#php)
-- [Pascal (4)](#pascal)
-- [Rust (1)](#rust)
-- [Visual&nbsp;Basic (4)](#visual-basic)
-- [SQLPL (2)](#sqlpl)
-- [Clojure (2)](#clojure)
-- [HTML (57)](#html)
-- [Vala (1)](#vala)
-- [Kotlin (2)](#kotlin)
-- [CSS (41)](#css)
-- [Jupyter&nbsp;Notebook (2)](#jupyter-notebook)
-- [Ruby (10)](#ruby)
-- [Lua (2)](#lua)
-- [F# (4)](#f)
-- [Batchfile (2)](#batchfile)
-- [Makefile (2)](#makefile)
-- [PLpgSQL (3)](#plpgsql)
 - [AutoHotkey (2)](#autohotkey)
-- [Perl (4)](#perl)
-- [HLSL (1)](#hlsl)
-- [CoffeeScript (4)](#coffeescript)
-- [OpenSCAD (1)](#openscad)
 - [AutoIt (1)](#autoit)
-- [Processing (1)](#processing)
+- [Batchfile (2)](#batchfile)
+- [C (44)](#c)
+- [C# (331)](#c-1)
+- [C++ (54)](#c-2)
 - [CMake (1)](#cmake)
-- [R (1)](#r)
+- [CSS (41)](#css)
+- [Clojure (2)](#clojure)
+- [CoffeeScript (4)](#coffeescript)
 - [D (1)](#d)
+- [Dart (1)](#dart)
+- [Dockerfile (1)](#dockerfile)
+- [F# (4)](#f)
+- [Go (24)](#go)
+- [HLSL (1)](#hlsl)
+- [HTML (57)](#html)
 - [Haskell (1)](#haskell)
+- [Java (33)](#java)
+- [JavaScript (511)](#javascript)
+- [Jupyter&nbsp;Notebook (2)](#jupyter-notebook)
+- [Kotlin (2)](#kotlin)
+- [Lua (2)](#lua)
+- [Makefile (2)](#makefile)
 - [Objective-C (1)](#objective-c)
+- [OpenSCAD (1)](#openscad)
+- [Others (93)](#others)
+- [PHP (28)](#php)
+- [PLpgSQL (3)](#plpgsql)
+- [Pascal (4)](#pascal)
+- [Perl (4)](#perl)
+- [PowerShell (46)](#powershell)
+- [Processing (1)](#processing)
+- [Python (64)](#python)
+- [R (1)](#r)
+- [Rich&nbsp;Text&nbsp;Format (1)](#rich-text-format)
+- [Ruby (10)](#ruby)
+- [Rust (1)](#rust)
+- [SQLPL (2)](#sqlpl)
+- [Shell (29)](#shell)
+- [TSQL (4)](#tsql)
+- [TypeScript (56)](#typescript)
+- [Vala (1)](#vala)
+- [Visual&nbsp;Basic (4)](#visual-basic)
+- [Visual&nbsp;Basic&nbsp;.NET (1)](#visual-basic-net)
+- [Vue (20)](#vue)
+
+## AutoHotkey
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [POE-ItemInfo](https://github.com/aRTy42/POE-ItemInfo) | Item Info Script for Path of Exile | aRTy42 | 167 |
+| 2 |  [AHK-Studio](https://github.com/maestrith/AHK-Studio) | Created with AHK Studio | maestrith | 203 |
+
+**[⬆ Back to Index](#-contents)**
+
+## AutoIt
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [UniExtract2](https://github.com/Bioruebe/UniExtract2) | Universal Extractor 2 is a tool to extract files from any type of archive or installer. | Bioruebe | 904 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Batchfile
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [standalone_scripts](https://github.com/bmrf/standalone_scripts) | Various standalone scripts | bmrf | 182 |
+| 2 |  [tron](https://github.com/bmrf/tron) | Tron | bmrf | 2137 |
+
+**[⬆ Back to Index](#-contents)**
+
+## C
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [yori](https://github.com/malxau/yori) | Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more. | malxau | 683 |
+| 2 |  [hawkeye](https://github.com/ipartola/hawkeye) | An simple and fast USB webcam MJPEG streaming server. | ipartola | 157 |
+| 3 |  [libui](https://github.com/andlabs/libui) | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. | andlabs | 9256 |
+| 4 |  [iodine](https://github.com/yarrick/iodine) | Official git repo for iodine dns tunnel | yarrick | 3277 |
+| 5 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 26390 |
+| 6 |  [usbpcap](https://github.com/desowin/usbpcap) | USB packet capture for Windows | desowin | 440 |
+| 7 |  [rDUINOScope](https://github.com/dEskoG/rDUINOScope) | rDUINOScope - Arduino based telescope control system (GOTO) | dEskoG | 60 |
+| 8 |  [mimikatz](https://github.com/gentilkiwi/mimikatz) | A little tool to play with Windows security | gentilkiwi | 9357 |
+| 9 |  [rtl8192cu-fixes](https://github.com/pvaret/rtl8192cu-fixes) | Realtek 8192 chipset driver, ported to kernel 3.11. | pvaret | 748 |
+| 10 |  [rx_tools](https://github.com/rxseger/rx_tools) | rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs, based on rtl_fm, rtl_power, and rtl_sdr from librtlsdr, but using the SoapySDR vendor-neutral SDR support library instead, intended to support a wider range of devices than RTL-SDR | rxseger | 204 |
+| 11 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 10844 |
+| 12 |  [netdata](https://github.com/netdata/netdata) | Real-time performance monitoring, done right! https://my-netdata.io/ | netdata | 45269 |
+| 13 |  [Craft](https://github.com/fogleman/Craft) | A simple Minecraft clone written in C using modern OpenGL (shaders). | fogleman | 7701 |
+| 14 |  [dokany](https://github.com/dokan-dev/dokany) | User mode file system library for windows with FUSE Wrapper | dokan-dev | 3223 |
+| 15 |  [mergerfs](https://github.com/trapexit/mergerfs) | a featureful union filesystem | trapexit | 1064 |
+| 16 |  [rpitx](https://github.com/F5OEO/rpitx) | RF transmitter for Raspberry Pi | F5OEO | 1623 |
+| 17 |  [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. | libretro | 4068 |
+| 18 |  [fio](https://github.com/axboe/fio) | Flexible I/O Tester | axboe | 2103 |
+| 19 |  [ioping](https://github.com/koct9i/ioping) | simple disk I/0 latency measuring tool | koct9i | 546 |
+| 20 |  [libwdi](https://github.com/pbatard/libwdi) | Windows Driver Installer library for USB devices | pbatard | 711 |
+| 21 |  [tmux](https://github.com/tmux/tmux) | tmux source code | tmux | 16760 |
+| 22 |  [progress](https://github.com/Xfennec/progress) | Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) | Xfennec | 4906 |
+| 23 |  [dump978](https://github.com/mutability/dump978) | Experimental demodulator/decoder for UAT on 978MHz | mutability | 128 |
+| 24 |  [TerraFirma](https://github.com/mrkite/TerraFirma) | Mapping for Terraria | mrkite | 145 |
+| 25 |  [vsmartcard](https://github.com/frankmorgner/vsmartcard) | umbrella project for emulation of smart card readers or smart cards | frankmorgner | 334 |
+| 26 |  [frequensea](https://github.com/fdb/frequensea) | Visualizing the frequency spectrum. | fdb | 114 |
+| 27 |  [fontforge](https://github.com/fontforge/fontforge) | Free (libre) font editor for Windows, Mac OS X and GNU+Linux | fontforge | 2952 |
+| 28 |  [OpenSC](https://github.com/OpenSC/OpenSC) | Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend | OpenSC | 1324 |
+| 29 |  [librtlsdr](https://github.com/dl8aau/librtlsdr) | Software to turn the RTL2832U into an SDR | dl8aau | 13 |
+| 30 |  [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) | digital signal processing library for software-defined radios | jgaeddert | 955 |
+| 31 |  [dsdtune](https://github.com/dreinhold/dsdtune) | Program to check the best decoder options for dsdplus | dreinhold | 11 |
+| 32 |  [freqwatch](https://github.com/covertcodes/freqwatch) | Keep track of the airwaves with RTL-SDR; snoop and capture everything into a DB | covertcodes | 146 |
+| 33 |  [linux](https://github.com/raspberrypi/linux) | Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum | raspberrypi | 6528 |
+| 34 |  [firmware](https://github.com/raspberrypi/firmware) | This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware. | raspberrypi | 3355 |
+| 35 |  [Divert](https://github.com/basil00/Divert) | WinDivert: Windows Packet Divert | basil00 | 1005 |
+| 36 |  [Panalyzer](https://github.com/richardghirst/Panalyzer) | A Logic Analyzer based on the RaspberryPi | richardghirst | 131 |
+| 37 |  [rtl-sdr](https://github.com/mutability/rtl-sdr) | RTL-SDR *very* experimental branch - it's probably broken! | mutability | 109 |
+| 38 |  [snapraid](https://github.com/amadvance/snapraid) | A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures | amadvance | 750 |
+| 39 |  [PDW](https://github.com/Discriminator/PDW) | PDW Paging Decoder | Discriminator | 125 |
+| 40 |  [multimon-ng](https://github.com/EliasOenal/multimon-ng) |  | EliasOenal | 570 |
+| 41 |  [rtl-sdr](https://github.com/keenerd/rtl-sdr) | RTL-SDR experimental branch | keenerd | 232 |
+| 42 |  [dump1090](https://github.com/MalcolmRobb/dump1090) | Dump1090 is a simple Mode S decoder for RTLSDR devices | MalcolmRobb | 723 |
+| 43 |  [tvheadend](https://github.com/tvheadend/tvheadend) | Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&gt;IP and other formats through the unix pipe as input sources. | tvheadend | 1680 |
+| 44 |  [AdAway](https://github.com/AdAway/AdAway) | AdAway is an open source ad blocker for Android using the hosts file. | AdAway | 2049 |
+
+**[⬆ Back to Index](#-contents)**
+
+## C#
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [AspNetSaml](https://github.com/jitbit/AspNetSaml) | Very simple SAML 2.0 consumer module for ASP.NET/C# | jitbit | 134 |
+| 2 |  [mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) | Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP | FantasticFiasco | 246 |
+| 3 |  [LogViewer](https://github.com/WildGums/LogViewer) |  | WildGums | 66 |
+| 4 |  [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) | A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes. | microsoft | 3426 |
+| 5 |  [Vanara](https://github.com/dahall/Vanara) | A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers. | dahall | 329 |
+| 6 |  [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) | Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone) | SergeyTeplyakov | 455 |
+| 7 |  [MacAddressVendorLookup](https://github.com/PingmanTools/MacAddressVendorLookup) | C# MAC address vendor/OUI lookup library | PingmanTools | 3 |
+| 8 |  [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. | MahApps | 6655 |
+| 9 |  [XamlBehaviorsWpf](https://github.com/microsoft/XamlBehaviorsWpf) | Home for WPF XAML Behaviors on GitHub. | microsoft | 285 |
+| 10 |  [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) | The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation. | windows-toolkit | 3444 |
+| 11 |  [BSA_Browser](https://github.com/AlexxEG/BSA_Browser) | Bethesda Archive Browser & Extractor | AlexxEG | 21 |
+| 12 |  [vrs](https://github.com/vradarserver/vrs) | A .NET web server that can plot the positions of aircraft on a map | vradarserver | 133 |
+| 13 |  [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) | Exception handling as a convention in the ASP.NET Core request pipeline | JosephWoodward | 198 |
+| 14 |  [abp](https://github.com/abpframework/abp) | Open Source Web Application Framework for ASP.NET Core | abpframework | 3147 |
+| 15 |  [Templates](https://github.com/Dotnet-Boxed/Templates) | .NET project templates with batteries included, providing the minimum amount of code required to get you going faster. | Dotnet-Boxed | 2039 |
+| 16 |  [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) | Headless Chrome .NET API | kblok | 1137 |
+| 17 |  [AsyncEx](https://github.com/StephenCleary/AsyncEx) | A helper library for async/await. | StephenCleary | 2032 |
+| 18 |  [Easy.Common](https://github.com/NimaAra/Easy.Common) | A set of useful utilities and helpers used across Easy.* projects. | NimaAra | 260 |
+| 19 |  [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) | Command line parsing and utilities for .NET | natemcmaster | 1245 |
+| 20 |  [Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) | Analogy Log Viewer Application (using DevExpress UI Library) | Analogy-LogViewer | 11 |
+| 21 |  [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) | Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture. | kgrzybek | 584 |
+| 22 |  [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | Google's Material Design in XAML & WPF, for C# & VB.Net. | MaterialDesignInXAML | 8391 |
+| 23 |  [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | Clean Architecture Solution Template for Angular 8 and .NET Core 3.1 | jasontaylordev | 1185 |
+| 24 |  [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) | :cyclone: Clean Architecture with .NET Core 3.1 and C# 8. Use cases as central organizing structure, completely testable, decoupled from frameworks | ivanpaulovich | 1247 |
+| 25 |  [Pfim](https://github.com/nickbabcock/Pfim) | .NET Standard targa (.tga) and direct draw surface (.dds) image decoder | nickbabcock | 37 |
+| 26 |  [microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications | microsoft | 2192 |
+| 27 |  [CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) | Creates a process in a different Windows session | murrayju | 185 |
+| 28 |  [SmartEnum](https://github.com/ardalis/SmartEnum) | A base class for quickly and easily creating strongly typed enum replacements in C#. | ardalis | 341 |
+| 29 |  [dotnet-win32-service](https://github.com/dasMulli/dotnet-win32-service) | Helper classes to set up and run as windows services directly on .net core. A ServiceBase alternative. | dasMulli | 409 |
+| 30 |  [Networker](https://github.com/MarkioE/Networker) | A simple to use TCP and UDP networking library for .NET. Compatible with Unity. | MarkioE | 375 |
+| 31 |  [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) | :bathtub:  Clean Code concepts and tools adapted for .NET | thangchung | 1931 |
+| 32 |  [WinApi](https://github.com/prasannavl/WinApi) | A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop | prasannavl | 544 |
+| 33 |  [pinvoke-interop-assistant](https://github.com/jaredpar/pinvoke-interop-assistant) | PInvoke Interop Assistant | jaredpar | 191 |
+| 34 |  [pinvoke](https://github.com/AArnott/pinvoke) | A library containing all P/Invoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS. | AArnott | 779 |
+| 35 |  [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | A starting point for Clean Architecture with ASP.NET Core | ardalis | 3969 |
+| 36 |  [Avalonia](https://github.com/AvaloniaUI/Avalonia) | A multi-platform .NET UI framework | AvaloniaUI | 8223 |
+| 37 |  [wabbajack](https://github.com/wabbajack-tools/wabbajack) | A mod list downloader & installer for Skyrim/Oblivion and Fallout games | wabbajack-tools | 159 |
+| 38 |  [Chordious](https://github.com/jonthysell/Chordious) | Fretboard diagram generator for fretted stringed instruments. | jonthysell | 18 |
+| 39 |  [SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. | mono | 1591 |
+| 40 |  [SharpVectors](https://github.com/ElinamLLC/SharpVectors) | SharpVectors - SVG# Reloaded: SVG DOM and Rendering in C# for the .Net. | ElinamLLC | 199 |
+| 41 |  [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | jellyfin | 5700 |
+| 42 |  [Sharpen](https://github.com/sharpenrocks/Sharpen) | Visual Studio extension that intelligently introduces new C# features into your existing code base | sharpenrocks | 249 |
+| 43 |  [Pansies](https://github.com/PoshCode/Pansies) | Powershell ANSI Escape Sequences, functions for colored output, etc. | PoshCode | 74 |
+| 44 |  [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | PowerShell | 18007 |
+| 45 |  [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) | Fluent migrations framework for .NET | fluentmigrator | 2119 |
+| 46 |  [Automaton](https://github.com/metherul/Automaton) | The open modpack platform. | metherul | 58 |
+| 47 |  [gui.cs](https://github.com/migueldeicaza/gui.cs) | Console-based user interface toolkit for .NET applications. | migueldeicaza | 3176 |
+| 48 |  [FastReport](https://github.com/FastReports/FastReport) | Reporting tool for .NET Core/.NET Framework that helps your application generate document-like reports | FastReports | 921 |
+| 49 |  [FluentEmail](https://github.com/lukencode/FluentEmail) | .NET Core email sending | lukencode | 1012 |
+| 50 |  [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) | Enterprise HealthChecks for ASP.NET Core Diagnostics Package | Xabaril | 1319 |
+| 51 |  [AngularASPNETCoreOAuth](https://github.com/mmacneil/AngularASPNETCoreOAuth) | Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4 | mmacneil | 166 |
+| 52 |  [aspnetcore-vueclimiddleware](https://github.com/EEParker/aspnetcore-vueclimiddleware) | Helpers for building single-page applications on ASP.NET MVC Core using Vue Cli or Quasar Cli. | EEParker | 142 |
+| 53 |  [ASPCoreVueCLITemplate](https://github.com/ow-en/ASPCoreVueCLITemplate) | ASP.NET Core 2.1 with Vue.js (vue-cli3 & webpack 4), Typescript, EF Core | ow-en | 51 |
+| 54 |  [zerosharp](https://github.com/MichalStrehovsky/zerosharp) | Demo of the potential of C# for systems programming with CoreRT | MichalStrehovsky | 906 |
+| 55 |  [SHFB](https://github.com/EWSoftware/SHFB) | Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools. | EWSoftware | 1574 |
+| 56 |  [dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) | Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End. | ttu | 200 |
+| 57 |  [Logazmic](https://github.com/ihtfw/Logazmic) | Windows log viewer for log4j | ihtfw | 43 |
+| 58 |  [CodeConverter](https://github.com/icsharpcode/CodeConverter) | Convert code from C# to VB.NET and vice versa using Roslyn | icsharpcode | 266 |
+| 59 |  [coravel](https://github.com/jamesmh/coravel) | Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze! | jamesmh | 1088 |
+| 60 |  [PowerShell-IIS-Examples](https://github.com/OctopusDeploy/PowerShell-IIS-Examples) | Examples showing how to do everything with IIS and PowerShell | OctopusDeploy | 53 |
+| 61 |  [uap-csharp](https://github.com/ua-parser/uap-csharp) | C# implementation of ua-parser | ua-parser | 179 |
+| 62 |  [Fleck](https://github.com/statianzo/Fleck) | C# Websocket Implementation | statianzo | 1480 |
+| 63 |  [AlphaFS](https://github.com/alphaleonis/AlphaFS) | AlphaFS is a .NET library providing more complete Win32 file system functionality to the .NET platform than the standard System.IO classes. | alphaleonis | 435 |
+| 64 |  [AsyncUsageAnalyzers](https://github.com/DotNetAnalyzers/AsyncUsageAnalyzers) | Now superseded by Microsoft/vs-threading | DotNetAnalyzers | 108 |
+| 65 |  [azure-devops-release-notes](https://github.com/Azure-Samples/azure-devops-release-notes) | A serverless release note generator for Azure DevOps | Azure-Samples | 37 |
+| 66 |  [duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | duplicati | 4854 |
+| 67 |  [OpenDBDiff](https://github.com/OpenDBDiff/OpenDBDiff) | A database comparison tool for Microsoft SQL Server 2005+ that reports schema differences and creates a synchronization script. | OpenDBDiff | 279 |
+| 68 |  [EFDesigner](https://github.com/msawczyn/EFDesigner) | Entity Framework visual design surface and code-first code generation for EF6, Core and beyond | msawczyn | 175 |
+| 69 |  [CsprojToVs2017](https://github.com/hvanbakel/CsprojToVs2017) | Tooling for converting pre 2017 project to the new Visual Studio 2017 format. | hvanbakel | 749 |
+| 70 |  [arduino-st4](https://github.com/kevinferrare/arduino-st4) | A PC-Telescope interface built around an arduino | kevinferrare | 45 |
+| 71 |  [SAML2](https://github.com/i8beef/SAML2) |  | i8beef | 49 |
+| 72 |  [SmartBreadcrumbs](https://github.com/zHaytam/SmartBreadcrumbs) | A utility library for ASP.NET Core (both MVC and Razor Pages) websites to easily add and customize breadcrumbs. | zHaytam | 69 |
+| 73 |  [OAuth2-OpenIDConnect-JWT-Samples](https://github.com/HamidMosalla/OAuth2-OpenIDConnect-JWT-Samples) | Policy-based authorization for web API using JWT and identityserver4 and Asp.Net Core 2. | HamidMosalla | 35 |
+| 74 |  [log2console](https://github.com/Statyk7/log2console) | Simple Log Viewer for development for log4net, log4j, NLog... | Statyk7 | 107 |
+| 75 |  [Depressurizer](https://github.com/Depressurizer/Depressurizer) | A Steam library categorizing tool. | Depressurizer | 898 |
+| 76 |  [rssheap](https://github.com/mausba/rssheap) | An advanced web and mobile based RSS reader for software developers built on the .NET platform | mausba | 20 |
+| 77 |  [DnsServer](https://github.com/TechnitiumSoftware/DnsServer) | Technitium DNS Server | TechnitiumSoftware | 387 |
+| 78 |  [KerberosConfigMgrIIS](https://github.com/SurajDixit/KerberosConfigMgrIIS) | Kerberos Configuration Manager for IIS | SurajDixit | 23 |
+| 79 |  [GitVersion](https://github.com/GitTools/GitVersion) | Easy Semantic Versioning (http://semver.org) for projects using Git | GitTools | 1515 |
+| 80 |  [TotalTfsMigrationTool](https://github.com/pmiossec/TotalTfsMigrationTool) | Improvement over https://totaltfsmigration.codeplex.com used to migrate workitems from one Tfs project to another | pmiossec | 21 |
+| 81 |  [ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) | With Razor Pages | jbogard | 645 |
+| 82 |  [TestSSLServer](https://github.com/pornin/TestSSLServer) |  | pornin | 101 |
+| 83 |  [OctoPosh](https://github.com/Dalmirog/OctoPosh) | The Octopus Deploy Powershell module | Dalmirog | 93 |
+| 84 |  [peachpie-wordpress](https://github.com/iolevel/peachpie-wordpress) | WordPress running on .NET Core. | iolevel | 176 |
+| 85 |  [fancy-comments](https://github.com/ClydeDz/fancy-comments) | Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML. | ClydeDz | 2 |
+| 86 |  [MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) | :arrows_counterclockwise: &#34;AutoMapper&#34; like, Roslyn based, code fix provider that allows to generate mapping code in design time. | cezarypiatek | 447 |
+| 87 |  [LtiLibrary](https://github.com/LtiLibrary/LtiLibrary) | LTI 1.1.1 library for .NET Applications. | LtiLibrary | 54 |
+| 88 |  [NuGet.Lucene](https://github.com/themotleyfool/NuGet.Lucene) | NuGet package server powered by Lucene.Net.Linq | themotleyfool | 64 |
+| 89 |  [dsc-generator](https://github.com/kevinsea/dsc-generator) | PowerShell Desired State Configuration (DSC) Generator | kevinsea | 48 |
+| 90 |  [opencover](https://github.com/OpenCover/opencover) | A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points | OpenCover | 1163 |
+| 91 |  [JevonsCameraViewer](https://github.com/J-east/JevonsCameraViewer) | An app for viewing multiple video streams from USB cameras. Low cost real time eye tracking. You can rotate and mirror the images and also use a variety of filters. Easily take screenshots. Very useful for c270 hacks. Exposure lock and some openCV examples included | J-east | 72 |
+| 92 |  [DevOps-VSTS-Bot](https://github.com/ALM-Rangers/DevOps-VSTS-Bot) | Making Visual Studio Team Services (VSTS) part of your daily digital conversations | ALM-Rangers | 57 |
+| 93 |  [TfsWorkspacesCleaner](https://github.com/jelledruyts/TfsWorkspacesCleaner) | TFS Workspaces Cleaner deletes Team Foundation Server workspaces that have not been accessed in a number of days, along with their files locally on disk. | jelledruyts | 23 |
+| 94 |  [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | A powerful tool for managing networks and troubleshoot network problems! | BornToBeRoot | 943 |
+| 95 |  [Lidarr](https://github.com/lidarr/Lidarr) | Looks and smells like Sonarr but made for music. | lidarr | 1370 |
+| 96 |  [Wax](https://github.com/tom-englert/Wax) | An interactive editor for WiX setup projects. | tom-englert | 145 |
+| 97 |  [coverlet](https://github.com/tonerdo/coverlet) | Cross platform code coverage for .NET | tonerdo | 1567 |
+| 98 |  [corert](https://github.com/dotnet/corert) | This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain. | dotnet | 2586 |
+| 99 |  [Vault.NET](https://github.com/Chatham/Vault.NET) | .NET API client for vault | Chatham | 68 |
+| 100 |  [VaultSharp](https://github.com/rajanadar/VaultSharp) | A cross-platform .NET Library for HashiCorp's Vault (Secret Management System) - http://rajanadar.github.io/VaultSharp/ | rajanadar | 184 |
+| 101 |  [SAML2](https://github.com/elerch/SAML2) | Fork of SAML2 library on codeplex. This library removes dependencies on Asp.net | elerch | 89 |
+| 102 |  [sentinel](https://github.com/yarseyah/sentinel) | Sentinel is a log-viewer with configurable filtering and highlighting (foreground/background colours) | yarseyah | 129 |
+| 103 |  [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) | [Archived] Microsoft ASP.NET Core JavaScript Services. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 3154 |
+| 104 |  [SWYH](https://github.com/StreamWhatYouHear/SWYH) | Stream the sound from your PC to an UPnP/DLNA device | StreamWhatYouHear | 294 |
+| 105 |  [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) | Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more | zzzprojects | 1382 |
+| 106 |  [server](https://github.com/bitwarden/server) | The core infrastructure backend (API, database, Docker, etc). | bitwarden | 4927 |
+| 107 |  [GameSrv](https://github.com/rickparrish/GameSrv) | A BBS door game server for Windows and Linux written in C# | rickparrish | 71 |
+| 108 |  [PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) | Sample OSS version of PolicyServer | PolicyServer | 416 |
+| 109 |  [VSSDK-Extensibility-Samples](https://github.com/microsoft/VSSDK-Extensibility-Samples) | Samples for building your own Visual Studio extensions | microsoft | 890 |
+| 110 |  [StarWars](https://github.com/JacekKosciesza/StarWars) | GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core | JacekKosciesza | 498 |
+| 111 |  [NiceHashMiner](https://github.com/nicehash/NiceHashMiner) | NiceHash Miner | nicehash | 1180 |
+| 112 |  [sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) | SonarQube Scanner for MSBuild | SonarSource | 187 |
+| 113 |  [Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers. | Jackett | 3888 |
+| 114 |  [VSIX.TidyCSharp](https://github.com/Geeksltd/VSIX.TidyCSharp) | See here: | Geeksltd | 20 |
+| 115 |  [JexusManager](https://github.com/jexuswebserver/JexusManager) | Jexus Manager http://jexusmanager.com | jexuswebserver | 159 |
+| 116 |  [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) | Adds events for entity inserting, inserted, updating, updated, deleting, and deleted | NickStrupat | 274 |
+| 117 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 1556 |
+| 118 |  [NPoco](https://github.com/schotime/NPoco) | Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco | schotime | 715 |
+| 119 |  [toucan](https://github.com/mrellipse/toucan) | Boilerplate template using Vue.js, TypeScript and .NET Core 2.1, based on SOLID design principles | mrellipse | 215 |
+| 120 |  [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) | Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects. | dodyg | 4474 |
+| 121 |  [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) | Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts | EduardoPires | 3463 |
+| 122 |  [efcore](https://github.com/dotnet/efcore) | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. | dotnet | 8796 |
+| 123 |  [ef6](https://github.com/dotnet/ef6) | This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/dotnet/efcore. | dotnet | 1108 |
+| 124 |  [identityserver-admin-dashboard](https://github.com/waqaskhan540/identityserver-admin-dashboard) | IdentityServer with admin UI for dynamic configuration of clients, users and resources. | waqaskhan540 | 12 |
+| 125 |  [RefactoringEssentials](https://github.com/icsharpcode/RefactoringEssentials) | Refactoring Essentials for Visual Studio | icsharpcode | 630 |
+| 126 |  [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) | Small package to allow adding security headers to ASP.NET Core websites | andrewlock | 169 |
+| 127 |  [ImageSharp](https://github.com/SixLabors/ImageSharp) | :camera: A modern, cross-platform, 2D Graphics library for .NET | SixLabors | 3761 |
+| 128 |  [IdentityServerExternalAuth](https://github.com/waqaskhan540/IdentityServerExternalAuth) | A solution for exchanging external (Facebook,Google,Twitter etc) tokens with IdentityServer access token. | waqaskhan540 | 103 |
+| 129 |  [nlog-targets-seq](https://github.com/datalust/nlog-targets-seq) | An NLog target that writes events to Seq. Built for NLog 4.5+. | datalust | 9 |
+| 130 |  [FilterLists](https://github.com/collinbarrett/FilterLists) | :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances. | collinbarrett | 439 |
+| 131 |  [openiddict-core](https://github.com/openiddict/openiddict-core) | Versatile OpenID Connect stack for ASP.NET 4.x and ASP.NET Core 2.x/3.x | openiddict | 1042 |
+| 132 |  [Depressurizer](https://github.com/Theo47/Depressurizer) | Depressurizer is a program that helps you categorize your steam games. | Theo47 | 633 |
+| 133 |  [Electron.NET](https://github.com/ElectronNET/Electron.NET) | Build cross platform desktop apps with ASP.NET Core. | ElectronNET | 4239 |
+| 134 |  [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. | dotnet-architecture | 12955 |
+| 135 |  [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) | Sample ASP.NET Core 3.1 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder. | dotnet-architecture | 4048 |
+| 136 |  [IdentityModel](https://github.com/IdentityModel/IdentityModel) | .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect. | IdentityModel | 536 |
+| 137 |  [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) | OpenID Connect and OAuth 2.0 Framework for ASP.NET Core | IdentityServer | 5987 |
+| 138 |  [cloudscribe.Web.Navigation](https://github.com/cloudscribe/cloudscribe.Web.Navigation) | ASP.NET Core MVC ViewComponent for navigation menus and breadcrumbs | cloudscribe | 64 |
+| 139 |  [Playnite](https://github.com/JosefNemec/Playnite) | Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Including game emulation support, providing one unified interface for your games. | JosefNemec | 2269 |
+| 140 |  [refit](https://github.com/reactiveui/refit) | The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. | reactiveui | 3879 |
+| 141 |  [MemoScope.Net](https://github.com/fremag/MemoScope.Net) | Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd ) | fremag | 569 |
+| 142 |  [MemAnalyzer](https://github.com/Alois-xx/MemAnalyzer) | A command line memory analysis tool for managed code. | Alois-xx | 71 |
+| 143 |  [HintsInterceptor](https://github.com/DennesTorres/HintsInterceptor) | Interceptor para aplicação de query hints do SQL Server no Entity Framework | DennesTorres | 9 |
+| 144 |  [SqlNexus](https://github.com/microsoft/SqlNexus) | SQL Nexus is a tool that helps you identify the root cause of SQL Server performance issues. It loads and analyzes performance data collected by  SQLDiag and  PSSDiag. It can dramatically reduce the amount of time you spend manually analyzing data. | microsoft | 175 |
+| 145 |  [sql-hunting-dog](https://github.com/bugzinga/sql-hunting-dog) | Quick Search Tool (AddIn) for Microsoft SQL Management Studio | bugzinga | 22 |
+| 146 |  [Roslynator](https://github.com/JosefPihrt/Roslynator) | A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn. | JosefPihrt | 1647 |
+| 147 |  [Blazor](https://github.com/SteveSanderson/Blazor) | MOVED: Please see the new repo at https://github.com/aspnet/blazor | SteveSanderson | 1760 |
+| 148 |  [LDAPCP](https://github.com/Yvand/LDAPCP) | This claims provider connects SharePoint 2019 / 2016 / 2013 with Active Directory and LDAP servers to enhance people picker with a great search experience in federated authentication (typically ADFS) | Yvand | 43 |
+| 149 |  [ACMESharp](https://github.com/ebekker/ACMESharp) | An ACME client library and PowerShell client for the .NET platform (Let's Encrypt) | ebekker | 1133 |
+| 150 |  [win-acme](https://github.com/win-acme/win-acme) | A simple ACME client for Windows (for use with Let's Encrypt et al.) | win-acme | 3444 |
+| 151 |  [ipnetwork](https://github.com/lduchosal/ipnetwork) | IPNetwork command line and C# library take care of complex network, IP, IPv4, IPv6, netmask, CIDR, subnet, subnetting, supernet, and supernetting calculation for .NET developers. It works with IPv4 as well as IPv6, is written in C#, has a light and clean API, and is fully unit-tested | lduchosal | 217 |
+| 152 |  [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | Powerful .NET library for benchmarking | dotnet | 5100 |
+| 153 |  [SecurityDriven.TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM) | .NET micro ORM done right. | sdrapkin | 271 |
+| 154 |  [Terminals](https://github.com/Terminals-Origin/Terminals) | Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex. | Terminals-Origin | 818 |
+| 155 |  [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) | Driver Store Explorer [RAPR] | lostindark | 1753 |
+| 156 |  [SoundSwitch](https://github.com/Belphemur/SoundSwitch) | C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/ | Belphemur | 839 |
+| 157 |  [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) | Creative and unusual things that can be done with the Windows API. | LazoCoder | 1974 |
+| 158 |  [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. | JustArchiNET | 4864 |
+| 159 |  [Saml2](https://github.com/Sustainsys/Saml2) | Saml2 Authentication services for ASP.NET | Sustainsys | 634 |
+| 160 |  [TfsTeamProjectManager](https://github.com/jelledruyts/TfsTeamProjectManager) | TFS Team Project Manager automates various tasks across Team Projects in Team Foundation Server. If you find yourself managing multiple Team Projects for an organization and have recurring tasks and questions that repeat themselves over and over again, Team Project Manager probably has some answers for you. | jelledruyts | 142 |
+| 161 |  [idle_master](https://github.com/jshackles/idle_master) | Get your Steam Trading Cards the Easy Way | jshackles | 1464 |
+| 162 |  [Radarr](https://github.com/Radarr/Radarr) | A fork of Sonarr to work with movies à la Couchpotato. | Radarr | 3838 |
+| 163 |  [VidCoder](https://github.com/RandomEngy/VidCoder) | A Blu-ray, DVD and video file transcoder for Windows. | RandomEngy | 271 |
+| 164 |  [Scientist.net](https://github.com/scientistproject/Scientist.net) | A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library | scientistproject | 1156 |
+| 165 |  [SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress) | SQL query stress simulator created by Adam Machanic http://sqlblog.com/blogs/adam_machanic/archive/2016/01/04/sqlquerystress-the-source-code.aspx | ErikEJ | 390 |
+| 166 |  [Aerial](https://github.com/cDima/Aerial) | Aerial Apple TV screen saver for Windows | cDima | 1570 |
+| 167 |  [Statiq.Web](https://github.com/statiqdev/Statiq.Web) | The flexible static site generator formerly known as Wyam (first Statiq Web releases coming soon). | statiqdev | 1200 |
+| 168 |  [openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) | Open Hardware Monitor | openhardwaremonitor | 2290 |
+| 169 |  [MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) | An extensible Markdown Editor, Viewer and Weblog Publisher for Windows | RickStrahl | 864 |
+| 170 |  [aspnet-api-versioning](https://github.com/microsoft/aspnet-api-versioning) | Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core. | microsoft | 1587 |
+| 171 |  [WestWindWebSurge](https://github.com/RickStrahl/WestWindWebSurge) | Quick and easy URL and Load Testing for your Web applications on Windows | RickStrahl | 307 |
+| 172 |  [Netling](https://github.com/hallatore/Netling) | Netling is a load tester client for easy web testing. | hallatore | 1085 |
+| 173 |  [OptiKey](https://github.com/OptiKey/OptiKey) | OptiKey - Full computer control and speech with your eyes | OptiKey | 3715 |
+| 174 |  [TimberWinR](https://github.com/TerribleDev/TimberWinR) | A First-class Native Windows to Redis/Elasticsearch Logstash Agent utilizing Microsoft's LogParser | TerribleDev | 66 |
+| 175 |  [dnSpy](https://github.com/0xd4d/dnSpy) | .NET debugger and assembly editor | 0xd4d | 13546 |
+| 176 |  [tModLoader](https://github.com/tModLoader/tModLoader) | Create and play Terraria mods with tModLoader | tModLoader | 874 |
+| 177 |  [Bridge](https://github.com/bridgedotnet/Bridge) | :spades: C# to JavaScript compiler. Write modern mobile and web apps in C#. Run them anywhere in JavaScript with Bridge.NET. | bridgedotnet | 1988 |
+| 178 |  [Coderr.Server](https://github.com/coderrio/Coderr.Server) | Replace logfiles with Coderr to correct bugs faster and more efficiently. | coderrio | 87 |
+| 179 |  [peachpie](https://github.com/peachpiecompiler/peachpie) | PeachPie - the PHP compiler and runtime for .NET and .NET Core | peachpiecompiler | 1445 |
+| 180 |  [sharpsnmplib](https://github.com/lextudio/sharpsnmplib) | Sharp SNMP Library- Open Source SNMP for .NET and Mono | lextudio | 221 |
+| 181 |  [Harvester](https://github.com/cbaxter/Harvester) | Debug Viewer for Trace, NLog & Log4Net | cbaxter | 34 |
+| 182 |  [SSH.NET](https://github.com/sshnet/SSH.NET) | SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism. | sshnet | 1846 |
+| 183 |  [fast-member](https://github.com/mgravell/fast-member) | Automatically exported from code.google.com/p/fast-member | mgravell | 599 |
+| 184 |  [server](https://github.com/Ulterius/server) | [WIP] Ulterius™ server where all the magic happens :rocket: :feelsgood: | Ulterius | 596 |
+| 185 |  [im-only-resting](https://github.com/SwensenSoftware/im-only-resting) | A feature-rich WinForms-based HTTP client | SwensenSoftware | 142 |
+| 186 |  [resizer](https://github.com/imazen/resizer) | The official repository for ImageResizer | imazen | 458 |
+| 187 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 8053 |
+| 188 |  [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software | thangchung | 11473 |
+| 189 |  [RouteMagic](https://github.com/haacked/RouteMagic) | Utility Library to get the most out of ASP.NET Routing. | haacked | 177 |
+| 190 |  [NSwag](https://github.com/RicoSuter/NSwag) | The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. | RicoSuter | 3287 |
+| 191 |  [NAudio](https://github.com/naudio/NAudio) | Audio and MIDI library for .NET | naudio | 2423 |
+| 192 |  [Scripty](https://github.com/daveaglick/Scripty) | Tools to let you use Roslyn-powered C# scripts for code generation | daveaglick | 589 |
+| 193 |  [NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) | Create, update and deploy Nuget Packages with a GUI | NuGetPackageExplorer | 1460 |
+| 194 |  [DbUp](https://github.com/DbUp/DbUp) | DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date. | DbUp | 1156 |
+| 195 |  [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) | Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles. | IgnaceMaes | 1945 |
+| 196 |  [ExpressMapper](https://github.com/fluentsprings/ExpressMapper) | Mapping .Net types | fluentsprings | 288 |
+| 197 |  [Mapster](https://github.com/MapsterMapper/Mapster) | A fast, fun and stimulating object to object Mapper | MapsterMapper | 582 |
+| 198 |  [Flurl](https://github.com/tmenier/Flurl) | Fluent URL builder and testable HTTP client for .NET | tmenier | 1979 |
+| 199 |  [seb-win](https://github.com/SafeExamBrowser/seb-win) | Safe Exam Browser for Windows | SafeExamBrowser | 49 |
+| 200 |  [CefSharp](https://github.com/cefsharp/CefSharp) | .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework | cefsharp | 6753 |
+| 201 |  [cake](https://github.com/cake-build/cake) | Cake (C# Make) is a cross platform build automation system. | cake-build | 2466 |
+| 202 |  [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) | Math.NET Numerics | mathnet | 2087 |
+| 203 |  [VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller) | Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts. | microsoft | 3317 |
+| 204 |  [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 6305 |
+| 205 |  [PSReadLine](https://github.com/PowerShell/PSReadLine) | A bash inspired readline implementation for PowerShell | PowerShell | 1392 |
+| 206 |  [LINQPad.QueryPlanVisualizer](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer) | SQL Server query execution plan visualizer for LINQPad | Giorgi | 157 |
+| 207 |  [GamePipe](https://github.com/DjScribbles/GamePipe) | An application that automates the movement of Steam games from drive to drive or computer to computer | DjScribbles | 169 |
+| 208 |  [docfx](https://github.com/dotnet/docfx) | Tools for building and publishing API documentation for .NET projects | dotnet | 2110 |
+| 209 |  [MailKit](https://github.com/jstedfast/MailKit) | A cross-platform .NET library for IMAP, POP3, and SMTP. | jstedfast | 3177 |
+| 210 |  [System.Linq.Dynamic](https://github.com/kahanu/System.Linq.Dynamic) | This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality. | kahanu | 385 |
+| 211 |  [LinqStatistics](https://github.com/dkackman/LinqStatistics) | Linq extensions to calculate basic statistics | dkackman | 51 |
+| 212 |  [logwizard](https://github.com/jtorjo/logwizard) | Log Wizard - a Log Viewer that is easy and fun to use! | jtorjo | 239 |
+| 213 |  [SteamCleaner](https://github.com/Codeusa/SteamCleaner) | :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us: | Codeusa | 1534 |
+| 214 |  [Baconit](https://github.com/QuinnDamerell/Baconit) | A beatiful, powerful, reddit client for Windows 10. | QuinnDamerell | 215 |
+| 215 |  [OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) | An open source fork of Windows Live Writer | OpenLiveWriter | 2297 |
+| 216 |  [FileHelpers](https://github.com/MarcosMeli/FileHelpers) | The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams | MarcosMeli | 836 |
+| 217 |  [VSSpellChecker](https://github.com/EWSoftware/VSSpellChecker) | A Visual Studio spell checker editor extension that checks the spelling of comments, strings, and plain text as you type.  Supports configuration and various languages. | EWSoftware | 300 |
+| 218 |  [Ninject](https://github.com/ninject/Ninject) | the ninja of .net dependency injectors | ninject | 2323 |
+| 219 |  [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions) | Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provides a predicate system. The goal of this library is to keep your POCOs pure by not requiring any attributes or base class inheritance. | tmsmith | 1342 |
+| 220 |  [FrequencyTracker](https://github.com/bsamuels453/FrequencyTracker) | Useful for figuring out the source of unknown signals when exploring the radio spectrum. | bsamuels453 | 7 |
+| 221 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 4191 |
+| 222 |  [stuntman](https://github.com/ritterim/stuntman) | Library for impersonating users during development leveraging ASP.NET Identity. | ritterim | 262 |
+| 223 |  [kudu](https://github.com/projectkudu/kudu) | Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure. | projectkudu | 2514 |
+| 224 |  [CsvHelper](https://github.com/JoshClose/CsvHelper) | Library to help reading and writing CSV files | JoshClose | 2686 |
+| 225 |  [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ShareX | 11828 |
+| 226 |  [bukkitgui2](https://github.com/Bertware/bukkitgui2) | A completely new version of BukkitGUI , which is easier in use, faster, and more powerful | Bertware | 59 |
+| 227 |  [snaketail-net](https://github.com/snakefoot/snaketail-net) | Tail utility for monitoring text log files and Windows EventLog | snakefoot | 226 |
+| 228 |  [nodejstools](https://github.com/microsoft/nodejstools) | Node.js Tools for Visual Studio | microsoft | 1757 |
+| 229 |  [acat](https://github.com/intel/acat) | Assistive Context-Aware Toolkit (ACAT) | intel | 3097 |
+| 230 |  [Jackett](https://github.com/zone117x/Jackett) | Use just about any tracker with Sonarr | zone117x | 126 |
+| 231 |  [Markdown-Edit](https://github.com/mike-ward/Markdown-Edit) | My attempt at a markdown editor for windows | mike-ward | 678 |
+| 232 |  [overrideexplorer](https://github.com/dani3l3/overrideexplorer) | Override Explorer for SCOM 2012 | dani3l3 | 5 |
+| 233 |  [mpviewer](https://github.com/dani3l3/mpviewer) | MPViewer tool for System Center 2012 Operations Manager | dani3l3 | 8 |
+| 234 |  [TerrariaPatcher](https://github.com/dougbenham/TerrariaPatcher) |  | dougbenham | 25 |
+| 235 |  [JustDecompileEngine](https://github.com/telerik/JustDecompileEngine) | The decompilation engine of JustDecompile | telerik | 1095 |
+| 236 |  [ILSpy](https://github.com/icsharpcode/ILSpy) | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! | icsharpcode | 9666 |
+| 237 |  [jint](https://github.com/sebastienros/jint) | Javascript Interpreter for .NET | sebastienros | 1768 |
+| 238 |  [Total-Uninstaller](https://github.com/tsasioglu/Total-Uninstaller) | Windows software uninstaller | tsasioglu | 241 |
+| 239 |  [AutoMapper.EF6](https://github.com/AutoMapper/AutoMapper.EF6) | Extensions for AutoMapper and EF6 | AutoMapper | 123 |
+| 240 |  [IdentityServer3](https://github.com/IdentityServer/IdentityServer3) | OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana | IdentityServer | 2066 |
+| 241 |  [NLog.Owin.Logging](https://github.com/NLog/NLog.Owin.Logging) | NLog logging adapter for OWIN | NLog | 24 |
+| 242 |  [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) | Official PetaPoco, A tiny ORM-ish thing for your POCO's | CollaboratingPlatypus | 1669 |
+| 243 |  [Simple.Data](https://github.com/markrendle/Simple.Data) | A light-weight, dynamic data access component for C# 4.0 | markrendle | 1341 |
+| 244 |  [Massive](https://github.com/FransBouma/Massive) | A small, happy, dynamic MicroORM for .NET that will love you forever. | FransBouma | 1755 |
+| 245 |  [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) | Download ScriptAnalyzer from PowerShellGallery | PowerShell | 903 |
+| 246 |  [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) | Seamlessly adds a swagger to WebApi projects! | domaindrivendev | 2837 |
+| 247 |  [SpaceEngineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) |  | KeenSoftwareHouse | 2713 |
+| 248 |  [KSP-Mod-Admin-aOS](https://github.com/MacTee/KSP-Mod-Admin-aOS) | A tool to manage the installation, removal and update of mods for the game Kerbal Space Program. ---------&gt; Use the dev branch for further development!!! | MacTee | 29 |
+| 249 |  [dot42](https://github.com/dot42/dot42) | Compiler tools | dot42 | 73 |
+| 250 |  [Craft.Net](https://github.com/ddevault/Craft.Net) | (Unmaintained, see TrueCraft) Minecraft server, client, and etc for .NET | ddevault | 215 |
+| 251 |  [TrueCraft](https://github.com/ddevault/TrueCraft) | Minecraft for hipsters | ddevault | 1926 |
+| 252 |  [TShock](https://github.com/Pryaxis/TShock) | ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. | Pryaxis | 979 |
+| 253 |  [RemoteAdminConsole](https://github.com/Grandpa-G/RemoteAdminConsole) | Allows remote administrator to manage TShock server | Grandpa-G | 4 |
+| 254 |  [ReSharper.AutoFormatOnSave](https://github.com/pedropombeiro/ReSharper.AutoFormatOnSave) | An addin for Visual Studio which causes the documents to be reformated on save | pedropombeiro | 27 |
+| 255 |  [Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor) | TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers! | TEdit | 483 |
+| 256 |  [HyperFastCgi](https://github.com/xplicit/HyperFastCgi) | Performant nginx to mono fastcgi server | xplicit | 124 |
+| 257 |  [roadkill](https://github.com/roadkillwiki/roadkill) | A modern .NET Wiki | roadkillwiki | 270 |
+| 258 |  [depressurizer](https://github.com/rallion/depressurizer) |  | rallion | 802 |
+| 259 |  [Jil](https://github.com/kevin-montrose/Jil) | Fast .NET JSON (De)Serializer, Built On Sigil | kevin-montrose | 1979 |
+| 260 |  [SimpleSpeedTester](https://github.com/theburningmonk/SimpleSpeedTester) | SimpleSpeedTester is a simple, easy to use framework that helps you speed test your .Net code by taking care of some of the orchestration for you. | theburningmonk | 110 |
+| 261 |  [MiniBench-WIP](https://github.com/mattwarren/MiniBench-WIP) | Somewhere to try out some ideas for MiniBench | mattwarren | 18 |
+| 262 |  [ChameleonForms](https://github.com/MRCollective/ChameleonForms) | Shape-shifting your forms experience in ASP.NET MVC | MRCollective | 245 |
+| 263 |  [RazorEngine](https://github.com/Antaris/RazorEngine) | Open source templating engine based on Microsoft's Razor parsing engine | Antaris | 1858 |
+| 264 |  [scriptcs](https://github.com/scriptcs/scriptcs) | Write C# apps with a text editor, nuget and the power of Roslyn! | scriptcs | 2223 |
+| 265 |  [SignalR](https://github.com/SignalR/SignalR) | Incredibly simple real-time web for .NET | SignalR | 7974 |
+| 266 |  [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) | Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts | MikaelEliasson | 379 |
+| 267 |  [Topshelf](https://github.com/Topshelf/Topshelf) | An easy service hosting framework for building Windows services using .NET | Topshelf | 3153 |
+| 268 |  [carnac](https://github.com/Code52/carnac) | A utility to give some insight into how you use your keyboard | Code52 | 1154 |
+| 269 |  [WebApiProxyGen](https://github.com/AtomStar/WebApiProxyGen) | Generates proxy classes from WebApi 2 using a T4 template on the client and a metadata handler on the server. Built on and inspired by https://github.com/faniereynders/WebApiProxy this uses a T4 template on the client to support multiple endpoints. See Wiki for more info. | AtomStar | 2 |
+| 270 |  [MvcCodeRouting](https://github.com/maxtoroq/MvcCodeRouting) | Namespace-based Modularity for ASP.NET MVC and Web API | maxtoroq | 48 |
+| 271 |  [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) | The WPF-based text editor component used in SharpDevelop | icsharpcode | 913 |
+| 272 |  [sandbox](https://github.com/ritterim/sandbox) | An abstraction utilizing RimDev Automation libraries | ritterim | 14 |
+| 273 |  [WebAPIContrib](https://github.com/WebApiContrib/WebAPIContrib) | Community Contributions for ASP.NET Web API | WebApiContrib | 753 |
+| 274 |  [CKAN](https://github.com/KSP-CKAN/CKAN) | The Comprehensive Kerbal Archive Network | KSP-CKAN | 1053 |
+| 275 |  [Glyphfriend](https://github.com/rionmonster/Glyphfriend) | Glyphfriend is a Visual Studio Extension to add previews for various icon/glyph fonts to Visual Studio. | rionmonster | 152 |
+| 276 |  [LibLog](https://github.com/damianh/LibLog) | LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction. | damianh | 909 |
+| 277 |  [Dapper](https://github.com/StackExchange/Dapper) | Dapper - a simple object mapper for .Net | StackExchange | 12037 |
+| 278 |  [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. | mRemoteNG | 3968 |
+| 279 |  [Exceptionless](https://github.com/exceptionless/Exceptionless) | Exceptionless server and jobs | exceptionless | 1700 |
+| 280 |  [BenchmarkIt](https://github.com/joeyciechanowicz/BenchmarkIt) | Simple easy .NET benchmarking for POCs | joeyciechanowicz | 64 |
+| 281 |  [Hangfire](https://github.com/HangfireIO/Hangfire) | An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required | HangfireIO | 5543 |
+| 282 |  [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | dotnet | 16304 |
+| 283 |  [referencesource](https://github.com/microsoft/referencesource) | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework | microsoft | 2099 |
+| 284 |  [RestSharp](https://github.com/restsharp/RestSharp) | Simple REST and HTTP API Client for .NET | restsharp | 7073 |
+| 285 |  [common-logging](https://github.com/net-commons/common-logging) | A portable logging abstraction for .NET | net-commons | 613 |
+| 286 |  [oneget](https://github.com/OneGet/oneget) | PackageManagement (aka OneGet) is a package manager for Windows | OneGet | 2157 |
+| 287 |  [slow-cheetah](https://github.com/sayedihashimi/slow-cheetah) | XML Transforms for app.config and other XML files | sayedihashimi | 244 |
+| 288 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Yet another guard clause project for .Net C#'ers | danielwertheim | 248 |
+| 289 |  [Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) | Play your favorite games in a borderless window; no more time consuming alt-tabs. | Codeusa | 2483 |
+| 290 |  [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users. | Sonarr | 5070 |
+| 291 |  [monotorrent](https://github.com/alanmcgovern/monotorrent) | The official repository for MonoTorrent, a bittorrent library for .NET | alanmcgovern | 668 |
+| 292 |  [cadru](https://github.com/scottdorman/cadru) | A Microsoft .NET Framework toolkit | scottdorman | 43 |
+| 293 |  [WebApiProxy](https://github.com/RestCode/WebApiProxy) |  | RestCode | 192 |
+| 294 |  [TSqlFlex](https://github.com/nycdotnet/TSqlFlex) | An addon for SSMS using the Red Gate SIP Framework | nycdotnet | 65 |
+| 295 |  [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) | .NET's fastest JSON, JSV and CSV Text Serializers | ServiceStack | 1088 |
+| 296 |  [Thinktecture.IdentityModel](https://github.com/IdentityModel/Thinktecture.IdentityModel) | [deprecated] Thinktecture.IdentityModel | IdentityModel | 395 |
+| 297 |  [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) | Sample implementation of an OAuth2 Authorization Server | IdentityModel | 275 |
+| 298 |  [OwinOAuthProviders](https://github.com/TerribleDev/OwinOAuthProviders) | OAuth providers for Owin | TerribleDev | 471 |
+| 299 |  [codemaid](https://github.com/codecadwallader/codemaid) | CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding. | codecadwallader | 1159 |
+| 300 |  [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) | Add-on feature for Entity Framework | zzzprojects | 1285 |
+| 301 |  [IFix](https://github.com/OsirisTerje/IFix) | Command line utility for fixing miscellaneous stuff within Visual Studio and its tools | OsirisTerje | 8 |
+| 302 |  [MvcMailer](https://github.com/smsohan/MvcMailer) | A Mailer for ASP.Net MVC that forms the Email Body using MVC Views (Razor etc.) following Ruby on Rails ActionMailer style | smsohan | 578 |
+| 303 |  [mustache-sharp](https://github.com/jehugaleahsa/mustache-sharp) | An extension of the mustache text template engine for .NET. | jehugaleahsa | 254 |
+| 304 |  [Craig-s-Utility-Library](https://github.com/JaCraig/Craig-s-Utility-Library) | A giant set of utility classes originally start back in the .Net 2.0 days and updated until .Net Core and .Net Standard became a thing. At which point I took the library and broke it up into a ton of smaller libraries. View my profile for more up to date versions of everything. | JaCraig | 385 |
+| 305 |  [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Json.NET is a popular high-performance JSON framework for .NET | JamesNK | 7636 |
+| 306 |  [PortableRazor](https://github.com/xamarin/PortableRazor) | A lightweight implementation of ASP.NET MVC APIs for mobile devices. | xamarin | 84 |
+| 307 |  [datatables.aspnet](https://github.com/ALMMa/datatables.aspnet) | Microsoft Asp.Net server-side support and helpers for jQuery DataTables | ALMMa | 273 |
+| 308 |  [Nancy](https://github.com/NancyFx/Nancy) | Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono | NancyFx | 7071 |
+| 309 |  [MvcPages](https://github.com/maxtoroq/MvcPages) | MvcPages combines the simplicity of ASP.NET Web Pages with the power of ASP.NET MVC | maxtoroq | 7 |
+| 310 |  [MiniBlog](https://github.com/madskristensen/MiniBlog) | A minimal blog engine using Razor Web Pages | madskristensen | 887 |
+| 311 |  [raven-csharp](https://github.com/getsentry/raven-csharp) | Superseded by: https://github.com/getsentry/sentry-dotnet | getsentry | 234 |
+| 312 |  [owin.dll](https://github.com/owin/owin.dll) | OWIN defines a standard interface between .NET web servers and web applications. | owin | 164 |
+| 313 |  [Nowin](https://github.com/Bobris/Nowin) | Owin Web Server in pure .Net | Bobris | 527 |
+| 314 |  [Opserver](https://github.com/opserver/Opserver) | Stack Exchange's Monitoring System | opserver | 3918 |
+| 315 |  [WebEssentials2013](https://github.com/madskristensen/WebEssentials2013) | Visual Studio extension | madskristensen | 967 |
+| 316 |  [CodeRefractor](https://github.com/ciplogic/CodeRefractor) | MSIL/CIL to Native C++ Compiler | ciplogic | 58 |
+| 317 |  [elmah-mvc](https://github.com/alexbeletsky/elmah-mvc) | Painless integration of ELMAH into ASP.NET MVC application | alexbeletsky | 272 |
+| 318 |  [elmah-contrib-webapi](https://github.com/rdingwall/elmah-contrib-webapi) | Elmah.Contrib.WebApi provides an ASP.NET Web API exception filter, ElmahHandleErrorApiAttribute, for logging errors directly to ELMAH. | rdingwall | 47 |
+| 319 |  [Glimpse](https://github.com/Glimpse/Glimpse) | The open source diagnostics platform for the web | Glimpse | 2261 |
+| 320 |  [NuBuild](https://github.com/brentspell/NuBuild) | NuGet package build system and Visual Studio project templates | brentspell | 44 |
+| 321 |  [NLog](https://github.com/NLog/NLog) | NLog - Advanced and Structured Logging for Various .NET Platforms | NLog | 4353 |
+| 322 |  [NuGetGallery](https://github.com/NuGet/NuGetGallery) | NuGet Gallery is a package repository that powers https://www.nuget.org | NuGet | 1224 |
+| 323 |  [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) | A C# implementation of the OpenID, OAuth protocols | DotNetOpenAuth | 1674 |
+| 324 |  [AutoMapper](https://github.com/AutoMapper/AutoMapper) | A convention-based object-object mapper in .NET. | AutoMapper | 7035 |
+| 325 |  [dotnet](https://github.com/MiniProfiler/dotnet) | A simple but effective mini-profiler for ASP.NET (and Core) websites | MiniProfiler | 1886 |
+| 326 |  [Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) | ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers | filipw | 828 |
+| 327 |  [RequestReduce](https://github.com/mwrock/RequestReduce) | Instantly makes your .net website faster by reducing the number and size of requests with almost no effort. | mwrock | 226 |
+| 328 |  [Tie.Controls.Bootstrap](https://github.com/Patreo/Tie.Controls.Bootstrap) | Twitter Bootstrap Controls for ASP.NET | Patreo | 33 |
+| 329 |  [HidLibrary](https://github.com/mikeobrien/HidLibrary) | This library enables you to enumerate and communicate with Hid compatible USB devices in .NET. | mikeobrien | 334 |
+| 330 |  [git-tfs](https://github.com/git-tfs/git-tfs) | A Git/TFS bridge, similar to git-svn | git-tfs | 1558 |
+| 331 |  [MvcSiteMapProvider](https://github.com/maartenba/MvcSiteMapProvider) | An ASP.NET MVC SiteMapProvider implementation for the ASP.NET MVC framework. | maartenba | 532 |
+
+**[⬆ Back to Index](#-contents)**
+
+## C++
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [dsdcc](https://github.com/f4exb/dsdcc) | Digital Speech Decoder (DSD) rewritten as a C++ library | f4exb | 137 |
+| 2 |  [winmerge](https://github.com/WinMerge/winmerge) | WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. | WinMerge | 731 |
+| 3 |  [screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) | a free open source  windows &#34;screen capture&#34; device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio) | rdp | 1072 |
+| 4 |  [libfacedetection](https://github.com/ShiqiYu/libfacedetection) | An open source library for face detection in images. The face detection speed can reach 1000FPS. | ShiqiYu | 8376 |
+| 5 |  [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows | microsoft | 19536 |
+| 6 |  [openpilot](https://github.com/commaai/openpilot) | open source driving agent | commaai | 14245 |
+| 7 |  [json](https://github.com/nlohmann/json) | JSON for Modern C++ | nlohmann | 17600 |
+| 8 |  [keepassxc](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | keepassxreboot | 7223 |
+| 9 |  [Marlin](https://github.com/MarlinFirmware/Marlin) | Optimized firmware for RepRap 3D printers based on the Arduino platform. | MarlinFirmware | 6864 |
+| 10 |  [devilution](https://github.com/diasurgical/devilution) | Diablo devolved - magic behind the 1996 computer game | diasurgical | 7800 |
+| 11 |  [audio-router](https://github.com/audiorouterdev/audio-router) | Routes audio from programs to different audio devices. | audiorouterdev | 2353 |
+| 12 |  [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Reborn of Classic Shell. | Open-Shell | 1827 |
+| 13 |  [xca](https://github.com/chris2511/xca) | X Certificate and Key management | chris2511 | 354 |
+| 14 |  [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) | An installation and update framework for Windows desktop apps | Squirrel | 5065 |
+| 15 |  [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) | Troubleshooting Tool with Windows Updates (Developed in Dev-C++). | ManuelGil | 99 |
+| 16 |  [cmder](https://github.com/cmderdev/cmder) | Lovely console emulator package for Windows | cmderdev | 20352 |
+| 17 |  [modorganizer](https://github.com/ModOrganizer2/modorganizer) | Mod manager for various PC games. Discord Server: https://discord.gg/cYwdcxj if you would like to be more involved | ModOrganizer2 | 603 |
+| 18 |  [Classic-Shell](https://github.com/coddec/Classic-Shell) | Original code of Classic Shell (v4.3.1), original author Ivo Beltchev | coddec | 519 |
+| 19 |  [veyon](https://github.com/veyon/veyon) | Cross-platform computer monitoring and classroom management | veyon | 444 |
+| 20 |  [OpenJK](https://github.com/JACoders/OpenJK) | Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software | JACoders | 1390 |
+| 21 |  [node-sass](https://github.com/sass/node-sass) | :rainbow: Node.js bindings to libsass | sass | 6999 |
+| 22 |  [sdrangel](https://github.com/f4exb/sdrangel) | SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube | f4exb | 758 |
+| 23 |  [reshade](https://github.com/crosire/reshade) | A generic post-processing injector for games and video software. | crosire | 1247 |
+| 24 |  [modorganizer](https://github.com/TanninOne/modorganizer) | Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV) | TanninOne | 505 |
+| 25 |  [TrinityCore](https://github.com/TrinityCore/TrinityCore) | TrinityCore Open Source MMO Framework (master = 8.3.0.33528, 3.3.5 = 3.3.5a.12340) | TrinityCore | 5968 |
+| 26 |  [vlc-htsp-plugin](https://github.com/BtbN/vlc-htsp-plugin) | Plugin for VLC to access TVHeadend via HTSP. | BtbN | 51 |
+| 27 |  [svxlink](https://github.com/sm0svx/svxlink) | Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client | sm0svx | 186 |
+| 28 |  [rethinkdb](https://github.com/rethinkdb/rethinkdb) | The open-source database for the realtime web. | rethinkdb | 23327 |
+| 29 |  [endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | endless-sky | 2353 |
+| 30 |  [xenia](https://github.com/xenia-project/xenia) | Xbox 360 Emulator Research Project | xenia-project | 4017 |
+| 31 |  [freeablo](https://github.com/wheybags/freeablo) | Modern reimplementation of the Diablo 1 game engine | wheybags | 1930 |
+| 32 |  [jack2](https://github.com/jackaudio/jack2) | jack2 codebase | jackaudio | 1086 |
+| 33 |  [ModSecurity](https://github.com/SpiderLabs/ModSecurity) | ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. | SpiderLabs | 3357 |
+| 34 |  [llilc](https://github.com/dotnet/llilc) | This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms. | dotnet | 1419 |
+| 35 |  [diskspd](https://github.com/microsoft/diskspd) | DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams | microsoft | 565 |
+| 36 |  [ConEmu](https://github.com/Maximus5/ConEmu) | Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more | Maximus5 | 6560 |
+| 37 |  [pioneer](https://github.com/pioneerspacesim/pioneer) | A game of lonely space adventure | pioneerspacesim | 860 |
+| 38 |  [altWinDirStat](https://github.com/ariccio/altWinDirStat) | An unofficial modification of WinDirStat | ariccio | 271 |
+| 39 |  [trunk-recorder](https://github.com/robotastic/trunk-recorder) | Records calls from a Trunked Radio System (P25 & SmartNet) | robotastic | 361 |
+| 40 |  [CubicSDR](https://github.com/cjcliffe/CubicSDR) | Cross-Platform Software-Defined Radio Application | cjcliffe | 1049 |
+| 41 |  [libchaos](https://github.com/maciejczyzewski/libchaos) | Advanced library for randomization, hashing and statistical analysis (devoted to chaos machines). :microscope: | maciejczyzewski | 1624 |
+| 42 |  [SoapySDR](https://github.com/pothosware/SoapySDR) | Vendor and platform neutral SDR support library. | pothosware | 436 |
+| 43 |  [PothosCore](https://github.com/pothosware/PothosCore) | The Pothos data-flow framework | pothosware | 179 |
+| 44 |  [osquery](https://github.com/osquery/osquery) | SQL powered operating system instrumentation, monitoring, and analytics. | osquery | 16568 |
+| 45 |  [openage](https://github.com/SFTtech/openage) | Free (as in freedom) open source clone of the Age of Empires II engine :rocket: | SFTtech | 9444 |
+| 46 |  [virtual-audio-capture-grabber-device](https://github.com/rdp/virtual-audio-capture-grabber-device) | free audio capture device to capture all the &#34;wave out sound&#34; that is playing on your speakers  (i.e. record what you hear) for Windows Vista+.  Releases downloadable in this package: | rdp | 328 |
+| 47 |  [mbelib](https://github.com/szechyjs/mbelib) | P25 Phase 1 and ProVoice vocoder | szechyjs | 150 |
+| 48 |  [RTLSDR-Airband](https://github.com/microtony/RTLSDR-Airband) | RTLSDR AM demodulator, support multiple channels per dongle, intended for x86 and Raspberry Pi | microtony | 77 |
+| 49 |  [dsd](https://github.com/szechyjs/dsd) | Digital Speech Decoder | szechyjs | 379 |
+| 50 |  [rainmeter](https://github.com/rainmeter/rainmeter) | Desktop customization tool for Windows | rainmeter | 2114 |
+| 51 |  [incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) | Automatic PageSpeed optimization module for Nginx | apache | 4157 |
+| 52 |  [edge](https://github.com/tjanczuk/edge) | Run .NET and Node.js code in-process on Windows, MacOS, and Linux | tjanczuk | 4881 |
+| 53 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1101 |
+| 54 |  [EmulationStation](https://github.com/Aloshi/EmulationStation) | A flexible emulator front-end supporting keyboardless navigation and custom system themes. | Aloshi | 1541 |
+
+**[⬆ Back to Index](#-contents)**
+
+## CMake
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [PothosSDR](https://github.com/pothosware/PothosSDR) | Pothos SDR windows development environment | pothosware | 149 |
+
+**[⬆ Back to Index](#-contents)**
+
+## CSS
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [paperless](https://github.com/the-paperless-project/paperless) | Scan, index, and archive all of your paper documents | the-paperless-project | 6483 |
+| 2 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 38760 |
+| 3 |  [screenly-ose](https://github.com/Screenly/screenly-ose) | The most popular digital signage project on Github! | Screenly | 1002 |
+| 4 |  [uswds](https://github.com/uswds/uswds) | The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites. | uswds | 5477 |
+| 5 |  [Muximux](https://github.com/mescon/Muximux) | A lightweight way to manage your HTPC | mescon | 924 |
+| 6 |  [material-kit](https://github.com/creativetimofficial/material-kit) | Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design | creativetimofficial | 5339 |
+| 7 |  [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) | CSS is powerful, you can do a lot of things without JS. | you-dont-need | 13096 |
+| 8 |  [simpsons-in-css](https://github.com/pattle/simpsons-in-css) | Simpsons characters in CSS | pattle | 3985 |
+| 9 |  [pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) | Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites | pa11y | 704 |
+| 10 |  [balloon.css](https://github.com/kazzkiq/balloon.css) | Simple tooltips made of pure CSS | kazzkiq | 4579 |
+| 11 |  [big-rig](https://github.com/googlearchive/big-rig) | A proof-of-concept Performance Dashboard, CLI and Node module | googlearchive | 879 |
+| 12 |  [photon](https://github.com/connors/photon) | The fastest way to build beautiful Electron apps using simple HTML and CSS | connors | 9308 |
+| 13 |  [landio-html](https://github.com/tatygrassini/landio-html) | Landio design (Sketch 2 HTML) | tatygrassini | 811 |
+| 14 |  [wallop](https://github.com/peduarte/wallop) | :no_entry: currently unmaintained :no_entry: A minimal JS library for showing & hiding things | peduarte | 1140 |
+| 15 |  [stretchy](https://github.com/LeaVerou/stretchy) | Form element autosizing, the way it should be. | LeaVerou | 1207 |
+| 16 |  [select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css) | simple css to make select2 widgets fit in with bootstrap | t0m | 702 |
+| 17 |  [bootcards](https://github.com/bootcards/bootcards) | No longer maintained. See below for details. | bootcards | 1074 |
+| 18 |  [jsonlint.com](https://github.com/circlecell/jsonlint.com) | Source code for jsonlint.com | circlecell | 746 |
+| 19 |  [compass](https://github.com/Compass/compass) | Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. | Compass | 6888 |
+| 20 |  [Flat-UI](https://github.com/designmodo/Flat-UI) | Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. | designmodo | 14667 |
+| 21 |  [normalize.css](https://github.com/necolas/normalize.css) | A modern alternative to CSS resets | necolas | 37961 |
+| 22 |  [css](https://github.com/primer/css) | The CSS design system that powers GitHub | primer | 8949 |
+| 23 |  [loaders.css](https://github.com/ConnorAtherton/loaders.css) | Delightful, performance-focused pure css loading animations. | ConnorAtherton | 9476 |
+| 24 |  [url.js](https://github.com/jillix/url.js) | :page_with_curl: A lightweight JavaScript library to manipulate the page url. | jillix | 237 |
+| 25 |  [localFont](https://github.com/jaicab/localFont) | Implement localStorage web font caching in seconds | jaicab | 862 |
+| 26 |  [booterator](https://github.com/cardeo/booterator) | Front end boilerplate using Harp.js, Bootstrap & Less | cardeo | 166 |
+| 27 |  [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) | fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect. | joaopereirawd | 681 |
+| 28 |  [Material-Preloader](https://github.com/aarondo/Material-Preloader) | A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox). | aarondo | 385 |
+| 29 |  [picroscopy](https://github.com/waveform80/picroscopy) | A Python web-application to turn a Raspberry Pi and PiCam into a microscopy solution | waveform80 | 55 |
+| 30 |  [BerryCamExpress](https://github.com/pitography/BerryCamExpress) |  | pitography | 34 |
+| 31 |  [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. | philipwalton | 12567 |
+| 32 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 65169 |
+| 33 |  [bootstrap](https://github.com/jasny/bootstrap) | The missing components for your favorite front-end framework. | jasny | 2690 |
+| 34 |  [tuktuk](https://github.com/soyjavi/tuktuk) | Simple (but powerful) RWD Framework | soyjavi | 556 |
+| 35 |  [smoothState.js](https://github.com/miguel-perez/smoothState.js) | Unobtrusive page transitions with jQuery. | miguel-perez | 4393 |
+| 36 |  [typeahead.js-bootstrap-css](https://github.com/bassjobsen/typeahead.js-bootstrap-css) | LESS / CSS code for using typeahead.js with Bootstrap 3 | bassjobsen | 192 |
+| 37 |  [autofill](https://github.com/dsheiko/autofill) | Bookmarklet to fill out forms when testing by simply clicking on it. | dsheiko | 53 |
+| 38 |  [ASP.NET-Solution](https://github.com/kriasoft/ASP.NET-Solution) | ASP.NET solution / project template for a typical web application, pre-configured with Git, Gulp.js (or Grunt), NuGet and StyleCop development tools. It is well suited for building a single-page web application (SPA). | kriasoft | 32 |
+| 39 |  [offline](https://github.com/HubSpot/offline) | Automatically display online/offline indication to your users | HubSpot | 8562 |
+| 40 |  [pace](https://github.com/HubSpot/pace) | Automatically add a progress bar to your site. #hubspot-open-source | HubSpot | 14795 |
+| 41 |  [lirc_web](https://github.com/alexbain/lirc_web) | Control LIRC from the web using NodeJS and lirc_node | alexbain | 112 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Clojure
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [swarmpit](https://github.com/swarmpit/swarmpit) | Lightweight mobile-friendly Docker Swarm management UI | swarmpit | 1378 |
+| 2 |  [FiraCode](https://github.com/tonsky/FiraCode) | Monospaced font with programming ligatures | tonsky | 44975 |
+
+**[⬆ Back to Index](#-contents)**
+
+## CoffeeScript
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [aglio](https://github.com/danielgtaylor/aglio) | An API Blueprint renderer with theme support that outputs static HTML | danielgtaylor | 4446 |
+| 2 |  [swarm](https://github.com/swarmsim/swarm) | Swarm Simulator, an idle game with lots of bugs. | swarmsim | 368 |
+| 3 |  [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) | Quick and easy product tours with Twitter Bootstrap Popovers | sorich87 | 4314 |
+| 4 |  [AmaranJS](https://github.com/hakanersu/AmaranJS) | Nice, sleek and stylish notifications. | hakanersu | 213 |
+
+**[⬆ Back to Index](#-contents)**
+
+## D
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [trimcheck](https://github.com/CyberShadow/trimcheck) | SSD TRIM check tool for Windows | CyberShadow | 157 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Dart
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 87908 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Dockerfile
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [trunk-recorder-docker](https://github.com/robotastic/trunk-recorder-docker) | a version of trunk-recorder that is designed for docker | robotastic | 5 |
+
+**[⬆ Back to Index](#-contents)**
+
+## F#
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [altcover](https://github.com/SteveGilham/altcover) | Cross-platform coverage gathering and processing tool set for .net/.net core and Mono | SteveGilham | 292 |
+| 2 |  [Paket](https://github.com/fsprojects/Paket) | A dependency manager for .NET with support for NuGet packages and Git repositories. | fsprojects | 1573 |
+| 3 |  [LinqOptimizer](https://github.com/nessos/LinqOptimizer) | An automatic query optimizer-compiler for Sequential and Parallel LINQ. | nessos | 413 |
+| 4 |  [GpuLinq](https://github.com/nessos/GpuLinq) | Democratizing GPGPU programming through OpenCL and LINQ. | nessos | 180 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Go
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [statping](https://github.com/hunterlong/statping) | Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment. | hunterlong | 2501 |
+| 2 |  [yay](https://github.com/Jguer/yay) | Yet another Yogurt - An AUR Helper written in Go | Jguer | 4407 |
+| 3 |  [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP | Versent | 660 |
+| 4 |  [traefik](https://github.com/containous/traefik) | The Cloud Native Edge Router | containous | 27733 |
+| 5 |  [sqlfmt](https://github.com/mjibson/sqlfmt) | SQL formatter with width-aware output | mjibson | 259 |
+| 6 |  [gotenberg](https://github.com/thecodingmachine/gotenberg) | A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF | thecodingmachine | 1804 |
+| 7 |  [ferret](https://github.com/MontFerret/ferret) | Declarative web scraping | MontFerret | 4075 |
+| 8 |  [photoprism](https://github.com/photoprism/photoprism) | Personal Photo Management powered by Go and Google TensorFlow | photoprism | 4806 |
+| 9 |  [clair](https://github.com/quay/clair) | Vulnerability Static Analysis for Containers | quay | 6343 |
+| 10 |  [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server | AdguardTeam | 3182 |
+| 11 |  [cadvisor](https://github.com/google/cadvisor) | Analyzes resource usage and performance characteristics of running containers. | google | 10320 |
+| 12 |  [docker-slim](https://github.com/docker-slim/docker-slim) | DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) | docker-slim | 8169 |
+| 13 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | go-gitea | 18742 |
+| 14 |  [rancher](https://github.com/rancher/rancher) | Complete container management platform | rancher | 13782 |
+| 15 |  [wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal. | wtfutil | 11087 |
+| 16 |  [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | kubernetes | 17604 |
+| 17 |  [dapperdox](https://github.com/DapperDox/dapperdox) | Beautiful, integrated, OpenAPI documentation. | DapperDox | 255 |
+| 18 |  [httplab](https://github.com/gchaincl/httplab) | The interactive web server | gchaincl | 3534 |
+| 19 |  [mylg](https://github.com/mehrdadrad/mylg) | Network Diagnostic Tool | mehrdadrad | 2280 |
+| 20 |  [plot](https://github.com/gonum/plot) | A repository for plotting and visualizing data | gonum | 1476 |
+| 21 |  [disk-latency-benchmarking](https://github.com/tobert/disk-latency-benchmarking) |  | tobert | 2 |
+| 22 |  [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | yudai | 13603 |
+| 23 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 11777 |
+| 24 |  [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | hashicorp | 15139 |
+
+**[⬆ Back to Index](#-contents)**
+
+## HLSL
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [reshade-shaders](https://github.com/crosire/reshade-shaders) | A collection of post-processing shaders written for ReShade. | crosire | 471 |
+
+**[⬆ Back to Index](#-contents)**
+
+## HTML
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [personal-website](https://github.com/github/personal-website) | Code that'll help you kickstart a personal website that showcases your work as a software developer. | github | 5879 |
+| 2 |  [HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) | A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker | HaveAGitGat | 151 |
+| 3 |  [typedoc](https://github.com/TypeStrong/typedoc) | Documentation generator for TypeScript projects. | TypeStrong | 3473 |
+| 4 |  [async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) | Cheatsheet for promises and async/await. | frontarm | 1854 |
+| 5 |  [samples](https://github.com/GoogleChrome/samples) | A repo containing samples tied to new functionality in each release of Google Chrome. | GoogleChrome | 4690 |
+| 6 |  [pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) | See the people Facebook thinks you know | GMG-Special-Projects-Desk | 192 |
+| 7 |  [sing-app](https://github.com/flatlogic/sing-app) | 💥Free and open-source admin dashboard template built with Bootstrap 4 💥 | flatlogic | 1072 |
+| 8 |  [Winds](https://github.com/GetStream/Winds) | A Beautiful Open Source RSS & Podcast App Powered by Getstream.io | GetStream | 7312 |
+| 9 |  [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | CoreUI is free bootstrap admin template | coreui | 9623 |
+| 10 |  [gitstars](https://github.com/Monine/gitstars) | Github Stars Repositories Manager | Monine | 178 |
+| 11 |  [portainer](https://github.com/portainer/portainer) | Making Docker management easy. | portainer | 14090 |
+| 12 |  [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) | A curated list of awesome Webpack resources, libraries and tools | webpack-contrib | 3858 |
+| 13 |  [material-design-lite](https://github.com/google/material-design-lite) | Material Design Components in HTML/CSS/JS | google | 31557 |
+| 14 |  [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) | If you build software, keep a changelog. | olivierlacan | 3942 |
+| 15 |  [Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) | Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber | nsacyber | 1172 |
+| 16 |  [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) | One of the 'BEST' markdown preview extensions for Atom editor! | shd101wyy | 2538 |
+| 17 |  [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) | Grid based on CSS3 flexbox | kristoferjoseph | 8686 |
+| 18 |  [Work-Sans](https://github.com/weiweihuanghuang/Work-Sans) | A grotesque sans. | weiweihuanghuang | 1151 |
+| 19 |  [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) |  | HubSpot | 12175 |
+| 20 |  [process-customization-scripts](https://github.com/microsoft/process-customization-scripts) | sample scripts for customers who are exporting and importing process templates to/from TFS | microsoft | 42 |
+| 21 |  [mailgen](https://github.com/eladnava/mailgen) | A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail. | eladnava | 2278 |
+| 22 |  [starwarsintro](https://github.com/PolarNotion/starwarsintro) | A CSS Library for the Star Wars Intro Crawl | PolarNotion | 171 |
+| 23 |  [foundation-emails](https://github.com/foundation/foundation-emails) | Quickly create responsive HTML emails that work on any device and client. Even Outlook. | foundation | 7283 |
+| 24 |  [AjaxQ](https://github.com/Foliotek/AjaxQ) | A tiny, simple jQuery plugin for sequential ajax requests | Foliotek | 199 |
+| 25 |  [SJSJ](https://github.com/HugoGiraudel/SJSJ) | Simplified JavaScript Jargon | HugoGiraudel | 2198 |
+| 26 |  [markdown-styles](https://github.com/mixu/markdown-styles) | Markdown to static HTML generator and multiple CSS themes for Markdown | mixu | 1466 |
+| 27 |  [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | The minimal amount of CSS to replicate the GitHub Markdown style | sindresorhus | 4448 |
+| 28 |  [intro.js](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | usablica | 18957 |
+| 29 |  [epoch](https://github.com/epochjs/epoch) | A general purpose, real-time visualization library. | epochjs | 4987 |
+| 30 |  [bootstrap-chosen](https://github.com/alxlit/bootstrap-chosen) | An alternate stylesheet for Chosen that integrates with Bootstrap. | alxlit | 703 |
+| 31 |  [jsrsasign](https://github.com/kjur/jsrsasign) | The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript. | kjur | 2162 |
+| 32 |  [SubtlePatterns](https://github.com/atlemo/SubtlePatterns) | All the patterns | atlemo | 4337 |
+| 33 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 33088 |
+| 34 |  [jquery-cascading-dropdown](https://github.com/dnasir/jquery-cascading-dropdown) | A simple and lighweight jQuery plugin for cascading dropdown. | dnasir | 221 |
+| 35 |  [Testify](https://github.com/AdamMurray/Testify) | A test bed for viewing multiple mobile form factors on a single page | AdamMurray | 25 |
+| 36 |  [Rotativa](https://github.com/webgio/Rotativa) | Rotativa, /rota'tiva/. Make Pdf from Asp.Net MVC. Available on Nuget https://www.nuget.org/packages/Rotativa | webgio | 544 |
+| 37 |  [chartinator](https://github.com/jbowyers/chartinator) | A jQuery plugin for transforming HTML tables into charts using Google Charts | jbowyers | 48 |
+| 38 |  [fonts](https://github.com/google/fonts) | Font files available from Google Fonts | google | 13092 |
+| 39 |  [polymer](https://github.com/Polymer/polymer) | Our original Web Component library. | Polymer | 21378 |
+| 40 |  [grunt-uncss](https://github.com/uncss/grunt-uncss) | :scissors: A grunt task for removing unused CSS from your projects. | uncss | 3881 |
+| 41 |  [zepto](https://github.com/madrobby/zepto) | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API | madrobby | 14708 |
+| 42 |  [Cerberus](https://github.com/TedGoas/Cerberus) | A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. | TedGoas | 3783 |
+| 43 |  [grunticon](https://github.com/filamentgroup/grunticon) | A mystical CSS icon solution. | filamentgroup | 3372 |
+| 44 |  [dashboards](https://github.com/keen/dashboards) | Responsive dashboard templates 📊✨ | keen | 10733 |
+| 45 |  [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) | Loading icons and small animations built with pure SVG. | SamHerbert | 4339 |
+| 46 |  [Image-Select](https://github.com/websemantics/Image-Select) | Image Select is an extension of Chosen, a jQuery plugin that makes long, unwieldy select boxes much more user-friendly. It provides image support for Single and Multi select HTML tags. | websemantics | 139 |
+| 47 |  [javascript-patterns](https://github.com/shichuan/javascript-patterns) | JavaScript Patterns | shichuan | 8878 |
+| 48 |  [jQuery-tagEditor](https://github.com/Pixabay/jQuery-tagEditor) | A powerful and lightweight tag editor plugin for jQuery. | Pixabay | 452 |
+| 49 |  [RWDPerf](https://github.com/lafikl/RWDPerf) | Performance testing tool for Responsive web designs. | lafikl | 632 |
+| 50 |  [webui-popover](https://github.com/sandywalker/webui-popover) | A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features | sandywalker | 887 |
+| 51 |  [bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) | Tiny bootstrap-compatible WYSIWYG rich text editor | steveathon | 584 |
+| 52 |  [Visual-Studio-jQuery-Code-Snippets](https://github.com/kspearrin/Visual-Studio-jQuery-Code-Snippets) | 130+ jQuery code snippets for Visual Studio 2012-2019. | kspearrin | 240 |
+| 53 |  [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) | YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more. | YePpHa | 2914 |
+| 54 |  [chosen](https://github.com/harvesthq/chosen) | Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly. | harvesthq | 22212 |
+| 55 |  [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) | JQuery multiselect plugin based on Twitter Bootstrap. | davidstutz | 3286 |
+| 56 |  [bootstrap-accessibility-plugin](https://github.com/paypal/bootstrap-accessibility-plugin) | Accessibility Plugin for Bootstrap 3 and Bootstrap 3 as SubModule | paypal | 799 |
+| 57 |  [jquery-dropdown](https://github.com/soundasleep/jquery-dropdown) | Bootstrap-style dropdowns with some added features and no dependencies. | soundasleep | 787 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Haskell
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [pandoc](https://github.com/jgm/pandoc) | Universal markup converter | jgm | 18297 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Java
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | NationalSecurityAgency | 19823 |
+| 2 |  [flyway](https://github.com/flyway/flyway) | Flyway by Redgate • Database Migrations Made Easy. | flyway | 4926 |
+| 3 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 21400 |
+| 4 |  [selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) | JUnit 5 extension for Selenium | bonigarcia | 145 |
+| 5 |  [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | dbeaver | 12394 |
+| 6 |  [LauncherHijack](https://github.com/BaronKiko/LauncherHijack) | For Amazon Fire Tablets and TV's | BaronKiko | 270 |
+| 7 |  [mssql-jdbc](https://github.com/microsoft/mssql-jdbc) | The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs). | microsoft | 695 |
+| 8 |  [notSABS](https://github.com/GoldenKappa/notSABS) | notSABS ver 1.0.0 | GoldenKappa | 110 |
+| 9 |  [keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. | kaikramer | 622 |
+| 10 |  [haven](https://github.com/guardianproject/haven) | Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors | guardianproject | 5742 |
+| 11 |  [shibboleth-oidc](https://github.com/uchicago/shibboleth-oidc) | OpenID Connect support for the Shibboleth Identity Provider  v3 | uchicago | 74 |
+| 12 |  [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI | java-decompiler | 8091 |
+| 13 |  [dns66](https://github.com/julian-klode/dns66) | DNS-based Host Blocker (and lightweight ad blocker) for Android | julian-klode | 1397 |
+| 14 |  [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) | Use SQL to query Elasticsearch | NLPchina | 5777 |
+| 15 |  [Terasology](https://github.com/MovingBlocks/Terasology) | Terasology - open source voxel world | MovingBlocks | 2759 |
+| 16 |  [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) | Modifications to the Minecraft base files to assist in compatibility between mods. | MinecraftForge | 3641 |
+| 17 |  [Speculum-Android](https://github.com/NielsMasdorp/Speculum-Android) | Android application powering a magic mirror. | NielsMasdorp | 324 |
+| 18 |  [sdrtrunk](https://github.com/DSheirer/sdrtrunk) | A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website: | DSheirer | 502 |
+| 19 |  [chunky](https://github.com/llbit/chunky) | Minecraft mapping and rendering tool | llbit | 300 |
+| 20 |  [pixel-dungeon](https://github.com/watabou/pixel-dungeon) | Traditional roguelike game with pixel-art graphics and simple interface | watabou | 2500 |
+| 21 |  [HomeMirror](https://github.com/HannahMitt/HomeMirror) | Android application powering the mirror in my house | HannahMitt | 7897 |
+| 22 |  [dynmap](https://github.com/webbukkit/dynmap) | A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations. | webbukkit | 875 |
+| 23 |  [vsminecraft](https://github.com/microsoft/vsminecraft) | Visual Studio extension for developing MinecraftForge mods using Java. | microsoft | 185 |
+| 24 |  [MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) | A Furniture Mod for Minecraft. Download ▶ | MrCrayfish | 160 |
+| 25 |  [selenium](https://github.com/SeleniumHQ/selenium) | A browser automation framework and ecosystem. | SeleniumHQ | 17084 |
+| 26 |  [MoppyClassic](https://github.com/SammyIAm/MoppyClassic) | Moppy has been replaced with Moppy 2.0! | SammyIAm | 563 |
+| 27 |  [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) | A High Dynamic Range (HDR) Histogram | HdrHistogram | 1687 |
+| 28 |  [validator](https://github.com/validator/validator) | The Nu Html Checker – Helps you catch unintended mistakes in your HTML, CSS, and SVG | validator | 830 |
+| 29 |  [RFAnalyzer](https://github.com/demantz/RFAnalyzer) | Spectrum Analyzer for Android using the HackRF | demantz | 551 |
+| 30 |  [UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) | A DLNA, UPnP and HTTP(S) Media Server. | UniversalMediaServer | 1046 |
+| 31 |  [XPrivacy](https://github.com/M66B/XPrivacy) | XPrivacy - The ultimate, yet easy to use, privacy manager | M66B | 1962 |
+| 32 |  [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) | Steam/GOG/Origin games redistributable packages finder and remover. Available in 13 languages. | jonathanlermitage | 414 |
+| 33 |  [waffle](https://github.com/Waffle/waffle) | Enable drop-in Windows Single Sign On for popular Java web servers. | Waffle | 349 |
+
+**[⬆ Back to Index](#-contents)**
 
 ## JavaScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
@@ -141,7 +860,7 @@
 | 82 |  [hiper](https://github.com/pod4g/hiper) | 🚀 A statistical analysis tool for performance testing | pod4g | 2531 |
 | 83 |  [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) | Don't waste your time with compliance. Universal Bypass circumvents annoying link shorteners. | timmyRS | 408 |
 | 84 |  [Iridium](https://github.com/ParticleCore/Iridium) | Iridium is an extension built to improve your experience with the new YouTube Material layout | ParticleCore | 1233 |
-| 85 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 62893 |
+| 85 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 62895 |
 | 86 |  [ReLaXed](https://github.com/RelaxedJS/ReLaXed) | Create PDF documents using web technologies | RelaxedJS | 11235 |
 | 87 |  [vuido](https://github.com/mimecorg/vuido) | Native desktop applications using Vue.js. | mimecorg | 5951 |
 | 88 |  [dayjs](https://github.com/iamkun/dayjs) | ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API | iamkun | 26079 |
@@ -233,7 +952,7 @@
 | 174 |  [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) | A comparison of the perfomance of a few popular javascript frameworks | krausest | 2959 |
 | 175 |  [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) | Electron Desktop GUI for Webpack Dashboard | FormidableLabs | 2738 |
 | 176 |  [popper-core](https://github.com/popperjs/popper-core) | 🍿Positioning tooltips and popovers is difficult. Popper is here to help! | popperjs | 14334 |
-| 177 |  [wtfjs](https://github.com/denysdovhan/wtfjs) | A list of funny and tricky JavaScript examples | denysdovhan | 16357 |
+| 177 |  [wtfjs](https://github.com/denysdovhan/wtfjs) | A list of funny and tricky JavaScript examples | denysdovhan | 16359 |
 | 178 |  [project-guidelines](https://github.com/elsewhencode/project-guidelines) | A set of best practices for JavaScript projects | elsewhencode | 20289 |
 | 179 |  [validate](https://github.com/cferdinandi/validate) | A lightweight form validation script. | cferdinandi | 216 |
 | 180 |  [pagermon](https://github.com/pagermon/pagermon) | Multimon-ng pager message parser and viewer | pagermon | 100 |
@@ -377,7 +1096,7 @@
 | 318 |  [bootstrap-tagsinput](https://github.com/bootstrap-tagsinput/bootstrap-tagsinput) | jQuery tags input plugin based on Twitter Bootstrap. | bootstrap-tagsinput | 2932 |
 | 319 |  [resurrectio](https://github.com/ebrehault/resurrectio) | CasperJS test recorder Chrome extension | ebrehault | 731 |
 | 320 |  [source-map](https://github.com/mozilla/source-map) | Consume and generate source maps. | mozilla | 2106 |
-| 321 |  [pdfmake](https://github.com/bpampuch/pdfmake) | Client/server side PDF printing in pure JavaScript | bpampuch | 8036 |
+| 321 |  [pdfmake](https://github.com/bpampuch/pdfmake) | Client/server side PDF printing in pure JavaScript | bpampuch | 8037 |
 | 322 |  [casperjs](https://github.com/casperjs/casperjs) | CasperJS is no longer actively maintained. Navigation scripting and testing utility for PhantomJS and SlimerJS | casperjs | 7318 |
 | 323 |  [logdown.js](https://github.com/caiogondim/logdown.js) | :pencil2: Debug utility with markdown support that runs on browser and server | caiogondim | 995 |
 | 324 |  [radioreceiver](https://github.com/google/radioreceiver) | An application to listen to broadcast stereo FM and AM radio from your Chrome browser or your ChromeBook computer using a $15 USB digital TV tuner. | google | 310 |
@@ -571,347 +1290,437 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## C#
+## Jupyter Notebook
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [AspNetSaml](https://github.com/jitbit/AspNetSaml) | Very simple SAML 2.0 consumer module for ASP.NET/C# | jitbit | 134 |
-| 2 |  [mvvm-dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) | Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP | FantasticFiasco | 246 |
-| 3 |  [LogViewer](https://github.com/WildGums/LogViewer) |  | WildGums | 66 |
-| 4 |  [ApplicationInspector](https://github.com/microsoft/ApplicationInspector) | A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes. | microsoft | 3426 |
-| 5 |  [Vanara](https://github.com/dahall/Vanara) | A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers. | dahall | 329 |
-| 6 |  [ErrorProne.NET](https://github.com/SergeyTeplyakov/ErrorProne.NET) | Set of roslyn-based analyzers for catching common C# errors (inspired by Google's error-prone) | SergeyTeplyakov | 455 |
-| 7 |  [MacAddressVendorLookup](https://github.com/PingmanTools/MacAddressVendorLookup) | C# MAC address vendor/OUI lookup library | PingmanTools | 3 |
-| 8 |  [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) | A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort. | MahApps | 6655 |
-| 9 |  [XamlBehaviorsWpf](https://github.com/microsoft/XamlBehaviorsWpf) | Home for WPF XAML Behaviors on GitHub. | microsoft | 285 |
-| 10 |  [WindowsCommunityToolkit](https://github.com/windows-toolkit/WindowsCommunityToolkit) | The Windows Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation. | windows-toolkit | 3444 |
-| 11 |  [BSA_Browser](https://github.com/AlexxEG/BSA_Browser) | Bethesda Archive Browser & Extractor | AlexxEG | 21 |
-| 12 |  [vrs](https://github.com/vradarserver/vrs) | A .NET web server that can plot the positions of aircraft on a map | vradarserver | 133 |
-| 13 |  [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) | Exception handling as a convention in the ASP.NET Core request pipeline | JosephWoodward | 198 |
-| 14 |  [abp](https://github.com/abpframework/abp) | Open Source Web Application Framework for ASP.NET Core | abpframework | 3147 |
-| 15 |  [Templates](https://github.com/Dotnet-Boxed/Templates) | .NET project templates with batteries included, providing the minimum amount of code required to get you going faster. | Dotnet-Boxed | 2039 |
-| 16 |  [puppeteer-sharp](https://github.com/kblok/puppeteer-sharp) | Headless Chrome .NET API | kblok | 1137 |
-| 17 |  [AsyncEx](https://github.com/StephenCleary/AsyncEx) | A helper library for async/await. | StephenCleary | 2032 |
-| 18 |  [Easy.Common](https://github.com/NimaAra/Easy.Common) | A set of useful utilities and helpers used across Easy.* projects. | NimaAra | 260 |
-| 19 |  [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) | Command line parsing and utilities for .NET | natemcmaster | 1245 |
-| 20 |  [Analogy.LogViewer](https://github.com/Analogy-LogViewer/Analogy.LogViewer) | Analogy Log Viewer Application (using DevExpress UI Library) | Analogy-LogViewer | 11 |
-| 21 |  [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) | Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture. | kgrzybek | 584 |
-| 22 |  [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) | Google's Material Design in XAML & WPF, for C# & VB.Net. | MaterialDesignInXAML | 8391 |
-| 23 |  [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | Clean Architecture Solution Template for Angular 8 and .NET Core 3.1 | jasontaylordev | 1185 |
-| 24 |  [clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) | :cyclone: Clean Architecture with .NET Core 3.1 and C# 8. Use cases as central organizing structure, completely testable, decoupled from frameworks | ivanpaulovich | 1247 |
-| 25 |  [Pfim](https://github.com/nickbabcock/Pfim) | .NET Standard targa (.tga) and direct draw surface (.dds) image decoder | nickbabcock | 37 |
-| 26 |  [microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) | Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications | microsoft | 2192 |
-| 27 |  [CreateProcessAsUser](https://github.com/murrayju/CreateProcessAsUser) | Creates a process in a different Windows session | murrayju | 185 |
-| 28 |  [SmartEnum](https://github.com/ardalis/SmartEnum) | A base class for quickly and easily creating strongly typed enum replacements in C#. | ardalis | 341 |
-| 29 |  [dotnet-win32-service](https://github.com/dasMulli/dotnet-win32-service) | Helper classes to set up and run as windows services directly on .net core. A ServiceBase alternative. | dasMulli | 409 |
-| 30 |  [Networker](https://github.com/MarkioE/Networker) | A simple to use TCP and UDP networking library for .NET. Compatible with Unity. | MarkioE | 375 |
-| 31 |  [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) | :bathtub:  Clean Code concepts and tools adapted for .NET | thangchung | 1931 |
-| 32 |  [WinApi](https://github.com/prasannavl/WinApi) | A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop | prasannavl | 544 |
-| 33 |  [pinvoke-interop-assistant](https://github.com/jaredpar/pinvoke-interop-assistant) | PInvoke Interop Assistant | jaredpar | 191 |
-| 34 |  [pinvoke](https://github.com/AArnott/pinvoke) | A library containing all P/Invoke code so you don't have to import it every time. Maintained and updated to support the latest Windows OS. | AArnott | 779 |
-| 35 |  [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) | A starting point for Clean Architecture with ASP.NET Core | ardalis | 3969 |
-| 36 |  [Avalonia](https://github.com/AvaloniaUI/Avalonia) | A multi-platform .NET UI framework | AvaloniaUI | 8223 |
-| 37 |  [wabbajack](https://github.com/wabbajack-tools/wabbajack) | A mod list downloader & installer for Skyrim/Oblivion and Fallout games | wabbajack-tools | 159 |
-| 38 |  [Chordious](https://github.com/jonthysell/Chordious) | Fretboard diagram generator for fretted stringed instruments. | jonthysell | 18 |
-| 39 |  [SkiaSharp](https://github.com/mono/SkiaSharp) | SkiaSharp is a cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images. | mono | 1591 |
-| 40 |  [SharpVectors](https://github.com/ElinamLLC/SharpVectors) | SharpVectors - SVG# Reloaded: SVG DOM and Rendering in C# for the .Net. | ElinamLLC | 199 |
-| 41 |  [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | jellyfin | 5700 |
-| 42 |  [Sharpen](https://github.com/sharpenrocks/Sharpen) | Visual Studio extension that intelligently introduces new C# features into your existing code base | sharpenrocks | 249 |
-| 43 |  [Pansies](https://github.com/PoshCode/Pansies) | Powershell ANSI Escape Sequences, functions for colored output, etc. | PoshCode | 74 |
-| 44 |  [PowerShell](https://github.com/PowerShell/PowerShell) | PowerShell for every system! | PowerShell | 18007 |
-| 45 |  [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) | Fluent migrations framework for .NET | fluentmigrator | 2119 |
-| 46 |  [Automaton](https://github.com/metherul/Automaton) | The open modpack platform. | metherul | 58 |
-| 47 |  [gui.cs](https://github.com/migueldeicaza/gui.cs) | Console-based user interface toolkit for .NET applications. | migueldeicaza | 3176 |
-| 48 |  [FastReport](https://github.com/FastReports/FastReport) | Reporting tool for .NET Core/.NET Framework that helps your application generate document-like reports | FastReports | 921 |
-| 49 |  [FluentEmail](https://github.com/lukencode/FluentEmail) | .NET Core email sending | lukencode | 1012 |
-| 50 |  [AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) | Enterprise HealthChecks for ASP.NET Core Diagnostics Package | Xabaril | 1319 |
-| 51 |  [AngularASPNETCoreOAuth](https://github.com/mmacneil/AngularASPNETCoreOAuth) | Sample project demonstrating user authentication and identity with Angular, Asp.Net Core and IdentityServer4 | mmacneil | 166 |
-| 52 |  [aspnetcore-vueclimiddleware](https://github.com/EEParker/aspnetcore-vueclimiddleware) | Helpers for building single-page applications on ASP.NET MVC Core using Vue Cli or Quasar Cli. | EEParker | 142 |
-| 53 |  [ASPCoreVueCLITemplate](https://github.com/ow-en/ASPCoreVueCLITemplate) | ASP.NET Core 2.1 with Vue.js (vue-cli3 & webpack 4), Typescript, EF Core | ow-en | 51 |
-| 54 |  [zerosharp](https://github.com/MichalStrehovsky/zerosharp) | Demo of the potential of C# for systems programming with CoreRT | MichalStrehovsky | 906 |
-| 55 |  [SHFB](https://github.com/EWSoftware/SHFB) | Sandcastle Help File Builder (SHFB).  A standalone GUI, Visual Studio integration package, and MSBuild tasks providing full configuration and extensibility for building help files with the Sandcastle tools. | EWSoftware | 1574 |
-| 56 |  [dotnet-fake-json-server](https://github.com/ttu/dotnet-fake-json-server) | Fake JSON Server is a Fake REST API that can be used as a Back End for prototyping or as a template for a CRUD Back End. | ttu | 200 |
-| 57 |  [Logazmic](https://github.com/ihtfw/Logazmic) | Windows log viewer for log4j | ihtfw | 43 |
-| 58 |  [CodeConverter](https://github.com/icsharpcode/CodeConverter) | Convert code from C# to VB.NET and vice versa using Roslyn | icsharpcode | 266 |
-| 59 |  [coravel](https://github.com/jamesmh/coravel) | Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze! | jamesmh | 1088 |
-| 60 |  [PowerShell-IIS-Examples](https://github.com/OctopusDeploy/PowerShell-IIS-Examples) | Examples showing how to do everything with IIS and PowerShell | OctopusDeploy | 53 |
-| 61 |  [uap-csharp](https://github.com/ua-parser/uap-csharp) | C# implementation of ua-parser | ua-parser | 179 |
-| 62 |  [Fleck](https://github.com/statianzo/Fleck) | C# Websocket Implementation | statianzo | 1480 |
-| 63 |  [AlphaFS](https://github.com/alphaleonis/AlphaFS) | AlphaFS is a .NET library providing more complete Win32 file system functionality to the .NET platform than the standard System.IO classes. | alphaleonis | 435 |
-| 64 |  [AsyncUsageAnalyzers](https://github.com/DotNetAnalyzers/AsyncUsageAnalyzers) | Now superseded by Microsoft/vs-threading | DotNetAnalyzers | 108 |
-| 65 |  [azure-devops-release-notes](https://github.com/Azure-Samples/azure-devops-release-notes) | A serverless release note generator for Azure DevOps | Azure-Samples | 37 |
-| 66 |  [duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | duplicati | 4854 |
-| 67 |  [OpenDBDiff](https://github.com/OpenDBDiff/OpenDBDiff) | A database comparison tool for Microsoft SQL Server 2005+ that reports schema differences and creates a synchronization script. | OpenDBDiff | 279 |
-| 68 |  [EFDesigner](https://github.com/msawczyn/EFDesigner) | Entity Framework visual design surface and code-first code generation for EF6, Core and beyond | msawczyn | 175 |
-| 69 |  [CsprojToVs2017](https://github.com/hvanbakel/CsprojToVs2017) | Tooling for converting pre 2017 project to the new Visual Studio 2017 format. | hvanbakel | 749 |
-| 70 |  [arduino-st4](https://github.com/kevinferrare/arduino-st4) | A PC-Telescope interface built around an arduino | kevinferrare | 45 |
-| 71 |  [SAML2](https://github.com/i8beef/SAML2) |  | i8beef | 49 |
-| 72 |  [SmartBreadcrumbs](https://github.com/zHaytam/SmartBreadcrumbs) | A utility library for ASP.NET Core (both MVC and Razor Pages) websites to easily add and customize breadcrumbs. | zHaytam | 69 |
-| 73 |  [OAuth2-OpenIDConnect-JWT-Samples](https://github.com/HamidMosalla/OAuth2-OpenIDConnect-JWT-Samples) | Policy-based authorization for web API using JWT and identityserver4 and Asp.Net Core 2. | HamidMosalla | 35 |
-| 74 |  [log2console](https://github.com/Statyk7/log2console) | Simple Log Viewer for development for log4net, log4j, NLog... | Statyk7 | 107 |
-| 75 |  [Depressurizer](https://github.com/Depressurizer/Depressurizer) | A Steam library categorizing tool. | Depressurizer | 898 |
-| 76 |  [rssheap](https://github.com/mausba/rssheap) | An advanced web and mobile based RSS reader for software developers built on the .NET platform | mausba | 20 |
-| 77 |  [DnsServer](https://github.com/TechnitiumSoftware/DnsServer) | Technitium DNS Server | TechnitiumSoftware | 387 |
-| 78 |  [KerberosConfigMgrIIS](https://github.com/SurajDixit/KerberosConfigMgrIIS) | Kerberos Configuration Manager for IIS | SurajDixit | 23 |
-| 79 |  [GitVersion](https://github.com/GitTools/GitVersion) | Easy Semantic Versioning (http://semver.org) for projects using Git | GitTools | 1515 |
-| 80 |  [TotalTfsMigrationTool](https://github.com/pmiossec/TotalTfsMigrationTool) | Improvement over https://totaltfsmigration.codeplex.com used to migrate workitems from one Tfs project to another | pmiossec | 21 |
-| 81 |  [ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) | With Razor Pages | jbogard | 645 |
-| 82 |  [TestSSLServer](https://github.com/pornin/TestSSLServer) |  | pornin | 101 |
-| 83 |  [OctoPosh](https://github.com/Dalmirog/OctoPosh) | The Octopus Deploy Powershell module | Dalmirog | 93 |
-| 84 |  [peachpie-wordpress](https://github.com/iolevel/peachpie-wordpress) | WordPress running on .NET Core. | iolevel | 176 |
-| 85 |  [fancy-comments](https://github.com/ClydeDz/fancy-comments) | Fancy Comments is a snippet pack that includes different use-cases for when you may write comments in a file. Currently, includes comment sections for languages such as HTML, CSS, JavaScript, SQL, C# and XML. | ClydeDz | 2 |
-| 86 |  [MappingGenerator](https://github.com/cezarypiatek/MappingGenerator) | :arrows_counterclockwise: &#34;AutoMapper&#34; like, Roslyn based, code fix provider that allows to generate mapping code in design time. | cezarypiatek | 447 |
-| 87 |  [LtiLibrary](https://github.com/LtiLibrary/LtiLibrary) | LTI 1.1.1 library for .NET Applications. | LtiLibrary | 54 |
-| 88 |  [NuGet.Lucene](https://github.com/themotleyfool/NuGet.Lucene) | NuGet package server powered by Lucene.Net.Linq | themotleyfool | 64 |
-| 89 |  [dsc-generator](https://github.com/kevinsea/dsc-generator) | PowerShell Desired State Configuration (DSC) Generator | kevinsea | 48 |
-| 90 |  [opencover](https://github.com/OpenCover/opencover) | A code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points | OpenCover | 1163 |
-| 91 |  [JevonsCameraViewer](https://github.com/J-east/JevonsCameraViewer) | An app for viewing multiple video streams from USB cameras. Low cost real time eye tracking. You can rotate and mirror the images and also use a variety of filters. Easily take screenshots. Very useful for c270 hacks. Exposure lock and some openCV examples included | J-east | 72 |
-| 92 |  [DevOps-VSTS-Bot](https://github.com/ALM-Rangers/DevOps-VSTS-Bot) | Making Visual Studio Team Services (VSTS) part of your daily digital conversations | ALM-Rangers | 57 |
-| 93 |  [TfsWorkspacesCleaner](https://github.com/jelledruyts/TfsWorkspacesCleaner) | TFS Workspaces Cleaner deletes Team Foundation Server workspaces that have not been accessed in a number of days, along with their files locally on disk. | jelledruyts | 23 |
-| 94 |  [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) | A powerful tool for managing networks and troubleshoot network problems! | BornToBeRoot | 943 |
-| 95 |  [Lidarr](https://github.com/lidarr/Lidarr) | Looks and smells like Sonarr but made for music. | lidarr | 1370 |
-| 96 |  [Wax](https://github.com/tom-englert/Wax) | An interactive editor for WiX setup projects. | tom-englert | 145 |
-| 97 |  [coverlet](https://github.com/tonerdo/coverlet) | Cross platform code coverage for .NET | tonerdo | 1567 |
-| 98 |  [corert](https://github.com/dotnet/corert) | This repo contains CoreRT, an experimental .NET Core runtime optimized for AOT (ahead of time compilation) scenarios, with the accompanying compiler toolchain. | dotnet | 2586 |
-| 99 |  [Vault.NET](https://github.com/Chatham/Vault.NET) | .NET API client for vault | Chatham | 68 |
-| 100 |  [VaultSharp](https://github.com/rajanadar/VaultSharp) | A cross-platform .NET Library for HashiCorp's Vault (Secret Management System) - http://rajanadar.github.io/VaultSharp/ | rajanadar | 184 |
-| 101 |  [SAML2](https://github.com/elerch/SAML2) | Fork of SAML2 library on codeplex. This library removes dependencies on Asp.net | elerch | 89 |
-| 102 |  [sentinel](https://github.com/yarseyah/sentinel) | Sentinel is a log-viewer with configurable filtering and highlighting (foreground/background colours) | yarseyah | 129 |
-| 103 |  [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) | [Archived] Microsoft ASP.NET Core JavaScript Services. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 3154 |
-| 104 |  [SWYH](https://github.com/StreamWhatYouHear/SWYH) | Stream the sound from your PC to an UPnP/DLNA device | StreamWhatYouHear | 294 |
-| 105 |  [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus) | Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more | zzzprojects | 1382 |
-| 106 |  [server](https://github.com/bitwarden/server) | The core infrastructure backend (API, database, Docker, etc). | bitwarden | 4927 |
-| 107 |  [GameSrv](https://github.com/rickparrish/GameSrv) | A BBS door game server for Windows and Linux written in C# | rickparrish | 71 |
-| 108 |  [PolicyServer.Local](https://github.com/PolicyServer/PolicyServer.Local) | Sample OSS version of PolicyServer | PolicyServer | 416 |
-| 109 |  [VSSDK-Extensibility-Samples](https://github.com/microsoft/VSSDK-Extensibility-Samples) | Samples for building your own Visual Studio extensions | microsoft | 890 |
-| 110 |  [StarWars](https://github.com/JacekKosciesza/StarWars) | GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core | JacekKosciesza | 498 |
-| 111 |  [NiceHashMiner](https://github.com/nicehash/NiceHashMiner) | NiceHash Miner | nicehash | 1180 |
-| 112 |  [sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) | SonarQube Scanner for MSBuild | SonarSource | 187 |
-| 113 |  [Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers. | Jackett | 3888 |
-| 114 |  [VSIX.TidyCSharp](https://github.com/Geeksltd/VSIX.TidyCSharp) | See here: | Geeksltd | 20 |
-| 115 |  [JexusManager](https://github.com/jexuswebserver/JexusManager) | Jexus Manager http://jexusmanager.com | jexuswebserver | 159 |
-| 116 |  [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) | Adds events for entity inserting, inserted, updating, updated, deleting, and deleted | NickStrupat | 274 |
-| 117 |  [linq2db](https://github.com/linq2db/linq2db) | Linq to database provider. | linq2db | 1556 |
-| 118 |  [NPoco](https://github.com/schotime/NPoco) | Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco | schotime | 715 |
-| 119 |  [toucan](https://github.com/mrellipse/toucan) | Boilerplate template using Vue.js, TypeScript and .NET Core 2.1, based on SOLID design principles | mrellipse | 215 |
-| 120 |  [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) | Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects. | dodyg | 4474 |
-| 121 |  [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) | Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts | EduardoPires | 3463 |
-| 122 |  [efcore](https://github.com/dotnet/efcore) | EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. | dotnet | 8796 |
-| 123 |  [ef6](https://github.com/dotnet/ef6) | This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/dotnet/efcore. | dotnet | 1108 |
-| 124 |  [identityserver-admin-dashboard](https://github.com/waqaskhan540/identityserver-admin-dashboard) | IdentityServer with admin UI for dynamic configuration of clients, users and resources. | waqaskhan540 | 12 |
-| 125 |  [RefactoringEssentials](https://github.com/icsharpcode/RefactoringEssentials) | Refactoring Essentials for Visual Studio | icsharpcode | 630 |
-| 126 |  [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) | Small package to allow adding security headers to ASP.NET Core websites | andrewlock | 169 |
-| 127 |  [ImageSharp](https://github.com/SixLabors/ImageSharp) | :camera: A modern, cross-platform, 2D Graphics library for .NET | SixLabors | 3761 |
-| 128 |  [IdentityServerExternalAuth](https://github.com/waqaskhan540/IdentityServerExternalAuth) | A solution for exchanging external (Facebook,Google,Twitter etc) tokens with IdentityServer access token. | waqaskhan540 | 103 |
-| 129 |  [nlog-targets-seq](https://github.com/datalust/nlog-targets-seq) | An NLog target that writes events to Seq. Built for NLog 4.5+. | datalust | 9 |
-| 130 |  [FilterLists](https://github.com/collinbarrett/FilterLists) | :shield: The independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances. | collinbarrett | 439 |
-| 131 |  [openiddict-core](https://github.com/openiddict/openiddict-core) | Versatile OpenID Connect stack for ASP.NET 4.x and ASP.NET Core 2.x/3.x | openiddict | 1042 |
-| 132 |  [Depressurizer](https://github.com/Theo47/Depressurizer) | Depressurizer is a program that helps you categorize your steam games. | Theo47 | 633 |
-| 133 |  [Electron.NET](https://github.com/ElectronNET/Electron.NET) | Build cross platform desktop apps with ASP.NET Core. | ElectronNET | 4239 |
-| 134 |  [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) | Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. | dotnet-architecture | 12955 |
-| 135 |  [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) | Sample ASP.NET Core 3.1 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder. | dotnet-architecture | 4048 |
-| 136 |  [IdentityModel](https://github.com/IdentityModel/IdentityModel) | .NET standard helper library for claims-based identity, OAuth 2.0 and OpenID Connect. | IdentityModel | 536 |
-| 137 |  [IdentityServer4](https://github.com/IdentityServer/IdentityServer4) | OpenID Connect and OAuth 2.0 Framework for ASP.NET Core | IdentityServer | 5987 |
-| 138 |  [cloudscribe.Web.Navigation](https://github.com/cloudscribe/cloudscribe.Web.Navigation) | ASP.NET Core MVC ViewComponent for navigation menus and breadcrumbs | cloudscribe | 64 |
-| 139 |  [Playnite](https://github.com/JosefNemec/Playnite) | Open source video game library manager with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Including game emulation support, providing one unified interface for your games. | JosefNemec | 2269 |
-| 140 |  [refit](https://github.com/reactiveui/refit) | The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. | reactiveui | 3879 |
-| 141 |  [MemoScope.Net](https://github.com/fremag/MemoScope.Net) | Dump and analyze .Net applications memory ( a gui for WinDbg and ClrMd ) | fremag | 569 |
-| 142 |  [MemAnalyzer](https://github.com/Alois-xx/MemAnalyzer) | A command line memory analysis tool for managed code. | Alois-xx | 71 |
-| 143 |  [HintsInterceptor](https://github.com/DennesTorres/HintsInterceptor) | Interceptor para aplicação de query hints do SQL Server no Entity Framework | DennesTorres | 9 |
-| 144 |  [SqlNexus](https://github.com/microsoft/SqlNexus) | SQL Nexus is a tool that helps you identify the root cause of SQL Server performance issues. It loads and analyzes performance data collected by  SQLDiag and  PSSDiag. It can dramatically reduce the amount of time you spend manually analyzing data. | microsoft | 175 |
-| 145 |  [sql-hunting-dog](https://github.com/bugzinga/sql-hunting-dog) | Quick Search Tool (AddIn) for Microsoft SQL Management Studio | bugzinga | 22 |
-| 146 |  [Roslynator](https://github.com/JosefPihrt/Roslynator) | A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn. | JosefPihrt | 1647 |
-| 147 |  [Blazor](https://github.com/SteveSanderson/Blazor) | MOVED: Please see the new repo at https://github.com/aspnet/blazor | SteveSanderson | 1760 |
-| 148 |  [LDAPCP](https://github.com/Yvand/LDAPCP) | This claims provider connects SharePoint 2019 / 2016 / 2013 with Active Directory and LDAP servers to enhance people picker with a great search experience in federated authentication (typically ADFS) | Yvand | 43 |
-| 149 |  [ACMESharp](https://github.com/ebekker/ACMESharp) | An ACME client library and PowerShell client for the .NET platform (Let's Encrypt) | ebekker | 1133 |
-| 150 |  [win-acme](https://github.com/win-acme/win-acme) | A simple ACME client for Windows (for use with Let's Encrypt et al.) | win-acme | 3444 |
-| 151 |  [ipnetwork](https://github.com/lduchosal/ipnetwork) | IPNetwork command line and C# library take care of complex network, IP, IPv4, IPv6, netmask, CIDR, subnet, subnetting, supernet, and supernetting calculation for .NET developers. It works with IPv4 as well as IPv6, is written in C#, has a light and clean API, and is fully unit-tested | lduchosal | 217 |
-| 152 |  [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) | Powerful .NET library for benchmarking | dotnet | 5100 |
-| 153 |  [SecurityDriven.TinyORM](https://github.com/sdrapkin/SecurityDriven.TinyORM) | .NET micro ORM done right. | sdrapkin | 271 |
-| 154 |  [Terminals](https://github.com/Terminals-Origin/Terminals) | Terminals is a secure, multi tab terminal services/remote desktop client. It uses Terminal Services ActiveX Client (mstscax.dll).  The project started from the need of controlling multiple connections simultaneously. It is a complete replacement for the mstsc.exe (Terminal Services) client. This is official source moved from Codeplex. | Terminals-Origin | 818 |
-| 155 |  [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) | Driver Store Explorer [RAPR] | lostindark | 1753 |
-| 156 |  [SoundSwitch](https://github.com/Belphemur/SoundSwitch) | C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/ | Belphemur | 839 |
-| 157 |  [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) | Creative and unusual things that can be done with the Windows API. | LazoCoder | 1974 |
-| 158 |  [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) | C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. | JustArchiNET | 4864 |
-| 159 |  [Saml2](https://github.com/Sustainsys/Saml2) | Saml2 Authentication services for ASP.NET | Sustainsys | 634 |
-| 160 |  [TfsTeamProjectManager](https://github.com/jelledruyts/TfsTeamProjectManager) | TFS Team Project Manager automates various tasks across Team Projects in Team Foundation Server. If you find yourself managing multiple Team Projects for an organization and have recurring tasks and questions that repeat themselves over and over again, Team Project Manager probably has some answers for you. | jelledruyts | 142 |
-| 161 |  [idle_master](https://github.com/jshackles/idle_master) | Get your Steam Trading Cards the Easy Way | jshackles | 1464 |
-| 162 |  [Radarr](https://github.com/Radarr/Radarr) | A fork of Sonarr to work with movies à la Couchpotato. | Radarr | 3838 |
-| 163 |  [VidCoder](https://github.com/RandomEngy/VidCoder) | A Blu-ray, DVD and video file transcoder for Windows. | RandomEngy | 271 |
-| 164 |  [Scientist.net](https://github.com/scientistproject/Scientist.net) | A .NET library for carefully refactoring critical paths. It's a port of GitHub's Ruby Scientist library | scientistproject | 1156 |
-| 165 |  [SqlQueryStress](https://github.com/ErikEJ/SqlQueryStress) | SQL query stress simulator created by Adam Machanic http://sqlblog.com/blogs/adam_machanic/archive/2016/01/04/sqlquerystress-the-source-code.aspx | ErikEJ | 390 |
-| 166 |  [Aerial](https://github.com/cDima/Aerial) | Aerial Apple TV screen saver for Windows | cDima | 1570 |
-| 167 |  [Statiq.Web](https://github.com/statiqdev/Statiq.Web) | The flexible static site generator formerly known as Wyam (first Statiq Web releases coming soon). | statiqdev | 1200 |
-| 168 |  [openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) | Open Hardware Monitor | openhardwaremonitor | 2290 |
-| 169 |  [MarkdownMonster](https://github.com/RickStrahl/MarkdownMonster) | An extensible Markdown Editor, Viewer and Weblog Publisher for Windows | RickStrahl | 864 |
-| 170 |  [aspnet-api-versioning](https://github.com/microsoft/aspnet-api-versioning) | Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core. | microsoft | 1587 |
-| 171 |  [WestWindWebSurge](https://github.com/RickStrahl/WestWindWebSurge) | Quick and easy URL and Load Testing for your Web applications on Windows | RickStrahl | 307 |
-| 172 |  [Netling](https://github.com/hallatore/Netling) | Netling is a load tester client for easy web testing. | hallatore | 1085 |
-| 173 |  [OptiKey](https://github.com/OptiKey/OptiKey) | OptiKey - Full computer control and speech with your eyes | OptiKey | 3715 |
-| 174 |  [TimberWinR](https://github.com/TerribleDev/TimberWinR) | A First-class Native Windows to Redis/Elasticsearch Logstash Agent utilizing Microsoft's LogParser | TerribleDev | 66 |
-| 175 |  [dnSpy](https://github.com/0xd4d/dnSpy) | .NET debugger and assembly editor | 0xd4d | 13546 |
-| 176 |  [tModLoader](https://github.com/tModLoader/tModLoader) | Create and play Terraria mods with tModLoader | tModLoader | 873 |
-| 177 |  [Bridge](https://github.com/bridgedotnet/Bridge) | :spades: C# to JavaScript compiler. Write modern mobile and web apps in C#. Run them anywhere in JavaScript with Bridge.NET. | bridgedotnet | 1988 |
-| 178 |  [Coderr.Server](https://github.com/coderrio/Coderr.Server) | Replace logfiles with Coderr to correct bugs faster and more efficiently. | coderrio | 87 |
-| 179 |  [peachpie](https://github.com/peachpiecompiler/peachpie) | PeachPie - the PHP compiler and runtime for .NET and .NET Core | peachpiecompiler | 1445 |
-| 180 |  [sharpsnmplib](https://github.com/lextudio/sharpsnmplib) | Sharp SNMP Library- Open Source SNMP for .NET and Mono | lextudio | 221 |
-| 181 |  [Harvester](https://github.com/cbaxter/Harvester) | Debug Viewer for Trace, NLog & Log4Net | cbaxter | 34 |
-| 182 |  [SSH.NET](https://github.com/sshnet/SSH.NET) | SSH.NET is a Secure Shell (SSH) library for .NET, optimized for parallelism. | sshnet | 1846 |
-| 183 |  [fast-member](https://github.com/mgravell/fast-member) | Automatically exported from code.google.com/p/fast-member | mgravell | 599 |
-| 184 |  [server](https://github.com/Ulterius/server) | [WIP] Ulterius™ server where all the magic happens :rocket: :feelsgood: | Ulterius | 596 |
-| 185 |  [im-only-resting](https://github.com/SwensenSoftware/im-only-resting) | A feature-rich WinForms-based HTTP client | SwensenSoftware | 142 |
-| 186 |  [resizer](https://github.com/imazen/resizer) | The official repository for ImageResizer | imazen | 458 |
-| 187 |  [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) | ASP.NET Boilerplate - Web Application Framework | aspnetboilerplate | 8053 |
-| 188 |  [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software | thangchung | 11473 |
-| 189 |  [RouteMagic](https://github.com/haacked/RouteMagic) | Utility Library to get the most out of ASP.NET Routing. | haacked | 177 |
-| 190 |  [NSwag](https://github.com/RicoSuter/NSwag) | The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. | RicoSuter | 3287 |
-| 191 |  [NAudio](https://github.com/naudio/NAudio) | Audio and MIDI library for .NET | naudio | 2423 |
-| 192 |  [Scripty](https://github.com/daveaglick/Scripty) | Tools to let you use Roslyn-powered C# scripts for code generation | daveaglick | 589 |
-| 193 |  [NuGetPackageExplorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) | Create, update and deploy Nuget Packages with a GUI | NuGetPackageExplorer | 1460 |
-| 194 |  [DbUp](https://github.com/DbUp/DbUp) | DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date. | DbUp | 1156 |
-| 195 |  [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin) | Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles. | IgnaceMaes | 1945 |
-| 196 |  [ExpressMapper](https://github.com/fluentsprings/ExpressMapper) | Mapping .Net types | fluentsprings | 288 |
-| 197 |  [Mapster](https://github.com/MapsterMapper/Mapster) | A fast, fun and stimulating object to object Mapper | MapsterMapper | 582 |
-| 198 |  [Flurl](https://github.com/tmenier/Flurl) | Fluent URL builder and testable HTTP client for .NET | tmenier | 1979 |
-| 199 |  [seb-win](https://github.com/SafeExamBrowser/seb-win) | Safe Exam Browser for Windows | SafeExamBrowser | 49 |
-| 200 |  [CefSharp](https://github.com/cefsharp/CefSharp) | .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework | cefsharp | 6753 |
-| 201 |  [cake](https://github.com/cake-build/cake) | Cake (C# Make) is a cross platform build automation system. | cake-build | 2466 |
-| 202 |  [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) | Math.NET Numerics | mathnet | 2087 |
-| 203 |  [VisualStudioUninstaller](https://github.com/microsoft/VisualStudioUninstaller) | Visual Studio Uninstallation sometimes can be unreliable and often leave out a lot of unwanted artifacts. Visual Studio Uninstaller is designed to thoroughly and reliably remove these unwanted artifacts. | microsoft | 3317 |
-| 204 |  [choco](https://github.com/chocolatey/choco) | Chocolatey - the package manager for Windows | chocolatey | 6305 |
-| 205 |  [PSReadLine](https://github.com/PowerShell/PSReadLine) | A bash inspired readline implementation for PowerShell | PowerShell | 1392 |
-| 206 |  [LINQPad.QueryPlanVisualizer](https://github.com/Giorgi/LINQPad.QueryPlanVisualizer) | SQL Server query execution plan visualizer for LINQPad | Giorgi | 157 |
-| 207 |  [GamePipe](https://github.com/DjScribbles/GamePipe) | An application that automates the movement of Steam games from drive to drive or computer to computer | DjScribbles | 169 |
-| 208 |  [docfx](https://github.com/dotnet/docfx) | Tools for building and publishing API documentation for .NET projects | dotnet | 2110 |
-| 209 |  [MailKit](https://github.com/jstedfast/MailKit) | A cross-platform .NET library for IMAP, POP3, and SMTP. | jstedfast | 3177 |
-| 210 |  [System.Linq.Dynamic](https://github.com/kahanu/System.Linq.Dynamic) | This is the Microsoft assembly for the .Net 4.0 Dynamic language functionality. | kahanu | 385 |
-| 211 |  [LinqStatistics](https://github.com/dkackman/LinqStatistics) | Linq extensions to calculate basic statistics | dkackman | 51 |
-| 212 |  [logwizard](https://github.com/jtorjo/logwizard) | Log Wizard - a Log Viewer that is easy and fun to use! | jtorjo | 239 |
-| 213 |  [SteamCleaner](https://github.com/Codeusa/SteamCleaner) | :us: A PC utility for restoring disk space from various game clients like Origin, Steam, Uplay, Battle.net, GoG and Nexon :us: | Codeusa | 1534 |
-| 214 |  [Baconit](https://github.com/QuinnDamerell/Baconit) | A beatiful, powerful, reddit client for Windows 10. | QuinnDamerell | 215 |
-| 215 |  [OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) | An open source fork of Windows Live Writer | OpenLiveWriter | 2297 |
-| 216 |  [FileHelpers](https://github.com/MarcosMeli/FileHelpers) | The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in files, strings or streams | MarcosMeli | 836 |
-| 217 |  [VSSpellChecker](https://github.com/EWSoftware/VSSpellChecker) | A Visual Studio spell checker editor extension that checks the spelling of comments, strings, and plain text as you type.  Supports configuration and various languages. | EWSoftware | 300 |
-| 218 |  [Ninject](https://github.com/ninject/Ninject) | the ninja of .net dependency injectors | ninject | 2323 |
-| 219 |  [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions) | Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provides a predicate system. The goal of this library is to keep your POCOs pure by not requiring any attributes or base class inheritance. | tmsmith | 1342 |
-| 220 |  [FrequencyTracker](https://github.com/bsamuels453/FrequencyTracker) | Useful for figuring out the source of unknown signals when exploring the radio spectrum. | bsamuels453 | 7 |
-| 221 |  [reactive](https://github.com/dotnet/reactive) | The Reactive Extensions for .NET | dotnet | 4191 |
-| 222 |  [stuntman](https://github.com/ritterim/stuntman) | Library for impersonating users during development leveraging ASP.NET Identity. | ritterim | 262 |
-| 223 |  [kudu](https://github.com/projectkudu/kudu) | Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure. | projectkudu | 2514 |
-| 224 |  [CsvHelper](https://github.com/JoshClose/CsvHelper) | Library to help reading and writing CSV files | JoshClose | 2686 |
-| 225 |  [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. | ShareX | 11828 |
-| 226 |  [bukkitgui2](https://github.com/Bertware/bukkitgui2) | A completely new version of BukkitGUI , which is easier in use, faster, and more powerful | Bertware | 59 |
-| 227 |  [snaketail-net](https://github.com/snakefoot/snaketail-net) | Tail utility for monitoring text log files and Windows EventLog | snakefoot | 226 |
-| 228 |  [nodejstools](https://github.com/microsoft/nodejstools) | Node.js Tools for Visual Studio | microsoft | 1757 |
-| 229 |  [acat](https://github.com/intel/acat) | Assistive Context-Aware Toolkit (ACAT) | intel | 3097 |
-| 230 |  [Jackett](https://github.com/zone117x/Jackett) | Use just about any tracker with Sonarr | zone117x | 126 |
-| 231 |  [Markdown-Edit](https://github.com/mike-ward/Markdown-Edit) | My attempt at a markdown editor for windows | mike-ward | 678 |
-| 232 |  [overrideexplorer](https://github.com/dani3l3/overrideexplorer) | Override Explorer for SCOM 2012 | dani3l3 | 5 |
-| 233 |  [mpviewer](https://github.com/dani3l3/mpviewer) | MPViewer tool for System Center 2012 Operations Manager | dani3l3 | 8 |
-| 234 |  [TerrariaPatcher](https://github.com/dougbenham/TerrariaPatcher) |  | dougbenham | 25 |
-| 235 |  [JustDecompileEngine](https://github.com/telerik/JustDecompileEngine) | The decompilation engine of JustDecompile | telerik | 1095 |
-| 236 |  [ILSpy](https://github.com/icsharpcode/ILSpy) | .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform! | icsharpcode | 9666 |
-| 237 |  [jint](https://github.com/sebastienros/jint) | Javascript Interpreter for .NET | sebastienros | 1768 |
-| 238 |  [Total-Uninstaller](https://github.com/tsasioglu/Total-Uninstaller) | Windows software uninstaller | tsasioglu | 241 |
-| 239 |  [AutoMapper.EF6](https://github.com/AutoMapper/AutoMapper.EF6) | Extensions for AutoMapper and EF6 | AutoMapper | 123 |
-| 240 |  [IdentityServer3](https://github.com/IdentityServer/IdentityServer3) | OpenID Connect Provider and OAuth 2.0 Authorization Server Framework for ASP.NET 4.x/Katana | IdentityServer | 2066 |
-| 241 |  [NLog.Owin.Logging](https://github.com/NLog/NLog.Owin.Logging) | NLog logging adapter for OWIN | NLog | 24 |
-| 242 |  [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) | Official PetaPoco, A tiny ORM-ish thing for your POCO's | CollaboratingPlatypus | 1669 |
-| 243 |  [Simple.Data](https://github.com/markrendle/Simple.Data) | A light-weight, dynamic data access component for C# 4.0 | markrendle | 1341 |
-| 244 |  [Massive](https://github.com/FransBouma/Massive) | A small, happy, dynamic MicroORM for .NET that will love you forever. | FransBouma | 1755 |
-| 245 |  [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) | Download ScriptAnalyzer from PowerShellGallery | PowerShell | 903 |
-| 246 |  [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) | Seamlessly adds a swagger to WebApi projects! | domaindrivendev | 2837 |
-| 247 |  [SpaceEngineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) |  | KeenSoftwareHouse | 2713 |
-| 248 |  [KSP-Mod-Admin-aOS](https://github.com/MacTee/KSP-Mod-Admin-aOS) | A tool to manage the installation, removal and update of mods for the game Kerbal Space Program. ---------&gt; Use the dev branch for further development!!! | MacTee | 29 |
-| 249 |  [dot42](https://github.com/dot42/dot42) | Compiler tools | dot42 | 73 |
-| 250 |  [Craft.Net](https://github.com/ddevault/Craft.Net) | (Unmaintained, see TrueCraft) Minecraft server, client, and etc for .NET | ddevault | 215 |
-| 251 |  [TrueCraft](https://github.com/ddevault/TrueCraft) | Minecraft for hipsters | ddevault | 1926 |
-| 252 |  [TShock](https://github.com/Pryaxis/TShock) | ☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. | Pryaxis | 979 |
-| 253 |  [RemoteAdminConsole](https://github.com/Grandpa-G/RemoteAdminConsole) | Allows remote administrator to manage TShock server | Grandpa-G | 4 |
-| 254 |  [ReSharper.AutoFormatOnSave](https://github.com/pedropombeiro/ReSharper.AutoFormatOnSave) | An addin for Visual Studio which causes the documents to be reformated on save | pedropombeiro | 27 |
-| 255 |  [Terraria-Map-Editor](https://github.com/TEdit/Terraria-Map-Editor) | TEdit - Terraria Map Editor - TEdit is a stand alone, open source map editor for Terraria. It lets you edit maps just like (almost) paint! It also lets you change world settings (time, bosses downed etc), edit chests and change sign, make epic dungeons, castles, cities, and add rewards for your adventurers! | TEdit | 483 |
-| 256 |  [HyperFastCgi](https://github.com/xplicit/HyperFastCgi) | Performant nginx to mono fastcgi server | xplicit | 124 |
-| 257 |  [roadkill](https://github.com/roadkillwiki/roadkill) | A modern .NET Wiki | roadkillwiki | 270 |
-| 258 |  [depressurizer](https://github.com/rallion/depressurizer) |  | rallion | 802 |
-| 259 |  [Jil](https://github.com/kevin-montrose/Jil) | Fast .NET JSON (De)Serializer, Built On Sigil | kevin-montrose | 1979 |
-| 260 |  [SimpleSpeedTester](https://github.com/theburningmonk/SimpleSpeedTester) | SimpleSpeedTester is a simple, easy to use framework that helps you speed test your .Net code by taking care of some of the orchestration for you. | theburningmonk | 110 |
-| 261 |  [MiniBench-WIP](https://github.com/mattwarren/MiniBench-WIP) | Somewhere to try out some ideas for MiniBench | mattwarren | 18 |
-| 262 |  [ChameleonForms](https://github.com/MRCollective/ChameleonForms) | Shape-shifting your forms experience in ASP.NET MVC | MRCollective | 245 |
-| 263 |  [RazorEngine](https://github.com/Antaris/RazorEngine) | Open source templating engine based on Microsoft's Razor parsing engine | Antaris | 1858 |
-| 264 |  [scriptcs](https://github.com/scriptcs/scriptcs) | Write C# apps with a text editor, nuget and the power of Roslyn! | scriptcs | 2223 |
-| 265 |  [SignalR](https://github.com/SignalR/SignalR) | Incredibly simple real-time web for .NET | SignalR | 7974 |
-| 266 |  [EntityFramework.Utilities](https://github.com/MikaelEliasson/EntityFramework.Utilities) | Provides extensions for EntityFramework that doesn't exist out of the box like delete and update by query and bulk inserts | MikaelEliasson | 379 |
-| 267 |  [Topshelf](https://github.com/Topshelf/Topshelf) | An easy service hosting framework for building Windows services using .NET | Topshelf | 3153 |
-| 268 |  [carnac](https://github.com/Code52/carnac) | A utility to give some insight into how you use your keyboard | Code52 | 1154 |
-| 269 |  [WebApiProxyGen](https://github.com/AtomStar/WebApiProxyGen) | Generates proxy classes from WebApi 2 using a T4 template on the client and a metadata handler on the server. Built on and inspired by https://github.com/faniereynders/WebApiProxy this uses a T4 template on the client to support multiple endpoints. See Wiki for more info. | AtomStar | 2 |
-| 270 |  [MvcCodeRouting](https://github.com/maxtoroq/MvcCodeRouting) | Namespace-based Modularity for ASP.NET MVC and Web API | maxtoroq | 48 |
-| 271 |  [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) | The WPF-based text editor component used in SharpDevelop | icsharpcode | 913 |
-| 272 |  [sandbox](https://github.com/ritterim/sandbox) | An abstraction utilizing RimDev Automation libraries | ritterim | 14 |
-| 273 |  [WebAPIContrib](https://github.com/WebApiContrib/WebAPIContrib) | Community Contributions for ASP.NET Web API | WebApiContrib | 753 |
-| 274 |  [CKAN](https://github.com/KSP-CKAN/CKAN) | The Comprehensive Kerbal Archive Network | KSP-CKAN | 1053 |
-| 275 |  [Glyphfriend](https://github.com/rionmonster/Glyphfriend) | Glyphfriend is a Visual Studio Extension to add previews for various icon/glyph fonts to Visual Studio. | rionmonster | 152 |
-| 276 |  [LibLog](https://github.com/damianh/LibLog) | LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction. | damianh | 909 |
-| 277 |  [Dapper](https://github.com/StackExchange/Dapper) | Dapper - a simple object mapper for .Net | StackExchange | 12037 |
-| 278 |  [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) | mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. | mRemoteNG | 3968 |
-| 279 |  [Exceptionless](https://github.com/exceptionless/Exceptionless) | Exceptionless server and jobs | exceptionless | 1700 |
-| 280 |  [BenchmarkIt](https://github.com/joeyciechanowicz/BenchmarkIt) | Simple easy .NET benchmarking for POCs | joeyciechanowicz | 64 |
-| 281 |  [Hangfire](https://github.com/HangfireIO/Hangfire) | An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required | HangfireIO | 5543 |
-| 282 |  [aspnetcore](https://github.com/dotnet/aspnetcore) | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. | dotnet | 16304 |
-| 283 |  [referencesource](https://github.com/microsoft/referencesource) | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework | microsoft | 2099 |
-| 284 |  [RestSharp](https://github.com/restsharp/RestSharp) | Simple REST and HTTP API Client for .NET | restsharp | 7073 |
-| 285 |  [common-logging](https://github.com/net-commons/common-logging) | A portable logging abstraction for .NET | net-commons | 613 |
-| 286 |  [oneget](https://github.com/OneGet/oneget) | PackageManagement (aka OneGet) is a package manager for Windows | OneGet | 2157 |
-| 287 |  [slow-cheetah](https://github.com/sayedihashimi/slow-cheetah) | XML Transforms for app.config and other XML files | sayedihashimi | 244 |
-| 288 |  [Ensure.That](https://github.com/danielwertheim/Ensure.That) | Yet another guard clause project for .Net C#'ers | danielwertheim | 248 |
-| 289 |  [Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) | Play your favorite games in a borderless window; no more time consuming alt-tabs. | Codeusa | 2483 |
-| 290 |  [Sonarr](https://github.com/Sonarr/Sonarr) | Smart PVR for newsgroup and bittorrent users. | Sonarr | 5070 |
-| 291 |  [monotorrent](https://github.com/alanmcgovern/monotorrent) | The official repository for MonoTorrent, a bittorrent library for .NET | alanmcgovern | 668 |
-| 292 |  [cadru](https://github.com/scottdorman/cadru) | A Microsoft .NET Framework toolkit | scottdorman | 43 |
-| 293 |  [WebApiProxy](https://github.com/RestCode/WebApiProxy) |  | RestCode | 192 |
-| 294 |  [TSqlFlex](https://github.com/nycdotnet/TSqlFlex) | An addon for SSMS using the Red Gate SIP Framework | nycdotnet | 65 |
-| 295 |  [ServiceStack.Text](https://github.com/ServiceStack/ServiceStack.Text) | .NET's fastest JSON, JSV and CSV Text Serializers | ServiceStack | 1088 |
-| 296 |  [Thinktecture.IdentityModel](https://github.com/IdentityModel/Thinktecture.IdentityModel) | [deprecated] Thinktecture.IdentityModel | IdentityModel | 395 |
-| 297 |  [AuthorizationServer](https://github.com/IdentityModel/AuthorizationServer) | Sample implementation of an OAuth2 Authorization Server | IdentityModel | 275 |
-| 298 |  [OwinOAuthProviders](https://github.com/TerribleDev/OwinOAuthProviders) | OAuth providers for Owin | TerribleDev | 471 |
-| 299 |  [codemaid](https://github.com/codecadwallader/codemaid) | CodeMaid is an open source Visual Studio extension to cleanup and simplify our C#, C++, F#, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding. | codecadwallader | 1159 |
-| 300 |  [EntityFramework.Extended](https://github.com/zzzprojects/EntityFramework.Extended) | Add-on feature for Entity Framework | zzzprojects | 1285 |
-| 301 |  [IFix](https://github.com/OsirisTerje/IFix) | Command line utility for fixing miscellaneous stuff within Visual Studio and its tools | OsirisTerje | 8 |
-| 302 |  [MvcMailer](https://github.com/smsohan/MvcMailer) | A Mailer for ASP.Net MVC that forms the Email Body using MVC Views (Razor etc.) following Ruby on Rails ActionMailer style | smsohan | 578 |
-| 303 |  [mustache-sharp](https://github.com/jehugaleahsa/mustache-sharp) | An extension of the mustache text template engine for .NET. | jehugaleahsa | 254 |
-| 304 |  [Craig-s-Utility-Library](https://github.com/JaCraig/Craig-s-Utility-Library) | A giant set of utility classes originally start back in the .Net 2.0 days and updated until .Net Core and .Net Standard became a thing. At which point I took the library and broke it up into a ton of smaller libraries. View my profile for more up to date versions of everything. | JaCraig | 385 |
-| 305 |  [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) | Json.NET is a popular high-performance JSON framework for .NET | JamesNK | 7636 |
-| 306 |  [PortableRazor](https://github.com/xamarin/PortableRazor) | A lightweight implementation of ASP.NET MVC APIs for mobile devices. | xamarin | 84 |
-| 307 |  [datatables.aspnet](https://github.com/ALMMa/datatables.aspnet) | Microsoft Asp.Net server-side support and helpers for jQuery DataTables | ALMMa | 273 |
-| 308 |  [Nancy](https://github.com/NancyFx/Nancy) | Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono | NancyFx | 7071 |
-| 309 |  [MvcPages](https://github.com/maxtoroq/MvcPages) | MvcPages combines the simplicity of ASP.NET Web Pages with the power of ASP.NET MVC | maxtoroq | 7 |
-| 310 |  [MiniBlog](https://github.com/madskristensen/MiniBlog) | A minimal blog engine using Razor Web Pages | madskristensen | 887 |
-| 311 |  [raven-csharp](https://github.com/getsentry/raven-csharp) | Superseded by: https://github.com/getsentry/sentry-dotnet | getsentry | 234 |
-| 312 |  [owin.dll](https://github.com/owin/owin.dll) | OWIN defines a standard interface between .NET web servers and web applications. | owin | 164 |
-| 313 |  [Nowin](https://github.com/Bobris/Nowin) | Owin Web Server in pure .Net | Bobris | 527 |
-| 314 |  [Opserver](https://github.com/opserver/Opserver) | Stack Exchange's Monitoring System | opserver | 3918 |
-| 315 |  [WebEssentials2013](https://github.com/madskristensen/WebEssentials2013) | Visual Studio extension | madskristensen | 967 |
-| 316 |  [CodeRefractor](https://github.com/ciplogic/CodeRefractor) | MSIL/CIL to Native C++ Compiler | ciplogic | 58 |
-| 317 |  [elmah-mvc](https://github.com/alexbeletsky/elmah-mvc) | Painless integration of ELMAH into ASP.NET MVC application | alexbeletsky | 272 |
-| 318 |  [elmah-contrib-webapi](https://github.com/rdingwall/elmah-contrib-webapi) | Elmah.Contrib.WebApi provides an ASP.NET Web API exception filter, ElmahHandleErrorApiAttribute, for logging errors directly to ELMAH. | rdingwall | 47 |
-| 319 |  [Glimpse](https://github.com/Glimpse/Glimpse) | The open source diagnostics platform for the web | Glimpse | 2261 |
-| 320 |  [NuBuild](https://github.com/brentspell/NuBuild) | NuGet package build system and Visual Studio project templates | brentspell | 44 |
-| 321 |  [NLog](https://github.com/NLog/NLog) | NLog - Advanced and Structured Logging for Various .NET Platforms | NLog | 4353 |
-| 322 |  [NuGetGallery](https://github.com/NuGet/NuGetGallery) | NuGet Gallery is a package repository that powers https://www.nuget.org | NuGet | 1224 |
-| 323 |  [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) | A C# implementation of the OpenID, OAuth protocols | DotNetOpenAuth | 1674 |
-| 324 |  [AutoMapper](https://github.com/AutoMapper/AutoMapper) | A convention-based object-object mapper in .NET. | AutoMapper | 7035 |
-| 325 |  [dotnet](https://github.com/MiniProfiler/dotnet) | A simple but effective mini-profiler for ASP.NET (and Core) websites | MiniProfiler | 1886 |
-| 326 |  [Strathweb.CacheOutput](https://github.com/filipw/Strathweb.CacheOutput) | ASP.NET Web API CacheOutput - library to allow you to cache the output of ApiControllers | filipw | 828 |
-| 327 |  [RequestReduce](https://github.com/mwrock/RequestReduce) | Instantly makes your .net website faster by reducing the number and size of requests with almost no effort. | mwrock | 226 |
-| 328 |  [Tie.Controls.Bootstrap](https://github.com/Patreo/Tie.Controls.Bootstrap) | Twitter Bootstrap Controls for ASP.NET | Patreo | 33 |
-| 329 |  [HidLibrary](https://github.com/mikeobrien/HidLibrary) | This library enables you to enumerate and communicate with Hid compatible USB devices in .NET. | mikeobrien | 334 |
-| 330 |  [git-tfs](https://github.com/git-tfs/git-tfs) | A Git/TFS bridge, similar to git-svn | git-tfs | 1558 |
-| 331 |  [MvcSiteMapProvider](https://github.com/maartenba/MvcSiteMapProvider) | An ASP.NET MVC SiteMapProvider implementation for the ASP.NET MVC framework. | maartenba | 532 |
+| 1 |  [DeOldify](https://github.com/jantic/DeOldify) | A Deep Learning based project for colorizing and restoring old images (and video!) | jantic | 9359 |
+| 2 |  [tigertoolbox](https://github.com/microsoft/tigertoolbox) | Toolbox repository for Tiger team | microsoft | 845 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Kotlin
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [blokada](https://github.com/blokadaorg/blokada) | Free ad blocker for Android with the best open source community. | blokadaorg | 1408 |
+| 2 |  [qksms](https://github.com/moezbhatti/qksms) | The most beautiful SMS messenger for Android | moezbhatti | 2753 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Lua
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | NSE script based on Vulners.com API | vulnersCom | 1964 |
+| 2 |  [PathOfBuilding](https://github.com/Openarl/PathOfBuilding) | Offline build planner for Path of Exile. | Openarl | 1868 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Makefile
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [motioneyeos](https://github.com/ccrisan/motioneyeos) | A Video Surveillance OS For Single-board Computers | ccrisan | 4901 |
+| 2 |  [motionpie](https://github.com/ccrisan/motionpie) | A video surveillance OS for single-board computers | ccrisan | 585 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Objective-C
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [MiniMobileDeviceLab](https://github.com/GoogleChromeLabs/MiniMobileDeviceLab) | A mini mobile web device lab | GoogleChromeLabs | 390 |
+
+**[⬆ Back to Index](#-contents)**
+
+## OpenSCAD
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [PiPiece](https://github.com/dmopalmer/PiPiece) | Electronic eyepiece for telescopes etc. using the Raspberry Pi camera module | dmopalmer | 8 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Others
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) | A curated list of awesome C-Sharp frameworks, libraries and software. | uhub | 330 |
+| 2 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 31261 |
+| 3 |  [msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) | Samples from Microsoft teams for the MSDN Code Gallery | microsoftarchive | 43 |
+| 4 |  [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) | Curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings | ironcev | 283 |
+| 5 |  [css](https://github.com/airbnb/css) | A mostly reasonable approach to CSS and Sass. | airbnb | 5169 |
+| 6 |  [PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) | The Unofficial PowerShell Best Practices and Style Guide | PoshCode | 1248 |
+| 7 |  [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) | 📢 Various README templates & tips on writing high-quality documentation that people want to read. | kylelobo | 3393 |
+| 8 |  [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) | Awesome list dedicated to Windows Subsystem for Linux | sirredbeard | 1990 |
+| 9 |  [notes](https://github.com/8483/notes) | Full-stack web development notes. | 8483 | 1467 |
+| 10 |  [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) | A curated list of awesome things related to Nuxt.js | nuxt-community | 2855 |
+| 11 |  [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) | A curated list of awesome puppeteer resources. | transitive-bullshit | 1160 |
+| 12 |  [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. | imthenachoman | 10080 |
+| 13 |  [awesome-pnpm](https://github.com/pnpm/awesome-pnpm) | Awesome pnpm resources | pnpm | 34 |
+| 14 |  [awesome-dotnet](https://github.com/quozd/awesome-dotnet) | A collection of awesome .NET libraries, tools, frameworks and software | quozd | 11055 |
+| 15 |  [idiomatic.js](https://github.com/rwaldron/idiomatic.js) | Principles of Writing Consistent, Idiomatic JavaScript | rwaldron | 15898 |
+| 16 |  [advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) | AdvancedTomato fork for ARM routers based on Tomato by Shibby | Jackysi | 49 |
+| 17 |  [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) | 🎮 The only Front-End Performance Checklist that runs faster than the others | thedaviddias | 12003 |
+| 18 |  [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. | kelseyhightower | 20221 |
+| 19 |  [prometheus](https://github.com/vegasbrianc/prometheus) | A docker-compose stack for Prometheus monitoring | vegasbrianc | 2446 |
+| 20 |  [dockprom](https://github.com/stefanprodan/dockprom) | Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager | stefanprodan | 2802 |
+| 21 |  [AtoMiC-ToolKit-Docker](https://github.com/htpcBeginner/AtoMiC-ToolKit-Docker) | Moved - https://github.com/htpcBeginner/docker-traefik | htpcBeginner | 213 |
+| 22 |  [EditorConfig](https://github.com/RehanSaeed/EditorConfig) | A very generic .editorconfig file supporting .NET, C#, VB and web technologies. | RehanSaeed | 197 |
+| 23 |  [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) | Collection of helpful tips and tricks for VS Code. | microsoft | 7980 |
+| 24 |  [toml](https://github.com/toml-lang/toml) | Tom's Obvious, Minimal Language | toml-lang | 13009 |
+| 25 |  [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) | Windows 10 Privacy Guide | adolfintel | 1061 |
+| 26 |  [Awesome](https://github.com/Awesome-Windows/Awesome) | :computer: 🎉 An awesome & curated list of best applications and tools for Windows. | Awesome-Windows | 12637 |
+| 27 |  [jstips](https://github.com/loverajoel/jstips) | This is about useful JS tips! | loverajoel | 11145 |
+| 28 |  [awesome-graphql](https://github.com/chentsulin/awesome-graphql) | Awesome list of GraphQL & Relay | chentsulin | 11123 |
+| 29 |  [awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | veggiemonk | 17295 |
+| 30 |  [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) | Using a library in your webpack project? Here’s how to optimize it | GoogleChromeLabs | 2698 |
+| 31 |  [es6features](https://github.com/lukehoban/es6features) | Overview of ECMAScript 6 features | lukehoban | 27389 |
+| 32 |  [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | binhnguyennus | 25136 |
+| 33 |  [awesome-code-review](https://github.com/joho/awesome-code-review) | An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc | joho | 1932 |
+| 34 |  [nodejs-guidelines](https://github.com/microsoft/nodejs-guidelines) | Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms. | microsoft | 2149 |
+| 35 |  [corefx](https://github.com/dotnet/corefx) | CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others. | dotnet | 17882 |
+| 36 |  [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in | kdeldycke | 11434 |
+| 37 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 40987 |
+| 38 |  [reverse-engineering](https://github.com/wtsxDev/reverse-engineering) | List of awesome reverse engineering resources | wtsxDev | 4247 |
+| 39 |  [MusicStore](https://github.com/aspnet/MusicStore) | [Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 1349 |
+| 40 |  [vue-admin](https://github.com/vue-bulma/vue-admin) | We are refactoring it, using the latest Vue and Bulma. WIP | vue-bulma | 9468 |
+| 41 |  [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) | Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects. | mbeaudru | 19696 |
+| 42 |  [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 52458 |
+| 43 |  [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources. | n1trux | 9747 |
+| 44 |  [SANS-SEC505](https://github.com/EnclaveConsulting/SANS-SEC505) | Some of the lab files for the SANS Institute course SEC505: Securing Windows and PowerShell Automation: https://sans.org/sec505 | EnclaveConsulting | 242 |
+| 45 |  [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | sdmg15 | 30100 |
+| 46 |  [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | kahun | 19580 |
+| 47 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 138135 |
+| 48 |  [Auth-Boss](https://github.com/teesloane/Auth-Boss) | 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web. | teesloane | 2830 |
+| 49 |  [NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) | This is a lootfilter for the game &#34;Path of Exile&#34;. It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining. | NeverSinkDev | 1771 |
+| 50 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 35764 |
+| 51 |  [QueryStoreDashboard](https://github.com/Evdlaar/QueryStoreDashboard) | Query Store Database Performance Dashboard | Evdlaar | 27 |
+| 52 |  [games](https://github.com/leereilly/games) | :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. | leereilly | 14023 |
+| 53 |  [public-notes](https://github.com/verbosemode/public-notes) | My public (install) notes. /me doing linux/networking/... networking things | verbosemode | 22 |
+| 54 |  [debugger](https://github.com/firefox-devtools/debugger) | The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠 | firefox-devtools | 4545 |
+| 55 |  [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) | A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff. | adamsitnik | 1416 |
+| 56 |  [api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | microsoft | 14112 |
+| 57 |  [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) | A kickstarter guide to writing ES6 | metagrover | 4625 |
+| 58 |  [data-science](https://github.com/ossu/data-science) | :bar_chart: Path to a free self-taught education in Data Science! | ossu | 7197 |
+| 59 |  [commandline](https://github.com/gsscoder/commandline) | Terse syntax C# command line parser for .NET with F# support | gsscoder | 1683 |
+| 60 |  [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) | This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students | AchoArnold | 1607 |
+| 61 |  [HEAD](https://github.com/joshbuchea/HEAD) | 🗿 A list of everything that *could* go in the head of your document | joshbuchea | 26908 |
+| 62 |  [issues](https://github.com/cmangos/issues) | This repository is used as a centralized point for all issues regarding CMaNGOS. | cmangos | 128 |
+| 63 |  [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) | Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem | ChromeDevTools | 3996 |
+| 64 |  [js-by-examples](https://github.com/bmkmanoj/js-by-examples) | Learn JavaScript by examples | bmkmanoj | 1111 |
+| 65 |  [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro | AllThingsSmitty | 14299 |
+| 66 |  [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) | A collection of tips to help up your jQuery game | AllThingsSmitty | 4130 |
+| 67 |  [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) | Enhanced version of Asus's router firmware (Asuswrt) (legacy code base) | RMerl | 6342 |
+| 68 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 69532 |
+| 69 |  [jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) | jQuery plugin to sorting lists also the tree structures. | camohub | 178 |
+| 70 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 127658 |
+| 71 |  [DscResources](https://github.com/PowerShell/DscResources) | Central repository for PowerShell Desired State Configuration (DSC) resources. | PowerShell | 709 |
+| 72 |  [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository | OAI | 16945 |
+| 73 |  [awesome-material](https://github.com/sachin1092/awesome-material) | A curated list of Google's material design libraries for different frameworks. | sachin1092 | 553 |
+| 74 |  [es6-tools](https://github.com/addyosmani/es6-tools) | An aggregation of tooling for using ES6 today | addyosmani | 3772 |
+| 75 |  [aspnet-docker](https://github.com/aspnet/aspnet-docker) | [Archived] ASP.NET Core Docker images for 1.x. Go to https://github.com/dotnet/dotnet-docker for 2.1 and up. | aspnet | 752 |
+| 76 |  [frontend-stuff](https://github.com/moklick/frontend-stuff) | A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript. | moklick | 8310 |
+| 77 |  [htaccess](https://github.com/phanan/htaccess) | ✂A collection of useful .htaccess snippets. | phanan | 11239 |
+| 78 |  [daux.io](https://github.com/justinwalsh/daux.io) | Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. | justinwalsh | 4645 |
+| 79 |  [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python | lukasz-madon | 17039 |
+| 80 |  [flexbugs](https://github.com/philipwalton/flexbugs) | A community-curated list of flexbox issues and cross-browser workarounds for them. | philipwalton | 11884 |
+| 81 |  [guides](https://github.com/NARKOZ/guides) | Design and development guides | NARKOZ | 1719 |
+| 82 |  [rtl-sdr](https://github.com/Eisbaeeer/rtl-sdr) | rtlsdr rtl_fm fork - retune & change modes without restarting | Eisbaeeer | 4 |
+| 83 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 118565 |
+| 84 |  [decoding](https://github.com/michelinok/decoding) | Collection of guides for radio deconding signals | michelinok | 5 |
+| 85 |  [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! | davidsonfellipe | 6814 |
+| 86 |  [cursors](https://github.com/chrisnager/cursors) | All available cursors | chrisnager | 185 |
+| 87 |  [Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) |  | corporate-gadfly | 304 |
+| 88 |  [advancedtomato](https://github.com/Jackysi/advancedtomato) | AdvancedTomato firmware repository (Tomato by Shibby fork) | Jackysi | 272 |
+| 89 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 18797 |
+| 90 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 34689 |
+| 91 |  [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers. | dypsilon | 26899 |
+| 92 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 96083 |
+| 93 |  [postman-app-support](https://github.com/postmanlabs/postman-app-support) | Postman helps you be more efficient while working with APIs. Using Postman, you can construct complex HTTP requests quickly, organize them in collections and share them with your co-workers. | postmanlabs | 4288 |
+
+**[⬆ Back to Index](#-contents)**
+
+## PHP
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [panel](https://github.com/pterodactyl/panel) | Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users. | pterodactyl | 1637 |
+| 2 |  [Lychee](https://github.com/LycheeOrg/Lychee) | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | LycheeOrg | 995 |
+| 3 |  [Lychee](https://github.com/electerious/Lychee) | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | electerious | 5304 |
+| 4 |  [browscap](https://github.com/browscap/browscap) | :page_with_curl: The main project repository | browscap | 318 |
+| 5 |  [TeamPass](https://github.com/nilsteampassnet/TeamPass) | Collaborative Passwords Manager | nilsteampassnet | 1249 |
+| 6 |  [sysPass](https://github.com/nuxsmin/sysPass) | Systems Password Manager | nuxsmin | 640 |
+| 7 |  [UDOIT](https://github.com/ucfopen/UDOIT) | The Universal Design Online content Inspection Tool, or UDOIT (pronounced, “You Do It”) enables faculty to identify accessibility issues in Canvas by Instructure. It will scan a course, generate a report, and provide resources on how to address common accessibility issues. | ucfopen | 71 |
+| 8 |  [RPi_Cam_Web_Interface](https://github.com/silvanmelchior/RPi_Cam_Web_Interface) | A web interface for the RPi Cam | silvanmelchior | 1045 |
+| 9 |  [firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | firefly-iii | 4264 |
+| 10 |  [selfoss](https://github.com/SSilence/selfoss) | selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application | SSilence | 1830 |
+| 11 |  [FreshRSS](https://github.com/FreshRSS/FreshRSS) | A free, self-hostable aggregator… | FreshRSS | 2032 |
+| 12 |  [astral](https://github.com/astralapp/astral) | Organize Your GitHub Stars With Ease | astralapp | 1885 |
+| 13 |  [server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | nextcloud | 9955 |
+| 14 |  [phpipam](https://github.com/phpipam/phpipam) | phpipam development repository | phpipam | 1208 |
+| 15 |  [Cachet](https://github.com/CachetHQ/Cachet) | 📛 An open source status page system for everyone. | CachetHQ | 10829 |
+| 16 |  [Organizr](https://github.com/causefx/Organizr) | HTPC/Homelab Services Organizer - Written in PHP | causefx | 2456 |
+| 17 |  [Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) | Open source image hosting software | Chevereto | 1380 |
+| 18 |  [tcexam](https://github.com/tecnickcom/tcexam) | TCExam is a CBA (Computer-Based Assessment) system (e-exam, CBT - Computer Based Testing) for universities, schools and companies, that enables educators and trainers to author, schedule, deliver, and report on surveys, quizzes, tests and exams. | tecnickcom | 334 |
+| 19 |  [pagekit](https://github.com/pagekit/pagekit) | Pagekit CMS | pagekit | 5297 |
+| 20 |  [directus](https://github.com/directus/directus) | Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases | directus | 5946 |
+| 21 |  [matomo](https://github.com/matomo-org/matomo) | Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! | matomo-org | 12795 |
+| 22 |  [yousdr](https://github.com/sixuniform/yousdr) |  | sixuniform | 39 |
+| 23 |  [Pico](https://github.com/picocms/Pico) | Pico is a stupidly simple, blazing fast, flat file CMS. | picocms | 3210 |
+| 24 |  [jPut](https://github.com/shabeer-ali-m/jPut) | jPut is a small jquey plugin which you can put your JSON as customized HTML format easily.It supports loading JSON via ajax. | shabeer-ali-m | 80 |
+| 25 |  [nZEDb](https://github.com/nZEDb/nZEDb) | nZEDb - a fork of nnplus(2011) \| NNTP / Usenet / Newsgroup indexer. | nZEDb | 501 |
+| 26 |  [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | blueimp | 30543 |
+| 27 |  [webpagetest](https://github.com/WPO-Foundation/webpagetest) | Official repository for WebPagetest | WPO-Foundation | 2377 |
+| 28 |  [xbmc-video-server](https://github.com/Jalle19/xbmc-video-server) | Web interface for streaming or downloading media from a Kodi/XBMC library | Jalle19 | 179 |
+
+**[⬆ Back to Index](#-contents)**
+
+## PLpgSQL
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [UndercoverToolbox](https://github.com/SQLUndercover/UndercoverToolbox) | A collection of cool and useful tools, procedures and scripts for the discerning DBA | SQLUndercover | 49 |
+| 2 |  [SQLServerHelpScripts](https://github.com/rolftesmer/SQLServerHelpScripts) | A collection of various adhoc SQL Server scripts which can be used to monitor, administer, copy, tune etc varous SQL Server database, tables, indexes or instances | rolftesmer | 11 |
+| 3 |  [generate-sql-merge](https://github.com/readyroll/generate-sql-merge) | Generate SQL MERGE statements with Table data | readyroll | 198 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Pascal
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) | Windows 10 and (some) Linux Gaming Tweaks without myths | CHEF-KOCH | 329 |
+| 2 |  [smash](https://github.com/matortheeternal/smash) | An application that provides a means of performing automatic conflict resolution between multiple Bethesda Plugin Files for TES and Fallout games. | matortheeternal | 100 |
+| 3 |  [rdpwrap](https://github.com/stascorp/rdpwrap) | RDP Wrapper Library | stascorp | 6554 |
+| 4 |  [Postman-WebApi-HelpDocumentation](https://github.com/OliverRC/Postman-WebApi-HelpDocumentation) | Allows developers expose their MVC WebAPI endpoints so that they can be imported into postman | OliverRC | 7 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Perl
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [SmokePing](https://github.com/oetiker/SmokePing) | The Active Monitoring System | oetiker | 537 |
+| 2 |  [cloc](https://github.com/AlDanial/cloc) | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | AlDanial | 8983 |
+| 3 |  [owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) | SpiderLabs | 2057 |
+| 4 |  [orion](https://github.com/davidus-sk/orion) | Automated timelapse image capture and stacking for Raspberry Pi and the Pi camera | davidus-sk | 21 |
+
+**[⬆ Back to Index](#-contents)**
+
+## PowerShell
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [Printer-Remapper](https://github.com/Justin-Lund/Printer-Remapper) | Deletes network printers & printer drivers, & then re-installs the printers | Justin-Lund | 70 |
+| 2 |  [Configuration](https://github.com/PoshCode/Configuration) | A module to help other modules have settings | PoshCode | 112 |
+| 3 |  [Plaster](https://github.com/PowerShell/Plaster) | Plaster is a template-based file and project generator written in PowerShell. | PowerShell | 496 |
+| 4 |  [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) | A PowerShell Module to help scripters write, version, sign, package, and publish. | PoshCode | 184 |
+| 5 |  [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | A prompt theming engine for Powershell | JanDeDobbeleer | 2243 |
+| 6 |  [machinelearning-samples](https://github.com/dotnet/machinelearning-samples) | Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. | dotnet | 2449 |
+| 7 |  [corrupted-media-scanner](https://github.com/PNRxA/corrupted-media-scanner) | Uses handbrake to check if files are corrupt or unplayable | PNRxA | 28 |
+| 8 |  [PSTeams](https://github.com/EvotecIT/PSTeams) | This PowerShell Module allows to sending notifications to Microsoft Teams. It's pretty flexible and provides a bunch of options. While there are already 2 other modules related to sending notifications to Teams this one takes it a step further. | EvotecIT | 112 |
+| 9 |  [PSEventViewer](https://github.com/EvotecIT/PSEventViewer) | PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. Provided above example just shows one of the features you may be interested in (simple way of getting “hidden” events data). | EvotecIT | 36 |
+| 10 |  [PSWinReporting](https://github.com/EvotecIT/PSWinReporting) | This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events. | EvotecIT | 510 |
+| 11 |  [PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) | PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress! | EvotecIT | 170 |
+| 12 |  [windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) | This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation. | MicrosoftDocs | 139 |
+| 13 |  [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Script to remove Windows 10 bloatware. | Sycnex | 3847 |
+| 14 |  [Configure-StigIIS](https://github.com/Average-Bear/Configure-StigIIS) |  | Average-Bear | 15 |
+| 15 |  [PowerStig](https://github.com/microsoft/PowerStig) | STIG Automation | microsoft | 170 |
+| 16 |  [PowerStigDsc](https://github.com/microsoft/PowerStigDsc) | This project is ARCHIVED and moved to https://github.com/Microsoft/PowerStig | microsoft | 10 |
+| 17 |  [WSLab](https://github.com/microsoft/WSLab) | Windows Server rapid lab deployment scripts | microsoft | 556 |
+| 18 |  [BaselineManagement](https://github.com/microsoft/BaselineManagement) | Conversion tool used to Convert Group Policy and SCM baselines into DSC | microsoft | 185 |
+| 19 |  [PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) | A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable | steviecoaster | 166 |
+| 20 |  [scoop](https://github.com/lukesampson/scoop) | A command-line installer for Windows. | lukesampson | 9812 |
+| 21 |  [PSSoftware](https://github.com/adbertram/PSSoftware) |  | adbertram | 89 |
+| 22 |  [PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) | A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core | DTW-DanWard | 178 |
+| 23 |  [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Six Degrees of Domain Admin | BloodHoundAD | 3952 |
+| 24 |  [DSCEA](https://github.com/microsoft/DSCEA) | DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration. | microsoft | 173 |
+| 25 |  [Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) | This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution. | Sup3rlativ3 | 7 |
+| 26 |  [Library](https://github.com/OctopusDeploy/Library) | A repository of step templates and other community-contributed extensions to Octopus Deploy | OctopusDeploy | 151 |
+| 27 |  [dbareports](https://github.com/sqlcollaborative/dbareports) | PowerShell Module to gather, store and report on data about your estate. **This repository has been archived due to no longer being maintained.** | sqlcollaborative | 107 |
+| 28 |  [blazor](https://github.com/dotnet/blazor) | Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly. | dotnet | 8872 |
+| 29 |  [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) | PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019 | Disassembler0 | 3118 |
+| 30 |  [BlackViperScript](https://github.com/madbomb122/BlackViperScript) | Sets Win 10 Services based on Black Viper's Service Configurations | madbomb122 | 443 |
+| 31 |  [servicenow-powershell](https://github.com/Sam-Martin/servicenow-powershell) | This PowerShell module provides a series of cmdlets for interacting with the ServiceNow REST API | Sam-Martin | 205 |
+| 32 |  [PowerMemory](https://github.com/giMini/PowerMemory) | Exploit the credentials present in files and memory | giMini | 713 |
+| 33 |  [dbatools](https://github.com/sqlcollaborative/dbatools) | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer | sqlcollaborative | 1193 |
+| 34 |  [DBA-Database](https://github.com/SQLDBAWithABeard/DBA-Database) | This repo contains the scripts to create and populate the DBA Database to automatically gather information about your estate | SQLDBAWithABeard | 19 |
+| 35 |  [SQLPSX](https://github.com/MikeShepard/SQLPSX) | SQL PowerShell Extensions | MikeShepard | 81 |
+| 36 |  [GNURadio_Windows_Build_Scripts](https://github.com/gnieboer/GNURadio_Windows_Build_Scripts) | A series of Powershell scripts to automatically download,  build from source, and install GNURadio and -all- it's dependencies as 64-bit native binaries then package as an msi using Visual Studio 2015 | gnieboer | 61 |
+| 37 |  [POSH-LTM-Rest](https://github.com/joel74/POSH-LTM-Rest) | PowerShell module and scripts for working with F5's LTM REST API | joel74 | 65 |
+| 38 |  [Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) | Random PowerShell Work | adbertram | 549 |
+| 39 |  [PoshHubot](https://github.com/MattHodge/PoshHubot) | PowerShell Module for Hubot | MattHodge | 37 |
+| 40 |  [Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) | Place to store our documentation, code samples, etc for public consumption. | MicrosoftDocs | 1169 |
+| 41 |  [WindowsImageTools](https://github.com/BladeFireLight/WindowsImageTools) | PowerShell Tools creating and updating Windows Images | BladeFireLight | 56 |
+| 42 |  [Community.VMware](https://github.com/Mitch-Luedy/Community.VMware) | Community developed SCOM Management Pack for VMware | Mitch-Luedy | 11 |
+| 43 |  [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | A collection of Scripts which disable / remove Windows 10 Features and Apps | W4RH4WK | 3922 |
+| 44 |  [Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) | In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it. | slavizh | 19 |
+| 45 |  [HypervMP](https://github.com/QuaeNocentDocent/HypervMP) | An Hyperv 2012 R2 Operations Manager Management Pack community backed | QuaeNocentDocent | 2 |
+| 46 |  [psake](https://github.com/psake/psake) | A build automation tool written in PowerShell | psake | 1291 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Processing
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [spektrum](https://github.com/pavels/spektrum) | rtl-sdr spectrum analyzer | pavels | 202 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Python
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [openwebrx](https://github.com/jketterl/openwebrx) | Open source, multi-user SDR receiver software with a web interface | jketterl | 88 |
+| 2 |  [radiocapture-rf](https://github.com/MattMills/radiocapture-rf) | RF side of Radiocapture's SDR based trunked radio bulk collection system | MattMills | 26 |
+| 3 |  [wait-for-it](https://github.com/vishnubob/wait-for-it) | Pure bash script to test and wait on the availability of a TCP host and port | vishnubob | 4655 |
+| 4 |  [EMI_mapper](https://github.com/CGrassin/EMI_mapper) | A python script using RTL-SDR and OpenCV to create fast 2D electromagnetic maps. | CGrassin | 70 |
+| 5 |  [OctoPrint](https://github.com/foosel/OctoPrint) | OctoPrint is the snappy web interface for your 3D printer! | foosel | 4149 |
+| 6 |  [git-repo-updater](https://github.com/earwig/git-repo-updater) | A console script that allows you to easily update multiple git repositories at once | earwig | 556 |
+| 7 |  [anchore-engine](https://github.com/anchore/anchore-engine) | A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification | anchore | 808 |
+| 8 |  [calibre-web](https://github.com/janeczku/calibre-web) | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database | janeczku | 2847 |
+| 9 |  [beets](https://github.com/beetbox/beets) | music library manager and MusicBrainz tagger | beetbox | 9220 |
+| 10 |  [bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you. | morpheus65535 | 860 |
+| 11 |  [glances](https://github.com/nicolargo/glances) | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. | nicolargo | 15362 |
+| 12 |  [proxy_configuration](https://github.com/nityanandagohain/proxy_configuration) | System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration | nityanandagohain | 28 |
+| 13 |  [Printrun](https://github.com/kliment/Printrun) | Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software | kliment | 1409 |
+| 14 |  [Cura](https://github.com/Ultimaker/Cura) | 3D printer / slicing GUI built on top of the Uranium framework | Ultimaker | 1911 |
+| 15 |  [dotnet-tools](https://github.com/natemcmaster/dotnet-tools) | A list of tools to extend the .NET Core command line (dotnet) | natemcmaster | 1175 |
+| 16 |  [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | chubin | 18314 |
+| 17 |  [VAST](https://github.com/ucfopen/VAST) | VAST is a Python script that searches an Instructure Canvas course for media and returns results in a CSV file. | ucfopen | 7 |
+| 18 |  [quiz-extensions](https://github.com/ucfopen/quiz-extensions) | A self-service LTI for faculty to easily extend time for multiple users for all quizzes at once. | ucfopen | 12 |
+| 19 |  [adb-enhanced](https://github.com/ashishb/adb-enhanced) | 🔪Swiss-army knife for Android testing and development 🔪 ⛺ | ashishb | 637 |
+| 20 |  [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. | mitmproxy | 18081 |
+| 21 |  [diskover](https://github.com/shirosaidev/diskover) | File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch | shirosaidev | 770 |
+| 22 |  [airprint-generate](https://github.com/FriedZombie/airprint-generate) | Automatically generate AirPrint Avahi service files for CUPS printers | FriedZombie | 3 |
+| 23 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 7260 |
+| 24 |  [mopidy](https://github.com/mopidy/mopidy) | Mopidy is an extensible music server written in Python | mopidy | 6343 |
+| 25 |  [JBOPS](https://github.com/blacktwin/JBOPS) | Just a Bunch Of Plex Scripts | blacktwin | 627 |
+| 26 |  [Tautulli](https://github.com/Tautulli/Tautulli) | A Python based monitoring and tracking tool for Plex Media Server. | Tautulli | 3249 |
+| 27 |  [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) | Export tools for Plex | ukdtom | 184 |
+| 28 |  [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) | Plex integration in Kodi done right | croneter | 609 |
+| 29 |  [say_what](https://github.com/joshnewlan/say_what) | Using speech-to-text to fully check out during con calls | joshnewlan | 2060 |
+| 30 |  [urh](https://github.com/jopohl/urh) | Universal Radio Hacker: investigate wireless protocols like a boss 📡😎 | jopohl | 4777 |
+| 31 |  [AlexaPi](https://github.com/alexa-pi/AlexaPi) | Alexa client for all your devices! # No active development. PRs welcome # consider https://github.com/respeaker/avs instead | alexa-pi | 1161 |
+| 32 |  [waveconverter](https://github.com/paulgclark/waveconverter) | An Open Source tool for RF reverse engineering. | paulgclark | 395 |
+| 33 |  [me_cleaner](https://github.com/corna/me_cleaner) | Tool for partial deblobbing of Intel ME/TXE firmware images | corna | 3212 |
+| 34 |  [GraphDash](https://github.com/AmadeusITGroup/GraphDash) | A web-based dashboard built on graphs and their metadata. | AmadeusITGroup | 276 |
+| 35 |  [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) | A Blender script to procedurally generate 3D spaceships | a1studmuffin | 5409 |
+| 36 |  [dupeguru](https://github.com/arsenetar/dupeguru) | Find duplicate files | arsenetar | 1276 |
+| 37 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 71528 |
+| 38 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 9210 |
+| 39 |  [nzbhydra](https://github.com/theotherp/nzbhydra) | Meta search for NZB indexers | theotherp | 538 |
+| 40 |  [gw2craft](https://github.com/xanthics/gw2craft) | Driving force behind gw2crafts | xanthics | 38 |
+| 41 |  [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) | Uses some known methods that attempt to minimize tracking in Windows 10 | 10se1ucgo | 4876 |
+| 42 |  [markdown](https://github.com/Python-Markdown/markdown) | A Python implementation of John Gruber’s Markdown with Extension support. | Python-Markdown | 2017 |
+| 43 |  [grip](https://github.com/joeyespo/grip) | Preview GitHub Markdown files like Readme locally before committing them. | joeyespo | 4478 |
+| 44 |  [mark2](https://github.com/gsand/mark2) | Minecraft Multi Server Wrapper with Limited Nukkit Support, Written in Python with Twisted; Pull Requests HIGHLY Encouraged | gsand | 140 |
+| 45 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 34982 |
+| 46 |  [RTLSDR-Scanner](https://github.com/EarToEarOak/RTLSDR-Scanner) | A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library | EarToEarOak | 486 |
+| 47 |  [ajenti](https://github.com/ajenti/ajenti) | Ajenti Core and stock plugins | ajenti | 5919 |
+| 48 |  [python-pia](https://github.com/flamusdiu/python-pia) | Commandline tool to auto configure PIA services | flamusdiu | 43 |
+| 49 |  [augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control) | Augmented Traffic Control: A tool to simulate network conditions | facebookarchive | 4200 |
+| 50 |  [blissflixx](https://github.com/blissland/blissflixx) | Turn your Raspberry Pi into a ROKU like Media Streamer. | blissland | 88 |
+| 51 |  [mylar](https://github.com/evilhero/mylar) | An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents | evilhero | 951 |
+| 52 |  [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) | A fully responsive interface to manage all your favorite software on your Htpc. | Hellowlol | 335 |
+| 53 |  [rtl_heatmap](https://github.com/donothingloop/rtl_heatmap) | Viewer for rtl_power CSV files written in pure JS and HTML5 | donothingloop | 40 |
+| 54 |  [vpn_client_gateway](https://github.com/mr-canoehead/vpn_client_gateway) | Pi-Powered VPN Client Gateway: installation documentation and related files. | mr-canoehead | 90 |
+| 55 |  [pybombs](https://github.com/gnuradio/pybombs) | PyBOMBS (Python Build Overlay Managed Bundle System) is the GNU Radio install management system for resolving dependencies and pulling in out-of-tree projects. | gnuradio | 263 |
+| 56 |  [livestreamer](https://github.com/chrippa/livestreamer) | Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead. | chrippa | 3727 |
+| 57 |  [hamms](https://github.com/kevinburke/hamms) | Malformed servers to test your HTTP client | kevinburke | 1209 |
+| 58 |  [speedtest-cli](https://github.com/sivel/speedtest-cli) | Command line interface for testing internet bandwidth using speedtest.net | sivel | 9324 |
+| 59 |  [shinysdr](https://github.com/kpreid/shinysdr) | Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR. | kpreid | 796 |
+| 60 |  [texturecache.py](https://github.com/MilhouseVH/texturecache.py) | Utility script to manage the XBMC texture cache | MilhouseVH | 137 |
+| 61 |  [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE) | Mirror of OFFICIAL SiCKRAGE | SiCKRAGE | 1515 |
+| 62 |  [NewsBlur](https://github.com/samuelclay/NewsBlur) | NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. | samuelclay | 5430 |
+| 63 |  [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector) | A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time. | thearn | 2812 |
+| 64 |  [headphones](https://github.com/rembo10/headphones) | Automatic music downloader for SABnzbd | rembo10 | 2871 |
+
+**[⬆ Back to Index](#-contents)**
+
+## R
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [fio_scripts](https://github.com/khailey/fio_scripts) | scripts for running fio, parsing the data and graphing the output | khailey | 121 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Rich Text Format
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [WPF-Samples](https://github.com/microsoft/WPF-Samples) | Repository for WPF related samples | microsoft | 2332 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Ruby
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [adobe-connect-to-mkv-to-kaltura](https://github.com/kaltura/adobe-connect-to-mkv-to-kaltura) | Generate MKV files out of Adobe Connect recordings and [optionally] ingest them onto Kaltura | kaltura | 6 |
+| 2 |  [mailcatcher](https://github.com/sj26/mailcatcher) | Catches mail and serves it through a dream. | sj26 | 4921 |
+| 3 |  [canvas-lms](https://github.com/instructure/canvas-lms) | The open LMS by Instructure, Inc. | instructure | 3134 |
+| 4 |  [logstash](https://github.com/elastic/logstash) | Logstash - transport and process your logs, events, or other data | elastic | 11137 |
+| 5 |  [fontcustom](https://github.com/FontCustom/fontcustom) | Generate custom icon webfonts from the comfort of the command line. | FontCustom | 3242 |
+| 6 |  [wraith](https://github.com/BBC-News/wraith) | Wraith — A responsive screenshot comparison tool | BBC-News | 4654 |
+| 7 |  [kss](https://github.com/kneath/kss) | A methodology for documenting CSS and generating styleguides. | kneath | 4096 |
+| 8 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 25707 |
+| 9 |  [errbit](https://github.com/errbit/errbit) | The open source error catcher that's Airbrake API compliant | errbit | 4072 |
+| 10 |  [sensu](https://github.com/sensu/sensu) | Monitoring for today's infrastructure. | sensu | 2967 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Rust
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 3062 |
+
+**[⬆ Back to Index](#-contents)**
+
+## SQLPL
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [sql-server-samples](https://github.com/microsoft/sql-server-samples) | Official Microsoft GitHub Repository containing code samples for SQL Server | microsoft | 4492 |
+| 2 |  [sql-scripts](https://github.com/MichelleUfford/sql-scripts) | Repo for Microsoft SQL Server scripts. These are targeted at both DBAs/admins and at database developers. | MichelleUfford | 180 |
+
+**[⬆ Back to Index](#-contents)**
+
+## Shell
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [tldr](https://github.com/tldr-pages/tldr) | 📚 Simplified and community-driven man pages | tldr-pages | 26257 |
+| 2 |  [testssl.sh](https://github.com/drwetter/testssl.sh) | Testing TLS/SSL encryption anywhere on any port | drwetter | 3924 |
+| 3 |  [ps-bash-completions](https://github.com/tillig/ps-bash-completions) | Bridge to enable bash completions to be run from within PowerShell. | tillig | 39 |
+| 4 |  [bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) | Shell snippets to auth and send remote control commands to Sony Bravia TVs | breunigs | 212 |
+| 5 |  [vsts-agent-docker](https://github.com/microsoft/vsts-agent-docker) | (Deprecated) VSTS agent Docker images | microsoft | 185 |
+| 6 |  [cols-service-now-extensions](https://github.com/colindembovsky/cols-service-now-extensions) |  | colindembovsky | 3 |
+| 7 |  [docker-bench-security](https://github.com/docker/docker-bench-security) | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. | docker | 5737 |
+| 8 |  [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) | DockSTARTer helps you get started with home server apps running in Docker. | GhostWriters | 859 |
+| 9 |  [PGBlitz.com](https://github.com/PGBlitz/PGBlitz.com) | Welcome to https://PGBlitz.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space! | PGBlitz | 1435 |
+| 10 |  [Cloudbox](https://github.com/Cloudbox/Cloudbox) | Ansible-based solution for rapidly deploying a Docker containerized cloud media server. | Cloudbox | 1001 |
+| 11 |  [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) | Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel | haugene | 1630 |
+| 12 |  [ebook-tools](https://github.com/na--/ebook-tools) | Shell scripts for organizing and managing ebook collections | na-- | 389 |
+| 13 |  [lostfiles](https://github.com/graysky2/lostfiles) | Simple script that identifies files not owned by any Arch Linux package. | graysky2 | 175 |
+| 14 |  [blackbox](https://github.com/StackExchange/blackbox) | Safely store secrets in Git/Mercurial/Subversion | StackExchange | 5168 |
+| 15 |  [onpremise](https://github.com/getsentry/onpremise) | Sentry On-Premise setup | getsentry | 2339 |
+| 16 |  [pia](https://github.com/d4rkcat/pia) | Private Internet Access VPN Linux bash client | d4rkcat | 82 |
+| 17 |  [build-linux](https://github.com/MichielDerhaeg/build-linux) | A short tutorial about building Linux based operating systems. | MichielDerhaeg | 4809 |
+| 18 |  [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | thibmaek | 6532 |
+| 19 |  [FullPageOS](https://github.com/guysoft/FullPageOS) | A raspberrypi distro to display a full page browser on boot | guysoft | 2812 |
+| 20 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 21175 |
+| 21 |  [Hack](https://github.com/source-foundry/Hack) | A typeface designed for source code | source-foundry | 13156 |
+| 22 |  [screenFetch](https://github.com/KittyKatt/screenFetch) | Fetches system/theme information in terminal for Linux desktop screenshots. | KittyKatt | 2830 |
+| 23 |  [paperwork](https://github.com/paperwork/paperwork) | Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep | paperwork | 7360 |
+| 24 |  [NetPi](https://github.com/BlameTheNetwork/NetPi) | NetPi Network Analyzer based on Raspberry Pi b+/2 hardware | BlameTheNetwork | 122 |
+| 25 |  [TV_Stuff](https://github.com/shmick/TV_Stuff) | Scripts and documentation for my TV Setup | shmick | 7 |
+| 26 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 8340 |
+| 27 |  [raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) | Raspbian (minimal) unattended netinstaller | debian-pi | 1126 |
+| 28 |  [pia-tools](https://github.com/pschmitt/pia-tools) | Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff | pschmitt | 131 |
+| 29 |  [ievms](https://github.com/xdissent/ievms) | Automated installation of the Microsoft IE App Compat virtual machines | xdissent | 10050 |
+
+**[⬆ Back to Index](#-contents)**
+
+## TSQL
+|  | Name 	|  Description 	| Author  	|  Stars 	|
+|---	|---	|---	|---	|---	|
+| 1 |  [sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) | Useful links, scripts, tools and best practice for Microsoft SQL Server Database | ktaranov | 843 |
+| 2 |  [DiagManager](https://github.com/microsoft/DiagManager) | Pssdiag/Sqldiag Manager is a graphic interface that provides customization capabilities to collect data for SQL Server using sqldiag collector engine. The data collected can be used by SQL Nexus tool  which help you troubleshoot SQL Server performance problems.  This is the same tool Microsoft SQL Server support engineers use to for data collection to troubleshoot customer's performance problems. | microsoft | 146 |
+| 3 |  [sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) | SQL Server Maintenance Solution | olahallengren | 1337 |
+| 4 |  [SQL-Server-First-Responder-Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) | sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning. | BrentOzarULTD | 1809 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## TypeScript
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [rome](https://github.com/facebookexperimental/rome) | An experimental JavaScript toolchain | facebookexperimental | 6274 |
+| 1 |  [rome](https://github.com/facebookexperimental/rome) | An experimental JavaScript toolchain | facebookexperimental | 6275 |
 | 2 |  [vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) | An extension for VS Code that visualizes data during debugging. | hediet | 1433 |
 | 3 |  [verdaccio](https://github.com/verdaccio/verdaccio) | 📦🔐A lightweight private npm proxy registry | verdaccio | 9082 |
 | 4 |  [extraterm](https://github.com/sedwards2009/extraterm) | The swiss army chainsaw of terminal emulators | sedwards2009 | 1375 |
@@ -970,179 +1779,20 @@
 
 **[⬆ Back to Index](#-contents)**
 
-## Python
+## Vala
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [openwebrx](https://github.com/jketterl/openwebrx) | Open source, multi-user SDR receiver software with a web interface | jketterl | 88 |
-| 2 |  [radiocapture-rf](https://github.com/MattMills/radiocapture-rf) | RF side of Radiocapture's SDR based trunked radio bulk collection system | MattMills | 26 |
-| 3 |  [wait-for-it](https://github.com/vishnubob/wait-for-it) | Pure bash script to test and wait on the availability of a TCP host and port | vishnubob | 4655 |
-| 4 |  [EMI_mapper](https://github.com/CGrassin/EMI_mapper) | A python script using RTL-SDR and OpenCV to create fast 2D electromagnetic maps. | CGrassin | 70 |
-| 5 |  [OctoPrint](https://github.com/foosel/OctoPrint) | OctoPrint is the snappy web interface for your 3D printer! | foosel | 4149 |
-| 6 |  [git-repo-updater](https://github.com/earwig/git-repo-updater) | A console script that allows you to easily update multiple git repositories at once | earwig | 556 |
-| 7 |  [anchore-engine](https://github.com/anchore/anchore-engine) | A service that analyzes docker images and applies user-defined acceptance policies to allow automated container image validation and certification | anchore | 808 |
-| 8 |  [calibre-web](https://github.com/janeczku/calibre-web) | :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database | janeczku | 2847 |
-| 9 |  [beets](https://github.com/beetbox/beets) | music library manager and MusicBrainz tagger | beetbox | 9220 |
-| 10 |  [bazarr](https://github.com/morpheus65535/bazarr) | Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you. | morpheus65535 | 860 |
-| 11 |  [glances](https://github.com/nicolargo/glances) | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. | nicolargo | 15362 |
-| 12 |  [proxy_configuration](https://github.com/nityanandagohain/proxy_configuration) | System wide proxy configuration in a single script with options to add, remove proxy and restore system default proxy configuration | nityanandagohain | 28 |
-| 13 |  [Printrun](https://github.com/kliment/Printrun) | Pronterface, Pronsole, and Printcore - Pure Python 3d printing host software | kliment | 1409 |
-| 14 |  [Cura](https://github.com/Ultimaker/Cura) | 3D printer / slicing GUI built on top of the Uranium framework | Ultimaker | 1911 |
-| 15 |  [dotnet-tools](https://github.com/natemcmaster/dotnet-tools) | A list of tools to extend the .NET Core command line (dotnet) | natemcmaster | 1175 |
-| 16 |  [cheat.sh](https://github.com/chubin/cheat.sh) | the only cheat sheet you need | chubin | 18314 |
-| 17 |  [VAST](https://github.com/ucfopen/VAST) | VAST is a Python script that searches an Instructure Canvas course for media and returns results in a CSV file. | ucfopen | 7 |
-| 18 |  [quiz-extensions](https://github.com/ucfopen/quiz-extensions) | A self-service LTI for faculty to easily extend time for multiple users for all quizzes at once. | ucfopen | 12 |
-| 19 |  [adb-enhanced](https://github.com/ashishb/adb-enhanced) | 🔪Swiss-army knife for Android testing and development 🔪 ⛺ | ashishb | 637 |
-| 20 |  [mitmproxy](https://github.com/mitmproxy/mitmproxy) | An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. | mitmproxy | 18081 |
-| 21 |  [diskover](https://github.com/shirosaidev/diskover) | File system crawler, disk space usage, file search engine and file system analytics powered by Elasticsearch | shirosaidev | 770 |
-| 22 |  [airprint-generate](https://github.com/FriedZombie/airprint-generate) | Automatically generate AirPrint Avahi service files for CUPS printers | FriedZombie | 3 |
-| 23 |  [calibre](https://github.com/kovidgoyal/calibre) | The official source code repository for the calibre ebook manager | kovidgoyal | 7260 |
-| 24 |  [mopidy](https://github.com/mopidy/mopidy) | Mopidy is an extensible music server written in Python | mopidy | 6343 |
-| 25 |  [JBOPS](https://github.com/blacktwin/JBOPS) | Just a Bunch Of Plex Scripts | blacktwin | 627 |
-| 26 |  [Tautulli](https://github.com/Tautulli/Tautulli) | A Python based monitoring and tracking tool for Plex Media Server. | Tautulli | 3249 |
-| 27 |  [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) | Export tools for Plex | ukdtom | 184 |
-| 28 |  [PlexKodiConnect](https://github.com/croneter/PlexKodiConnect) | Plex integration in Kodi done right | croneter | 609 |
-| 29 |  [say_what](https://github.com/joshnewlan/say_what) | Using speech-to-text to fully check out during con calls | joshnewlan | 2060 |
-| 30 |  [urh](https://github.com/jopohl/urh) | Universal Radio Hacker: investigate wireless protocols like a boss 📡😎 | jopohl | 4777 |
-| 31 |  [AlexaPi](https://github.com/alexa-pi/AlexaPi) | Alexa client for all your devices! # No active development. PRs welcome # consider https://github.com/respeaker/avs instead | alexa-pi | 1161 |
-| 32 |  [waveconverter](https://github.com/paulgclark/waveconverter) | An Open Source tool for RF reverse engineering. | paulgclark | 395 |
-| 33 |  [me_cleaner](https://github.com/corna/me_cleaner) | Tool for partial deblobbing of Intel ME/TXE firmware images | corna | 3212 |
-| 34 |  [GraphDash](https://github.com/AmadeusITGroup/GraphDash) | A web-based dashboard built on graphs and their metadata. | AmadeusITGroup | 276 |
-| 35 |  [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) | A Blender script to procedurally generate 3D spaceships | a1studmuffin | 5409 |
-| 36 |  [dupeguru](https://github.com/arsenetar/dupeguru) | Find duplicate files | arsenetar | 1276 |
-| 37 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs for use in software and web development. | public-apis | 71528 |
-| 38 |  [mkdocs](https://github.com/mkdocs/mkdocs) | Project documentation with Markdown. | mkdocs | 9210 |
-| 39 |  [nzbhydra](https://github.com/theotherp/nzbhydra) | Meta search for NZB indexers | theotherp | 538 |
-| 40 |  [gw2craft](https://github.com/xanthics/gw2craft) | Driving force behind gw2crafts | xanthics | 38 |
-| 41 |  [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) | Uses some known methods that attempt to minimize tracking in Windows 10 | 10se1ucgo | 4876 |
-| 42 |  [markdown](https://github.com/Python-Markdown/markdown) | A Python implementation of John Gruber’s Markdown with Extension support. | Python-Markdown | 2017 |
-| 43 |  [grip](https://github.com/joeyespo/grip) | Preview GitHub Markdown files like Readme locally before committing them. | joeyespo | 4478 |
-| 44 |  [mark2](https://github.com/gsand/mark2) | Minecraft Multi Server Wrapper with Limited Nukkit Support, Written in Python with Twisted; Pull Requests HIGHLY Encouraged | gsand | 140 |
-| 45 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 34981 |
-| 46 |  [RTLSDR-Scanner](https://github.com/EarToEarOak/RTLSDR-Scanner) | A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library | EarToEarOak | 486 |
-| 47 |  [ajenti](https://github.com/ajenti/ajenti) | Ajenti Core and stock plugins | ajenti | 5919 |
-| 48 |  [python-pia](https://github.com/flamusdiu/python-pia) | Commandline tool to auto configure PIA services | flamusdiu | 43 |
-| 49 |  [augmented-traffic-control](https://github.com/facebookarchive/augmented-traffic-control) | Augmented Traffic Control: A tool to simulate network conditions | facebookarchive | 4200 |
-| 50 |  [blissflixx](https://github.com/blissland/blissflixx) | Turn your Raspberry Pi into a ROKU like Media Streamer. | blissland | 88 |
-| 51 |  [mylar](https://github.com/evilhero/mylar) | An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents | evilhero | 951 |
-| 52 |  [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) | A fully responsive interface to manage all your favorite software on your Htpc. | Hellowlol | 335 |
-| 53 |  [rtl_heatmap](https://github.com/donothingloop/rtl_heatmap) | Viewer for rtl_power CSV files written in pure JS and HTML5 | donothingloop | 40 |
-| 54 |  [vpn_client_gateway](https://github.com/mr-canoehead/vpn_client_gateway) | Pi-Powered VPN Client Gateway: installation documentation and related files. | mr-canoehead | 90 |
-| 55 |  [pybombs](https://github.com/gnuradio/pybombs) | PyBOMBS (Python Build Overlay Managed Bundle System) is the GNU Radio install management system for resolving dependencies and pulling in out-of-tree projects. | gnuradio | 263 |
-| 56 |  [livestreamer](https://github.com/chrippa/livestreamer) | Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead. | chrippa | 3727 |
-| 57 |  [hamms](https://github.com/kevinburke/hamms) | Malformed servers to test your HTTP client | kevinburke | 1209 |
-| 58 |  [speedtest-cli](https://github.com/sivel/speedtest-cli) | Command line interface for testing internet bandwidth using speedtest.net | sivel | 9324 |
-| 59 |  [shinysdr](https://github.com/kpreid/shinysdr) | Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins. In development, usable but incomplete. Compatible with RTL-SDR. | kpreid | 796 |
-| 60 |  [texturecache.py](https://github.com/MilhouseVH/texturecache.py) | Utility script to manage the XBMC texture cache | MilhouseVH | 137 |
-| 61 |  [SiCKRAGE](https://github.com/SiCKRAGE/SiCKRAGE) | Mirror of OFFICIAL SiCKRAGE | SiCKRAGE | 1515 |
-| 62 |  [NewsBlur](https://github.com/samuelclay/NewsBlur) | NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. | samuelclay | 5430 |
-| 63 |  [webcam-pulse-detector](https://github.com/thearn/webcam-pulse-detector) | A python application that detects and highlights the heart-rate of an individual (using only their own webcam) in real-time. | thearn | 2812 |
-| 64 |  [headphones](https://github.com/rembo10/headphones) | Automatic music downloader for SABnzbd | rembo10 | 2871 |
+| 1 |  [timeshift](https://github.com/teejee2008/timeshift) | System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. | teejee2008 | 1737 |
 
 **[⬆ Back to Index](#-contents)**
 
-## Others
+## Visual Basic
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) | A curated list of awesome C-Sharp frameworks, libraries and software. | uhub | 330 |
-| 2 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 31261 |
-| 3 |  [msdn-code-gallery-microsoft](https://github.com/microsoftarchive/msdn-code-gallery-microsoft) | Samples from Microsoft teams for the MSDN Code Gallery | microsoftarchive | 43 |
-| 4 |  [awesome-roslyn](https://github.com/ironcev/awesome-roslyn) | Curated list of awesome Roslyn books, tutorials, open source projects, analyzers, code fixes, and refactorings | ironcev | 283 |
-| 5 |  [css](https://github.com/airbnb/css) | A mostly reasonable approach to CSS and Sass. | airbnb | 5169 |
-| 6 |  [PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) | The Unofficial PowerShell Best Practices and Style Guide | PoshCode | 1248 |
-| 7 |  [The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) | 📢 Various README templates & tips on writing high-quality documentation that people want to read. | kylelobo | 3393 |
-| 8 |  [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) | Awesome list dedicated to Windows Subsystem for Linux | sirredbeard | 1990 |
-| 9 |  [notes](https://github.com/8483/notes) | Full-stack web development notes. | 8483 | 1467 |
-| 10 |  [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt) | A curated list of awesome things related to Nuxt.js | nuxt-community | 2855 |
-| 11 |  [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) | A curated list of awesome puppeteer resources. | transitive-bullshit | 1160 |
-| 12 |  [How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. | imthenachoman | 10080 |
-| 13 |  [awesome-pnpm](https://github.com/pnpm/awesome-pnpm) | Awesome pnpm resources | pnpm | 34 |
-| 14 |  [awesome-dotnet](https://github.com/quozd/awesome-dotnet) | A collection of awesome .NET libraries, tools, frameworks and software | quozd | 11055 |
-| 15 |  [idiomatic.js](https://github.com/rwaldron/idiomatic.js) | Principles of Writing Consistent, Idiomatic JavaScript | rwaldron | 15898 |
-| 16 |  [advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) | AdvancedTomato fork for ARM routers based on Tomato by Shibby | Jackysi | 49 |
-| 17 |  [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) | 🎮 The only Front-End Performance Checklist that runs faster than the others | thedaviddias | 12003 |
-| 18 |  [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. | kelseyhightower | 20221 |
-| 19 |  [prometheus](https://github.com/vegasbrianc/prometheus) | A docker-compose stack for Prometheus monitoring | vegasbrianc | 2446 |
-| 20 |  [dockprom](https://github.com/stefanprodan/dockprom) | Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager | stefanprodan | 2802 |
-| 21 |  [AtoMiC-ToolKit-Docker](https://github.com/htpcBeginner/AtoMiC-ToolKit-Docker) | Moved - https://github.com/htpcBeginner/docker-traefik | htpcBeginner | 213 |
-| 22 |  [EditorConfig](https://github.com/RehanSaeed/EditorConfig) | A very generic .editorconfig file supporting .NET, C#, VB and web technologies. | RehanSaeed | 197 |
-| 23 |  [vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) | Collection of helpful tips and tricks for VS Code. | microsoft | 7980 |
-| 24 |  [toml](https://github.com/toml-lang/toml) | Tom's Obvious, Minimal Language | toml-lang | 13009 |
-| 25 |  [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) | Windows 10 Privacy Guide | adolfintel | 1061 |
-| 26 |  [Awesome](https://github.com/Awesome-Windows/Awesome) | :computer: 🎉 An awesome & curated list of best applications and tools for Windows. | Awesome-Windows | 12637 |
-| 27 |  [jstips](https://github.com/loverajoel/jstips) | This is about useful JS tips! | loverajoel | 11145 |
-| 28 |  [awesome-graphql](https://github.com/chentsulin/awesome-graphql) | Awesome list of GraphQL & Relay | chentsulin | 11123 |
-| 29 |  [awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | veggiemonk | 17295 |
-| 30 |  [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations) | Using a library in your webpack project? Here’s how to optimize it | GoogleChromeLabs | 2698 |
-| 31 |  [es6features](https://github.com/lukehoban/es6features) | Overview of ECMAScript 6 features | lukehoban | 27389 |
-| 32 |  [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | The Patterns of Scalable, Reliable, and Performant Large-Scale Systems | binhnguyennus | 25136 |
-| 33 |  [awesome-code-review](https://github.com/joho/awesome-code-review) | An &#34;Awesome&#34; list of code review resources - articles, papers, tools, etc | joho | 1932 |
-| 34 |  [nodejs-guidelines](https://github.com/microsoft/nodejs-guidelines) | Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms. | microsoft | 2149 |
-| 35 |  [corefx](https://github.com/dotnet/corefx) | CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others. | dotnet | 17882 |
-| 36 |  [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in | kdeldycke | 11434 |
-| 37 |  [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | A collection of (mostly) technical things every software developer should know | mtdvio | 40987 |
-| 38 |  [reverse-engineering](https://github.com/wtsxDev/reverse-engineering) | List of awesome reverse engineering resources | wtsxDev | 4247 |
-| 39 |  [MusicStore](https://github.com/aspnet/MusicStore) | [Archived] MusicStore test application that uses ASP.NET/EF Core. Project moved to https://github.com/aspnet/AspNetCore | aspnet | 1349 |
-| 40 |  [vue-admin](https://github.com/vue-bulma/vue-admin) | We are refactoring it, using the latest Vue and Bulma. WIP | vue-bulma | 9468 |
-| 41 |  [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) | Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects. | mbeaudru | 19696 |
-| 42 |  [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | vuejs | 52458 |
-| 43 |  [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources. | n1trux | 9747 |
-| 44 |  [SANS-SEC505](https://github.com/EnclaveConsulting/SANS-SEC505) | Some of the lab files for the SANS Institute course SEC505: Securing Windows and PowerShell Automation: https://sans.org/sec505 | EnclaveConsulting | 242 |
-| 45 |  [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | :link: Some useful websites for programmers. | sdmg15 | 30100 |
-| 46 |  [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) | A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. | kahun | 19580 |
-| 47 |  [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | EbookFoundation | 138134 |
-| 48 |  [Auth-Boss](https://github.com/teesloane/Auth-Boss) | 🔒 Become an Auth Boss. Learn about different authentication methodologies on the web. | teesloane | 2830 |
-| 49 |  [NeverSink-Filter](https://github.com/NeverSinkDev/NeverSink-Filter) | This is a lootfilter for the game &#34;Path of Exile&#34;. It hides low value items, uses a markup-scheme and sounds to highlight expensive gear and is based on economy data mining. | NeverSinkDev | 1771 |
-| 50 |  [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | Hack-with-Github | 35764 |
-| 51 |  [QueryStoreDashboard](https://github.com/Evdlaar/QueryStoreDashboard) | Query Store Database Performance Dashboard | Evdlaar | 27 |
-| 52 |  [games](https://github.com/leereilly/games) | :video_game: A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. | leereilly | 14023 |
-| 53 |  [public-notes](https://github.com/verbosemode/public-notes) | My public (install) notes. /me doing linux/networking/... networking things | verbosemode | 22 |
-| 54 |  [debugger](https://github.com/firefox-devtools/debugger) | The faster and smarter Debugger for Firefox DevTools 🔥🦊🛠 | firefox-devtools | 4545 |
-| 55 |  [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance) | A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff. | adamsitnik | 1416 |
-| 56 |  [api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | microsoft | 14112 |
-| 57 |  [ES6-for-humans](https://github.com/metagrover/ES6-for-humans) | A kickstarter guide to writing ES6 | metagrover | 4625 |
-| 58 |  [data-science](https://github.com/ossu/data-science) | :bar_chart: Path to a free self-taught education in Data Science! | ossu | 7197 |
-| 59 |  [commandline](https://github.com/gsscoder/commandline) | Terse syntax C# command line parser for .NET with F# support | gsscoder | 1683 |
-| 60 |  [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) | This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students | AchoArnold | 1607 |
-| 61 |  [HEAD](https://github.com/joshbuchea/HEAD) | 🗿 A list of everything that *could* go in the head of your document | joshbuchea | 26908 |
-| 62 |  [issues](https://github.com/cmangos/issues) | This repository is used as a centralized point for all issues regarding CMaNGOS. | cmangos | 128 |
-| 63 |  [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) | Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem | ChromeDevTools | 3996 |
-| 64 |  [js-by-examples](https://github.com/bmkmanoj/js-by-examples) | Learn JavaScript by examples | bmkmanoj | 1111 |
-| 65 |  [css-protips](https://github.com/AllThingsSmitty/css-protips) | A collection of tips to help take your CSS skills pro | AllThingsSmitty | 14299 |
-| 66 |  [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) | A collection of tips to help up your jQuery game | AllThingsSmitty | 4130 |
-| 67 |  [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) | Enhanced version of Asus's router firmware (Asuswrt) (legacy code base) | RMerl | 6342 |
-| 68 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 69532 |
-| 69 |  [jquery-sortable-lists](https://github.com/camohub/jquery-sortable-lists) | jQuery plugin to sorting lists also the tree structures. | camohub | 178 |
-| 70 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 127658 |
-| 71 |  [DscResources](https://github.com/PowerShell/DscResources) | Central repository for PowerShell Desired State Configuration (DSC) resources. | PowerShell | 709 |
-| 72 |  [OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) | The OpenAPI Specification Repository | OAI | 16945 |
-| 73 |  [awesome-material](https://github.com/sachin1092/awesome-material) | A curated list of Google's material design libraries for different frameworks. | sachin1092 | 553 |
-| 74 |  [es6-tools](https://github.com/addyosmani/es6-tools) | An aggregation of tooling for using ES6 today | addyosmani | 3772 |
-| 75 |  [aspnet-docker](https://github.com/aspnet/aspnet-docker) | [Archived] ASP.NET Core Docker images for 1.x. Go to https://github.com/dotnet/dotnet-docker for 2.1 and up. | aspnet | 752 |
-| 76 |  [frontend-stuff](https://github.com/moklick/frontend-stuff) | A continuously expanded list of frameworks, libraries and tools I used/want to use for building things on the web. Mostly JavaScript. | moklick | 8310 |
-| 77 |  [htaccess](https://github.com/phanan/htaccess) | ✂A collection of useful .htaccess snippets. | phanan | 11239 |
-| 78 |  [daux.io](https://github.com/justinwalsh/daux.io) | Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. | justinwalsh | 4645 |
-| 79 |  [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python | lukasz-madon | 17039 |
-| 80 |  [flexbugs](https://github.com/philipwalton/flexbugs) | A community-curated list of flexbox issues and cross-browser workarounds for them. | philipwalton | 11884 |
-| 81 |  [guides](https://github.com/NARKOZ/guides) | Design and development guides | NARKOZ | 1719 |
-| 82 |  [rtl-sdr](https://github.com/Eisbaeeer/rtl-sdr) | rtlsdr rtl_fm fork - retune & change modes without restarting | Eisbaeeer | 4 |
-| 83 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 118565 |
-| 84 |  [decoding](https://github.com/michelinok/decoding) | Collection of guides for radio deconding signals | michelinok | 5 |
-| 85 |  [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! | davidsonfellipe | 6814 |
-| 86 |  [cursors](https://github.com/chrisnager/cursors) | All available cursors | chrisnager | 185 |
-| 87 |  [Tunlr-Clone](https://github.com/corporate-gadfly/Tunlr-Clone) |  | corporate-gadfly | 304 |
-| 88 |  [advancedtomato](https://github.com/Jackysi/advancedtomato) | AdvancedTomato firmware repository (Tomato by Shibby fork) | Jackysi | 272 |
-| 89 |  [awesome-shell](https://github.com/alebcay/awesome-shell) | A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. | alebcay | 18797 |
-| 90 |  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | :zap: Delightful Node.js packages and resources | sindresorhus | 34689 |
-| 91 |  [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers. | dypsilon | 26899 |
-| 92 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 96083 |
-| 93 |  [postman-app-support](https://github.com/postmanlabs/postman-app-support) | Postman helps you be more efficient while working with APIs. Using Postman, you can construct complex HTTP requests quickly, organize them in collections and share them with your co-workers. | postmanlabs | 4288 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Rich Text Format
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [WPF-Samples](https://github.com/microsoft/WPF-Samples) | Repository for WPF related samples | microsoft | 2332 |
+| 1 |  [PAL](https://github.com/clinthuffman/PAL) | Performance Analysis of Logs (PAL) tool | clinthuffman | 300 |
+| 2 |  [Ember-MM-Newscraper](https://github.com/DanCooper/Ember-MM-Newscraper) | New Ember Media Manager - The all in one media manager for Kodi and other media centers | DanCooper | 132 |
+| 3 |  [IISlogsSolution](https://github.com/steveschofield/IISlogsSolution) | IISLogs Compression EXE And Service solution | steveschofield | 6 |
+| 4 |  [Office-IT-Pro-Deployment-Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts) | A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository | OfficeDev | 680 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1150,296 +1800,6 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [MSBuildSdkExtras](https://github.com/novotnyllc/MSBuildSdkExtras) | Extra properties for MSBuild SDK projects | novotnyllc | 240 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Java
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [ghidra](https://github.com/NationalSecurityAgency/ghidra) | Ghidra is a software reverse engineering (SRE) framework | NationalSecurityAgency | 19823 |
-| 2 |  [flyway](https://github.com/flyway/flyway) | Flyway by Redgate • Database Migrations Made Easy. | flyway | 4926 |
-| 3 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 21400 |
-| 4 |  [selenium-jupiter](https://github.com/bonigarcia/selenium-jupiter) | JUnit 5 extension for Selenium | bonigarcia | 145 |
-| 5 |  [dbeaver](https://github.com/dbeaver/dbeaver) | Free universal database tool and SQL client | dbeaver | 12394 |
-| 6 |  [LauncherHijack](https://github.com/BaronKiko/LauncherHijack) | For Amazon Fire Tablets and TV's | BaronKiko | 270 |
-| 7 |  [mssql-jdbc](https://github.com/microsoft/mssql-jdbc) | The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs). | microsoft | 695 |
-| 8 |  [notSABS](https://github.com/GoldenKappa/notSABS) | notSABS ver 1.0.0 | GoldenKappa | 110 |
-| 9 |  [keystore-explorer](https://github.com/kaikramer/keystore-explorer) | KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner. | kaikramer | 622 |
-| 10 |  [haven](https://github.com/guardianproject/haven) | Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors | guardianproject | 5742 |
-| 11 |  [shibboleth-oidc](https://github.com/uchicago/shibboleth-oidc) | OpenID Connect support for the Shibboleth Identity Provider  v3 | uchicago | 74 |
-| 12 |  [jd-gui](https://github.com/java-decompiler/jd-gui) | A standalone Java Decompiler GUI | java-decompiler | 8091 |
-| 13 |  [dns66](https://github.com/julian-klode/dns66) | DNS-based Host Blocker (and lightweight ad blocker) for Android | julian-klode | 1397 |
-| 14 |  [elasticsearch-sql](https://github.com/NLPchina/elasticsearch-sql) | Use SQL to query Elasticsearch | NLPchina | 5777 |
-| 15 |  [Terasology](https://github.com/MovingBlocks/Terasology) | Terasology - open source voxel world | MovingBlocks | 2759 |
-| 16 |  [MinecraftForge](https://github.com/MinecraftForge/MinecraftForge) | Modifications to the Minecraft base files to assist in compatibility between mods. | MinecraftForge | 3641 |
-| 17 |  [Speculum-Android](https://github.com/NielsMasdorp/Speculum-Android) | Android application powering a magic mirror. | NielsMasdorp | 324 |
-| 18 |  [sdrtrunk](https://github.com/DSheirer/sdrtrunk) | A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website: | DSheirer | 502 |
-| 19 |  [chunky](https://github.com/llbit/chunky) | Minecraft mapping and rendering tool | llbit | 300 |
-| 20 |  [pixel-dungeon](https://github.com/watabou/pixel-dungeon) | Traditional roguelike game with pixel-art graphics and simple interface | watabou | 2500 |
-| 21 |  [HomeMirror](https://github.com/HannahMitt/HomeMirror) | Android application powering the mirror in my house | HannahMitt | 7897 |
-| 22 |  [dynmap](https://github.com/webbukkit/dynmap) | A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations. | webbukkit | 875 |
-| 23 |  [vsminecraft](https://github.com/microsoft/vsminecraft) | Visual Studio extension for developing MinecraftForge mods using Java. | microsoft | 185 |
-| 24 |  [MrCrayfishFurnitureMod](https://github.com/MrCrayfish/MrCrayfishFurnitureMod) | A Furniture Mod for Minecraft. Download ▶ | MrCrayfish | 160 |
-| 25 |  [selenium](https://github.com/SeleniumHQ/selenium) | A browser automation framework and ecosystem. | SeleniumHQ | 17084 |
-| 26 |  [MoppyClassic](https://github.com/SammyIAm/MoppyClassic) | Moppy has been replaced with Moppy 2.0! | SammyIAm | 563 |
-| 27 |  [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram) | A High Dynamic Range (HDR) Histogram | HdrHistogram | 1687 |
-| 28 |  [validator](https://github.com/validator/validator) | The Nu Html Checker – Helps you catch unintended mistakes in your HTML, CSS, and SVG | validator | 830 |
-| 29 |  [RFAnalyzer](https://github.com/demantz/RFAnalyzer) | Spectrum Analyzer for Android using the HackRF | demantz | 551 |
-| 30 |  [UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) | A DLNA, UPnP and HTTP(S) Media Server. | UniversalMediaServer | 1046 |
-| 31 |  [XPrivacy](https://github.com/M66B/XPrivacy) | XPrivacy - The ultimate, yet easy to use, privacy manager | M66B | 1962 |
-| 32 |  [tikione-steam-cleaner](https://github.com/jonathanlermitage/tikione-steam-cleaner) | Steam/GOG/Origin games redistributable packages finder and remover. Available in 13 languages. | jonathanlermitage | 414 |
-| 33 |  [waffle](https://github.com/Waffle/waffle) | Enable drop-in Windows Single Sign On for popular Java web servers. | Waffle | 349 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Go
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [statping](https://github.com/hunterlong/statping) | Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment. | hunterlong | 2501 |
-| 2 |  [yay](https://github.com/Jguer/yay) | Yet another Yogurt - An AUR Helper written in Go | Jguer | 4407 |
-| 3 |  [saml2aws](https://github.com/Versent/saml2aws) | CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP | Versent | 660 |
-| 4 |  [traefik](https://github.com/containous/traefik) | The Cloud Native Edge Router | containous | 27733 |
-| 5 |  [sqlfmt](https://github.com/mjibson/sqlfmt) | SQL formatter with width-aware output | mjibson | 259 |
-| 6 |  [gotenberg](https://github.com/thecodingmachine/gotenberg) | A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF | thecodingmachine | 1804 |
-| 7 |  [ferret](https://github.com/MontFerret/ferret) | Declarative web scraping | MontFerret | 4075 |
-| 8 |  [photoprism](https://github.com/photoprism/photoprism) | Personal Photo Management powered by Go and Google TensorFlow | photoprism | 4806 |
-| 9 |  [clair](https://github.com/quay/clair) | Vulnerability Static Analysis for Containers | quay | 6343 |
-| 10 |  [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server | AdguardTeam | 3182 |
-| 11 |  [cadvisor](https://github.com/google/cadvisor) | Analyzes resource usage and performance characteristics of running containers. | google | 10320 |
-| 12 |  [docker-slim](https://github.com/docker-slim/docker-slim) | DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) | docker-slim | 8169 |
-| 13 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | go-gitea | 18742 |
-| 14 |  [rancher](https://github.com/rancher/rancher) | Complete container management platform | rancher | 13782 |
-| 15 |  [wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal. | wtfutil | 11087 |
-| 16 |  [minikube](https://github.com/kubernetes/minikube) | Run Kubernetes locally | kubernetes | 17604 |
-| 17 |  [dapperdox](https://github.com/DapperDox/dapperdox) | Beautiful, integrated, OpenAPI documentation. | DapperDox | 255 |
-| 18 |  [httplab](https://github.com/gchaincl/httplab) | The interactive web server | gchaincl | 3534 |
-| 19 |  [mylg](https://github.com/mehrdadrad/mylg) | Network Diagnostic Tool | mehrdadrad | 2280 |
-| 20 |  [plot](https://github.com/gonum/plot) | A repository for plotting and visualizing data | gonum | 1476 |
-| 21 |  [disk-latency-benchmarking](https://github.com/tobert/disk-latency-benchmarking) |  | tobert | 2 |
-| 22 |  [gotty](https://github.com/yudai/gotty) | Share your terminal as a web application | yudai | 13603 |
-| 23 |  [nvm-windows](https://github.com/coreybutler/nvm-windows) | A node.js version management utility for Windows. Ironically written in Go. | coreybutler | 11777 |
-| 24 |  [vault](https://github.com/hashicorp/vault) | A tool for secrets management, encryption as a service, and privileged access management | hashicorp | 15139 |
-
-**[⬆ Back to Index](#-contents)**
-
-## TSQL
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [sqlserver-kit](https://github.com/ktaranov/sqlserver-kit) | Useful links, scripts, tools and best practice for Microsoft SQL Server Database | ktaranov | 843 |
-| 2 |  [DiagManager](https://github.com/microsoft/DiagManager) | Pssdiag/Sqldiag Manager is a graphic interface that provides customization capabilities to collect data for SQL Server using sqldiag collector engine. The data collected can be used by SQL Nexus tool  which help you troubleshoot SQL Server performance problems.  This is the same tool Microsoft SQL Server support engineers use to for data collection to troubleshoot customer's performance problems. | microsoft | 146 |
-| 3 |  [sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) | SQL Server Maintenance Solution | olahallengren | 1337 |
-| 4 |  [SQL-Server-First-Responder-Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) | sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning. | BrentOzarULTD | 1809 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Shell
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [tldr](https://github.com/tldr-pages/tldr) | 📚 Simplified and community-driven man pages | tldr-pages | 26257 |
-| 2 |  [testssl.sh](https://github.com/drwetter/testssl.sh) | Testing TLS/SSL encryption anywhere on any port | drwetter | 3924 |
-| 3 |  [ps-bash-completions](https://github.com/tillig/ps-bash-completions) | Bridge to enable bash completions to be run from within PowerShell. | tillig | 39 |
-| 4 |  [bravia-auth-and-remote](https://github.com/breunigs/bravia-auth-and-remote) | Shell snippets to auth and send remote control commands to Sony Bravia TVs | breunigs | 212 |
-| 5 |  [vsts-agent-docker](https://github.com/microsoft/vsts-agent-docker) | (Deprecated) VSTS agent Docker images | microsoft | 185 |
-| 6 |  [cols-service-now-extensions](https://github.com/colindembovsky/cols-service-now-extensions) |  | colindembovsky | 3 |
-| 7 |  [docker-bench-security](https://github.com/docker/docker-bench-security) | The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. | docker | 5737 |
-| 8 |  [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) | DockSTARTer helps you get started with home server apps running in Docker. | GhostWriters | 859 |
-| 9 |  [PGBlitz.com](https://github.com/PGBlitz/PGBlitz.com) | Welcome to https://PGBlitz.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space! | PGBlitz | 1435 |
-| 10 |  [Cloudbox](https://github.com/Cloudbox/Cloudbox) | Ansible-based solution for rapidly deploying a Docker containerized cloud media server. | Cloudbox | 1001 |
-| 11 |  [docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) | Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel | haugene | 1630 |
-| 12 |  [ebook-tools](https://github.com/na--/ebook-tools) | Shell scripts for organizing and managing ebook collections | na-- | 389 |
-| 13 |  [lostfiles](https://github.com/graysky2/lostfiles) | Simple script that identifies files not owned by any Arch Linux package. | graysky2 | 175 |
-| 14 |  [blackbox](https://github.com/StackExchange/blackbox) | Safely store secrets in Git/Mercurial/Subversion | StackExchange | 5168 |
-| 15 |  [onpremise](https://github.com/getsentry/onpremise) | Sentry On-Premise setup | getsentry | 2339 |
-| 16 |  [pia](https://github.com/d4rkcat/pia) | Private Internet Access VPN Linux bash client | d4rkcat | 82 |
-| 17 |  [build-linux](https://github.com/MichielDerhaeg/build-linux) | A short tutorial about building Linux based operating systems. | MichielDerhaeg | 4809 |
-| 18 |  [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) | 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources | thibmaek | 6532 |
-| 19 |  [FullPageOS](https://github.com/guysoft/FullPageOS) | A raspberrypi distro to display a full page browser on boot | guysoft | 2812 |
-| 20 |  [pi-hole](https://github.com/pi-hole/pi-hole) | A black hole for Internet advertisements | pi-hole | 21175 |
-| 21 |  [Hack](https://github.com/source-foundry/Hack) | A typeface designed for source code | source-foundry | 13156 |
-| 22 |  [screenFetch](https://github.com/KittyKatt/screenFetch) | Fetches system/theme information in terminal for Linux desktop screenshots. | KittyKatt | 2830 |
-| 23 |  [paperwork](https://github.com/paperwork/paperwork) | Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep | paperwork | 7360 |
-| 24 |  [NetPi](https://github.com/BlameTheNetwork/NetPi) | NetPi Network Analyzer based on Raspberry Pi b+/2 hardware | BlameTheNetwork | 122 |
-| 25 |  [TV_Stuff](https://github.com/shmick/TV_Stuff) | Scripts and documentation for my TV Setup | shmick | 7 |
-| 26 |  [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) | Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores | RetroPie | 8340 |
-| 27 |  [raspbian-ua-netinst](https://github.com/debian-pi/raspbian-ua-netinst) | Raspbian (minimal) unattended netinstaller | debian-pi | 1126 |
-| 28 |  [pia-tools](https://github.com/pschmitt/pia-tools) | Shell script to automate privateinternetaccess port forwarding and starting/stopping transmission when connected/disconnected and other stuff | pschmitt | 131 |
-| 29 |  [ievms](https://github.com/xdissent/ievms) | Automated installation of the Microsoft IE App Compat virtual machines | xdissent | 10050 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Dockerfile
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [trunk-recorder-docker](https://github.com/robotastic/trunk-recorder-docker) | a version of trunk-recorder that is designed for docker | robotastic | 5 |
-
-**[⬆ Back to Index](#-contents)**
-
-## C++
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [dsdcc](https://github.com/f4exb/dsdcc) | Digital Speech Decoder (DSD) rewritten as a C++ library | f4exb | 137 |
-| 2 |  [winmerge](https://github.com/WinMerge/winmerge) | WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. | WinMerge | 731 |
-| 3 |  [screen-capture-recorder-to-video-windows-free](https://github.com/rdp/screen-capture-recorder-to-video-windows-free) | a free open source  windows &#34;screen capture&#34; device and recorder (also allows VLC/ffmpeg and others to capture/stream desktop/audio) | rdp | 1072 |
-| 4 |  [libfacedetection](https://github.com/ShiqiYu/libfacedetection) | An open source library for face detection in images. The face detection speed can reach 1000FPS. | ShiqiYu | 8376 |
-| 5 |  [calculator](https://github.com/microsoft/calculator) | Windows Calculator: A simple yet powerful calculator that ships with Windows | microsoft | 19536 |
-| 6 |  [openpilot](https://github.com/commaai/openpilot) | open source driving agent | commaai | 14245 |
-| 7 |  [json](https://github.com/nlohmann/json) | JSON for Modern C++ | nlohmann | 17599 |
-| 8 |  [keepassxc](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | keepassxreboot | 7223 |
-| 9 |  [Marlin](https://github.com/MarlinFirmware/Marlin) | Optimized firmware for RepRap 3D printers based on the Arduino platform. | MarlinFirmware | 6864 |
-| 10 |  [devilution](https://github.com/diasurgical/devilution) | Diablo devolved - magic behind the 1996 computer game | diasurgical | 7800 |
-| 11 |  [audio-router](https://github.com/audiorouterdev/audio-router) | Routes audio from programs to different audio devices. | audiorouterdev | 2353 |
-| 12 |  [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) | Reborn of Classic Shell. | Open-Shell | 1827 |
-| 13 |  [xca](https://github.com/chris2511/xca) | X Certificate and Key management | chris2511 | 354 |
-| 14 |  [Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows) | An installation and update framework for Windows desktop apps | Squirrel | 5065 |
-| 15 |  [Reset-Windows-Update-Tool](https://github.com/ManuelGil/Reset-Windows-Update-Tool) | Troubleshooting Tool with Windows Updates (Developed in Dev-C++). | ManuelGil | 99 |
-| 16 |  [cmder](https://github.com/cmderdev/cmder) | Lovely console emulator package for Windows | cmderdev | 20352 |
-| 17 |  [modorganizer](https://github.com/ModOrganizer2/modorganizer) | Mod manager for various PC games. Discord Server: https://discord.gg/cYwdcxj if you would like to be more involved | ModOrganizer2 | 603 |
-| 18 |  [Classic-Shell](https://github.com/coddec/Classic-Shell) | Original code of Classic Shell (v4.3.1), original author Ivo Beltchev | coddec | 519 |
-| 19 |  [veyon](https://github.com/veyon/veyon) | Cross-platform computer monitoring and classroom management | veyon | 444 |
-| 20 |  [OpenJK](https://github.com/JACoders/OpenJK) | Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software | JACoders | 1390 |
-| 21 |  [node-sass](https://github.com/sass/node-sass) | :rainbow: Node.js bindings to libsass | sass | 6999 |
-| 22 |  [sdrangel](https://github.com/f4exb/sdrangel) | SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube | f4exb | 758 |
-| 23 |  [reshade](https://github.com/crosire/reshade) | A generic post-processing injector for games and video software. | crosire | 1247 |
-| 24 |  [modorganizer](https://github.com/TanninOne/modorganizer) | Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV) | TanninOne | 505 |
-| 25 |  [TrinityCore](https://github.com/TrinityCore/TrinityCore) | TrinityCore Open Source MMO Framework (master = 8.3.0.33528, 3.3.5 = 3.3.5a.12340) | TrinityCore | 5968 |
-| 26 |  [vlc-htsp-plugin](https://github.com/BtbN/vlc-htsp-plugin) | Plugin for VLC to access TVHeadend via HTSP. | BtbN | 51 |
-| 27 |  [svxlink](https://github.com/sm0svx/svxlink) | Advanced repeater system software with EchoLink support for Linux including a GUI, Qtel - the Qt EchoLink client | sm0svx | 186 |
-| 28 |  [rethinkdb](https://github.com/rethinkdb/rethinkdb) | The open-source database for the realtime web. | rethinkdb | 23327 |
-| 29 |  [endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | endless-sky | 2353 |
-| 30 |  [xenia](https://github.com/xenia-project/xenia) | Xbox 360 Emulator Research Project | xenia-project | 4017 |
-| 31 |  [freeablo](https://github.com/wheybags/freeablo) | Modern reimplementation of the Diablo 1 game engine | wheybags | 1930 |
-| 32 |  [jack2](https://github.com/jackaudio/jack2) | jack2 codebase | jackaudio | 1086 |
-| 33 |  [ModSecurity](https://github.com/SpiderLabs/ModSecurity) | ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. | SpiderLabs | 3357 |
-| 34 |  [llilc](https://github.com/dotnet/llilc) | This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms. | dotnet | 1419 |
-| 35 |  [diskspd](https://github.com/microsoft/diskspd) | DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams | microsoft | 565 |
-| 36 |  [ConEmu](https://github.com/Maximus5/ConEmu) | Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more | Maximus5 | 6560 |
-| 37 |  [pioneer](https://github.com/pioneerspacesim/pioneer) | A game of lonely space adventure | pioneerspacesim | 860 |
-| 38 |  [altWinDirStat](https://github.com/ariccio/altWinDirStat) | An unofficial modification of WinDirStat | ariccio | 271 |
-| 39 |  [trunk-recorder](https://github.com/robotastic/trunk-recorder) | Records calls from a Trunked Radio System (P25 & SmartNet) | robotastic | 361 |
-| 40 |  [CubicSDR](https://github.com/cjcliffe/CubicSDR) | Cross-Platform Software-Defined Radio Application | cjcliffe | 1049 |
-| 41 |  [libchaos](https://github.com/maciejczyzewski/libchaos) | Advanced library for randomization, hashing and statistical analysis (devoted to chaos machines). :microscope: | maciejczyzewski | 1624 |
-| 42 |  [SoapySDR](https://github.com/pothosware/SoapySDR) | Vendor and platform neutral SDR support library. | pothosware | 436 |
-| 43 |  [PothosCore](https://github.com/pothosware/PothosCore) | The Pothos data-flow framework | pothosware | 179 |
-| 44 |  [osquery](https://github.com/osquery/osquery) | SQL powered operating system instrumentation, monitoring, and analytics. | osquery | 16568 |
-| 45 |  [openage](https://github.com/SFTtech/openage) | Free (as in freedom) open source clone of the Age of Empires II engine :rocket: | SFTtech | 9444 |
-| 46 |  [virtual-audio-capture-grabber-device](https://github.com/rdp/virtual-audio-capture-grabber-device) | free audio capture device to capture all the &#34;wave out sound&#34; that is playing on your speakers  (i.e. record what you hear) for Windows Vista+.  Releases downloadable in this package: | rdp | 328 |
-| 47 |  [mbelib](https://github.com/szechyjs/mbelib) | P25 Phase 1 and ProVoice vocoder | szechyjs | 150 |
-| 48 |  [RTLSDR-Airband](https://github.com/microtony/RTLSDR-Airband) | RTLSDR AM demodulator, support multiple channels per dongle, intended for x86 and Raspberry Pi | microtony | 77 |
-| 49 |  [dsd](https://github.com/szechyjs/dsd) | Digital Speech Decoder | szechyjs | 379 |
-| 50 |  [rainmeter](https://github.com/rainmeter/rainmeter) | Desktop customization tool for Windows | rainmeter | 2114 |
-| 51 |  [incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) | Automatic PageSpeed optimization module for Nginx | apache | 4157 |
-| 52 |  [edge](https://github.com/tjanczuk/edge) | Run .NET and Node.js code in-process on Windows, MacOS, and Linux | tjanczuk | 4881 |
-| 53 |  [hyperion](https://github.com/hyperion-project/hyperion) | Hyperion is an open source ambient light software.  Feel free to join us and contribute new features! Webpage: https://hyperion-project.org/ | hyperion-project | 1101 |
-| 54 |  [EmulationStation](https://github.com/Aloshi/EmulationStation) | A flexible emulator front-end supporting keyboardless navigation and custom system themes. | Aloshi | 1541 |
-
-**[⬆ Back to Index](#-contents)**
-
-## C
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [yori](https://github.com/malxau/yori) | Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more. | malxau | 683 |
-| 2 |  [hawkeye](https://github.com/ipartola/hawkeye) | An simple and fast USB webcam MJPEG streaming server. | ipartola | 157 |
-| 3 |  [libui](https://github.com/andlabs/libui) | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. | andlabs | 9256 |
-| 4 |  [iodine](https://github.com/yarrick/iodine) | Official git repo for iodine dns tunnel | yarrick | 3277 |
-| 5 |  [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | Genymobile | 26390 |
-| 6 |  [usbpcap](https://github.com/desowin/usbpcap) | USB packet capture for Windows | desowin | 440 |
-| 7 |  [rDUINOScope](https://github.com/dEskoG/rDUINOScope) | rDUINOScope - Arduino based telescope control system (GOTO) | dEskoG | 60 |
-| 8 |  [mimikatz](https://github.com/gentilkiwi/mimikatz) | A little tool to play with Windows security | gentilkiwi | 9357 |
-| 9 |  [rtl8192cu-fixes](https://github.com/pvaret/rtl8192cu-fixes) | Realtek 8192 chipset driver, ported to kernel 3.11. | pvaret | 748 |
-| 10 |  [rx_tools](https://github.com/rxseger/rx_tools) | rx_fm, rx_power, and rx_sdr tools for receiving data from SDRs, based on rtl_fm, rtl_power, and rtl_sdr from librtlsdr, but using the SoapySDR vendor-neutral SDR support library instead, intended to support a wider range of devices than RTL-SDR | rxseger | 204 |
-| 11 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 10844 |
-| 12 |  [netdata](https://github.com/netdata/netdata) | Real-time performance monitoring, done right! https://my-netdata.io/ | netdata | 45269 |
-| 13 |  [Craft](https://github.com/fogleman/Craft) | A simple Minecraft clone written in C using modern OpenGL (shaders). | fogleman | 7700 |
-| 14 |  [dokany](https://github.com/dokan-dev/dokany) | User mode file system library for windows with FUSE Wrapper | dokan-dev | 3223 |
-| 15 |  [mergerfs](https://github.com/trapexit/mergerfs) | a featureful union filesystem | trapexit | 1064 |
-| 16 |  [rpitx](https://github.com/F5OEO/rpitx) | RF transmitter for Raspberry Pi | F5OEO | 1623 |
-| 17 |  [RetroArch](https://github.com/libretro/RetroArch) | Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3. | libretro | 4068 |
-| 18 |  [fio](https://github.com/axboe/fio) | Flexible I/O Tester | axboe | 2103 |
-| 19 |  [ioping](https://github.com/koct9i/ioping) | simple disk I/0 latency measuring tool | koct9i | 546 |
-| 20 |  [libwdi](https://github.com/pbatard/libwdi) | Windows Driver Installer library for USB devices | pbatard | 711 |
-| 21 |  [tmux](https://github.com/tmux/tmux) | tmux source code | tmux | 16760 |
-| 22 |  [progress](https://github.com/Xfennec/progress) | Linux tool to show progress for cp, mv, dd, ... (formerly known as cv) | Xfennec | 4906 |
-| 23 |  [dump978](https://github.com/mutability/dump978) | Experimental demodulator/decoder for UAT on 978MHz | mutability | 128 |
-| 24 |  [TerraFirma](https://github.com/mrkite/TerraFirma) | Mapping for Terraria | mrkite | 145 |
-| 25 |  [vsmartcard](https://github.com/frankmorgner/vsmartcard) | umbrella project for emulation of smart card readers or smart cards | frankmorgner | 334 |
-| 26 |  [frequensea](https://github.com/fdb/frequensea) | Visualizing the frequency spectrum. | fdb | 114 |
-| 27 |  [fontforge](https://github.com/fontforge/fontforge) | Free (libre) font editor for Windows, Mac OS X and GNU+Linux | fontforge | 2952 |
-| 28 |  [OpenSC](https://github.com/OpenSC/OpenSC) | Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend | OpenSC | 1324 |
-| 29 |  [librtlsdr](https://github.com/dl8aau/librtlsdr) | Software to turn the RTL2832U into an SDR | dl8aau | 13 |
-| 30 |  [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) | digital signal processing library for software-defined radios | jgaeddert | 955 |
-| 31 |  [dsdtune](https://github.com/dreinhold/dsdtune) | Program to check the best decoder options for dsdplus | dreinhold | 11 |
-| 32 |  [freqwatch](https://github.com/covertcodes/freqwatch) | Keep track of the airwaves with RTL-SDR; snoop and capture everything into a DB | covertcodes | 146 |
-| 33 |  [linux](https://github.com/raspberrypi/linux) | Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum | raspberrypi | 6528 |
-| 34 |  [firmware](https://github.com/raspberrypi/firmware) | This repository contains pre-compiled binaries of the current Raspberry Pi  kernel and modules, userspace libraries, and bootloader/GPU firmware. | raspberrypi | 3355 |
-| 35 |  [Divert](https://github.com/basil00/Divert) | WinDivert: Windows Packet Divert | basil00 | 1005 |
-| 36 |  [Panalyzer](https://github.com/richardghirst/Panalyzer) | A Logic Analyzer based on the RaspberryPi | richardghirst | 131 |
-| 37 |  [rtl-sdr](https://github.com/mutability/rtl-sdr) | RTL-SDR *very* experimental branch - it's probably broken! | mutability | 109 |
-| 38 |  [snapraid](https://github.com/amadvance/snapraid) | A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures | amadvance | 750 |
-| 39 |  [PDW](https://github.com/Discriminator/PDW) | PDW Paging Decoder | Discriminator | 125 |
-| 40 |  [multimon-ng](https://github.com/EliasOenal/multimon-ng) |  | EliasOenal | 570 |
-| 41 |  [rtl-sdr](https://github.com/keenerd/rtl-sdr) | RTL-SDR experimental branch | keenerd | 232 |
-| 42 |  [dump1090](https://github.com/MalcolmRobb/dump1090) | Dump1090 is a simple Mode S decoder for RTLSDR devices | MalcolmRobb | 723 |
-| 43 |  [tvheadend](https://github.com/tvheadend/tvheadend) | Tvheadend is a TV streaming server for Linux supporting DVB-S, DVB-S2, DVB-C, DVB-T, ATSC, IPTV,SAT&gt;IP and other formats through the unix pipe as input sources. | tvheadend | 1680 |
-| 44 |  [AdAway](https://github.com/AdAway/AdAway) | AdAway is an open source ad blocker for Android using the hosts file. | AdAway | 2049 |
-
-**[⬆ Back to Index](#-contents)**
-
-## PowerShell
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [Printer-Remapper](https://github.com/Justin-Lund/Printer-Remapper) | Deletes network printers & printer drivers, & then re-installs the printers | Justin-Lund | 70 |
-| 2 |  [Configuration](https://github.com/PoshCode/Configuration) | A module to help other modules have settings | PoshCode | 112 |
-| 3 |  [Plaster](https://github.com/PowerShell/Plaster) | Plaster is a template-based file and project generator written in PowerShell. | PowerShell | 496 |
-| 4 |  [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) | A PowerShell Module to help scripters write, version, sign, package, and publish. | PoshCode | 184 |
-| 5 |  [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | A prompt theming engine for Powershell | JanDeDobbeleer | 2243 |
-| 6 |  [machinelearning-samples](https://github.com/dotnet/machinelearning-samples) | Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. | dotnet | 2449 |
-| 7 |  [corrupted-media-scanner](https://github.com/PNRxA/corrupted-media-scanner) | Uses handbrake to check if files are corrupt or unplayable | PNRxA | 28 |
-| 8 |  [PSTeams](https://github.com/EvotecIT/PSTeams) | This PowerShell Module allows to sending notifications to Microsoft Teams. It's pretty flexible and provides a bunch of options. While there are already 2 other modules related to sending notifications to Teams this one takes it a step further. | EvotecIT | 112 |
-| 9 |  [PSEventViewer](https://github.com/EvotecIT/PSEventViewer) | PSEventViewer (Get-Events) is really useful PowerShell wrapper around Get-WinEvent. Provided above example just shows one of the features you may be interested in (simple way of getting “hidden” events data). | EvotecIT | 36 |
-| 10 |  [PSWinReporting](https://github.com/EvotecIT/PSWinReporting) | This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events. | EvotecIT | 510 |
-| 11 |  [PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) | PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress! | EvotecIT | 170 |
-| 12 |  [windows-powershell-docs](https://github.com/MicrosoftDocs/windows-powershell-docs) | This repo is used to contribute to Windows 10, Windows Server 2016, and MDOP PowerShell module documentation. | MicrosoftDocs | 139 |
-| 13 |  [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Script to remove Windows 10 bloatware. | Sycnex | 3847 |
-| 14 |  [Configure-StigIIS](https://github.com/Average-Bear/Configure-StigIIS) |  | Average-Bear | 15 |
-| 15 |  [PowerStig](https://github.com/microsoft/PowerStig) | STIG Automation | microsoft | 170 |
-| 16 |  [PowerStigDsc](https://github.com/microsoft/PowerStigDsc) | This project is ARCHIVED and moved to https://github.com/Microsoft/PowerStig | microsoft | 10 |
-| 17 |  [WSLab](https://github.com/microsoft/WSLab) | Windows Server rapid lab deployment scripts | microsoft | 556 |
-| 18 |  [BaselineManagement](https://github.com/microsoft/BaselineManagement) | Conversion tool used to Convert Group Policy and SCM baselines into DSC | microsoft | 185 |
-| 19 |  [PSSysadminToolkit](https://github.com/steviecoaster/PSSysadminToolkit) | A collection of Powershell scripts to make life as a sysadmin just a tiny bit more bearable | steviecoaster | 166 |
-| 20 |  [scoop](https://github.com/lukesampson/scoop) | A command-line installer for Windows. | lukesampson | 9812 |
-| 21 |  [PSSoftware](https://github.com/adbertram/PSSoftware) |  | adbertram | 89 |
-| 22 |  [PowerShell-Beautifier](https://github.com/DTW-DanWard/PowerShell-Beautifier) | A whitespace reformatter and code cleaner for Windows PowerShell and PowerShell Core | DTW-DanWard | 178 |
-| 23 |  [BloodHound](https://github.com/BloodHoundAD/BloodHound) | Six Degrees of Domain Admin | BloodHoundAD | 3952 |
-| 24 |  [DSCEA](https://github.com/microsoft/DSCEA) | DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration. | microsoft | 173 |
-| 25 |  [Deploy-LAPS](https://github.com/Sup3rlativ3/Deploy-LAPS) | This script and accompanying files will allow system administrators to automatically deploy Microsoft Local Administrator Password Solution. | Sup3rlativ3 | 7 |
-| 26 |  [Library](https://github.com/OctopusDeploy/Library) | A repository of step templates and other community-contributed extensions to Octopus Deploy | OctopusDeploy | 151 |
-| 27 |  [dbareports](https://github.com/sqlcollaborative/dbareports) | PowerShell Module to gather, store and report on data about your estate. **This repository has been archived due to no longer being maintained.** | sqlcollaborative | 107 |
-| 28 |  [blazor](https://github.com/dotnet/blazor) | Blazor is a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly. | dotnet | 8872 |
-| 29 |  [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) | PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019 | Disassembler0 | 3118 |
-| 30 |  [BlackViperScript](https://github.com/madbomb122/BlackViperScript) | Sets Win 10 Services based on Black Viper's Service Configurations | madbomb122 | 443 |
-| 31 |  [servicenow-powershell](https://github.com/Sam-Martin/servicenow-powershell) | This PowerShell module provides a series of cmdlets for interacting with the ServiceNow REST API | Sam-Martin | 205 |
-| 32 |  [PowerMemory](https://github.com/giMini/PowerMemory) | Exploit the credentials present in files and memory | giMini | 713 |
-| 33 |  [dbatools](https://github.com/sqlcollaborative/dbatools) | 🚀 SQL Server automation and instance migrations have never been safer, faster or freer | sqlcollaborative | 1193 |
-| 34 |  [DBA-Database](https://github.com/SQLDBAWithABeard/DBA-Database) | This repo contains the scripts to create and populate the DBA Database to automatically gather information about your estate | SQLDBAWithABeard | 19 |
-| 35 |  [SQLPSX](https://github.com/MikeShepard/SQLPSX) | SQL PowerShell Extensions | MikeShepard | 81 |
-| 36 |  [GNURadio_Windows_Build_Scripts](https://github.com/gnieboer/GNURadio_Windows_Build_Scripts) | A series of Powershell scripts to automatically download,  build from source, and install GNURadio and -all- it's dependencies as 64-bit native binaries then package as an msi using Visual Studio 2015 | gnieboer | 61 |
-| 37 |  [POSH-LTM-Rest](https://github.com/joel74/POSH-LTM-Rest) | PowerShell module and scripts for working with F5's LTM REST API | joel74 | 65 |
-| 38 |  [Random-PowerShell-Work](https://github.com/adbertram/Random-PowerShell-Work) | Random PowerShell Work | adbertram | 549 |
-| 39 |  [PoshHubot](https://github.com/MattHodge/PoshHubot) | PowerShell Module for Hubot | MattHodge | 37 |
-| 40 |  [Virtualization-Documentation](https://github.com/MicrosoftDocs/Virtualization-Documentation) | Place to store our documentation, code samples, etc for public consumption. | MicrosoftDocs | 1169 |
-| 41 |  [WindowsImageTools](https://github.com/BladeFireLight/WindowsImageTools) | PowerShell Tools creating and updating Windows Images | BladeFireLight | 56 |
-| 42 |  [Community.VMware](https://github.com/Mitch-Luedy/Community.VMware) | Community developed SCOM Management Pack for VMware | Mitch-Luedy | 11 |
-| 43 |  [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) | A collection of Scripts which disable / remove Windows 10 Features and Apps | W4RH4WK | 3921 |
-| 44 |  [Get-SCOMManagementPacks](https://github.com/slavizh/Get-SCOMManagementPacks) | In short the script grabs the names and the links for all management packs on the site. Than it goes trough every MP link. From every MP page gets the version of it and all download links (msi, guides and etc.). Than creates a directory for that MP and subdirectory with the version number and downloads all files in it. | slavizh | 19 |
-| 45 |  [HypervMP](https://github.com/QuaeNocentDocent/HypervMP) | An Hyperv 2012 R2 Operations Manager Management Pack community backed | QuaeNocentDocent | 2 |
-| 46 |  [psake](https://github.com/psake/psake) | A build automation tool written in PowerShell | psake | 1291 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Dart
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful mobile apps. | flutter | 87908 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1466,366 +1826,6 @@
 | 18 |  [vuetron](https://github.com/vuetwo/vuetron) | A tool for testing and debugging your Vue + Vuex applications. 是一個可以幫助您 Vue.js 的項目測試及偵錯的工具, 也同時支持 Vuex及 Vue-Router. | vuetwo | 490 |
 | 19 |  [vuestic-admin](https://github.com/epicmaxco/vuestic-admin) | Free and Beautiful Vue.js Admin Template | epicmaxco | 6949 |
 | 20 |  [multiple-select](https://github.com/wenzhixin/multiple-select) | A jQuery plugin to select multiple elements with checkboxes :) | wenzhixin | 1753 |
-
-**[⬆ Back to Index](#-contents)**
-
-## PHP
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [panel](https://github.com/pterodactyl/panel) | Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users. | pterodactyl | 1637 |
-| 2 |  [Lychee](https://github.com/LycheeOrg/Lychee) | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | LycheeOrg | 995 |
-| 3 |  [Lychee](https://github.com/electerious/Lychee) | A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. | electerious | 5304 |
-| 4 |  [browscap](https://github.com/browscap/browscap) | :page_with_curl: The main project repository | browscap | 318 |
-| 5 |  [TeamPass](https://github.com/nilsteampassnet/TeamPass) | Collaborative Passwords Manager | nilsteampassnet | 1249 |
-| 6 |  [sysPass](https://github.com/nuxsmin/sysPass) | Systems Password Manager | nuxsmin | 640 |
-| 7 |  [UDOIT](https://github.com/ucfopen/UDOIT) | The Universal Design Online content Inspection Tool, or UDOIT (pronounced, “You Do It”) enables faculty to identify accessibility issues in Canvas by Instructure. It will scan a course, generate a report, and provide resources on how to address common accessibility issues. | ucfopen | 71 |
-| 8 |  [RPi_Cam_Web_Interface](https://github.com/silvanmelchior/RPi_Cam_Web_Interface) | A web interface for the RPi Cam | silvanmelchior | 1045 |
-| 9 |  [firefly-iii](https://github.com/firefly-iii/firefly-iii) | Firefly III: a personal finances manager | firefly-iii | 4264 |
-| 10 |  [selfoss](https://github.com/SSilence/selfoss) | selfoss: The multipurpose rss reader, live stream, mashup, aggregation web application | SSilence | 1830 |
-| 11 |  [FreshRSS](https://github.com/FreshRSS/FreshRSS) | A free, self-hostable aggregator… | FreshRSS | 2032 |
-| 12 |  [astral](https://github.com/astralapp/astral) | Organize Your GitHub Stars With Ease | astralapp | 1885 |
-| 13 |  [server](https://github.com/nextcloud/server) | ☁️ Nextcloud server, a safe home for all your data | nextcloud | 9955 |
-| 14 |  [phpipam](https://github.com/phpipam/phpipam) | phpipam development repository | phpipam | 1208 |
-| 15 |  [Cachet](https://github.com/CachetHQ/Cachet) | 📛 An open source status page system for everyone. | CachetHQ | 10829 |
-| 16 |  [Organizr](https://github.com/causefx/Organizr) | HTPC/Homelab Services Organizer - Written in PHP | causefx | 2456 |
-| 17 |  [Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) | Open source image hosting software | Chevereto | 1380 |
-| 18 |  [tcexam](https://github.com/tecnickcom/tcexam) | TCExam is a CBA (Computer-Based Assessment) system (e-exam, CBT - Computer Based Testing) for universities, schools and companies, that enables educators and trainers to author, schedule, deliver, and report on surveys, quizzes, tests and exams. | tecnickcom | 334 |
-| 19 |  [pagekit](https://github.com/pagekit/pagekit) | Pagekit CMS | pagekit | 5297 |
-| 20 |  [directus](https://github.com/directus/directus) | Directus 8 Suite — Future-Proof Headless CMS & API for Custom Databases | directus | 5946 |
-| 21 |  [matomo](https://github.com/matomo-org/matomo) | Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! | matomo-org | 12795 |
-| 22 |  [yousdr](https://github.com/sixuniform/yousdr) |  | sixuniform | 39 |
-| 23 |  [Pico](https://github.com/picocms/Pico) | Pico is a stupidly simple, blazing fast, flat file CMS. | picocms | 3210 |
-| 24 |  [jPut](https://github.com/shabeer-ali-m/jPut) | jPut is a small jquey plugin which you can put your JSON as customized HTML format easily.It supports loading JSON via ajax. | shabeer-ali-m | 80 |
-| 25 |  [nZEDb](https://github.com/nZEDb/nZEDb) | nZEDb - a fork of nnplus(2011) \| NNTP / Usenet / Newsgroup indexer. | nZEDb | 501 |
-| 26 |  [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) | File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads. | blueimp | 30543 |
-| 27 |  [webpagetest](https://github.com/WPO-Foundation/webpagetest) | Official repository for WebPagetest | WPO-Foundation | 2377 |
-| 28 |  [xbmc-video-server](https://github.com/Jalle19/xbmc-video-server) | Web interface for streaming or downloading media from a Kodi/XBMC library | Jalle19 | 179 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Pascal
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [GamingTweaks](https://github.com/CHEF-KOCH/GamingTweaks) | Windows 10 and (some) Linux Gaming Tweaks without myths | CHEF-KOCH | 329 |
-| 2 |  [smash](https://github.com/matortheeternal/smash) | An application that provides a means of performing automatic conflict resolution between multiple Bethesda Plugin Files for TES and Fallout games. | matortheeternal | 100 |
-| 3 |  [rdpwrap](https://github.com/stascorp/rdpwrap) | RDP Wrapper Library | stascorp | 6554 |
-| 4 |  [Postman-WebApi-HelpDocumentation](https://github.com/OliverRC/Postman-WebApi-HelpDocumentation) | Allows developers expose their MVC WebAPI endpoints so that they can be imported into postman | OliverRC | 7 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Rust
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) | Unofficial Bitwarden compatible server written in Rust | dani-garcia | 3062 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Visual Basic
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [PAL](https://github.com/clinthuffman/PAL) | Performance Analysis of Logs (PAL) tool | clinthuffman | 300 |
-| 2 |  [Ember-MM-Newscraper](https://github.com/DanCooper/Ember-MM-Newscraper) | New Ember Media Manager - The all in one media manager for Kodi and other media centers | DanCooper | 132 |
-| 3 |  [IISlogsSolution](https://github.com/steveschofield/IISlogsSolution) | IISLogs Compression EXE And Service solution | steveschofield | 6 |
-| 4 |  [Office-IT-Pro-Deployment-Scripts](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts) | A collection of useful PowerShell scripts to make deploying Office 2016 and Office 365 ProPlus easier for IT Pros and administrators.  If you have any feature requests or ideas for future scripts please add the idea to the issues list in this repository | OfficeDev | 680 |
-
-**[⬆ Back to Index](#-contents)**
-
-## SQLPL
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [sql-server-samples](https://github.com/microsoft/sql-server-samples) | Official Microsoft GitHub Repository containing code samples for SQL Server | microsoft | 4492 |
-| 2 |  [sql-scripts](https://github.com/MichelleUfford/sql-scripts) | Repo for Microsoft SQL Server scripts. These are targeted at both DBAs/admins and at database developers. | MichelleUfford | 180 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Clojure
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [swarmpit](https://github.com/swarmpit/swarmpit) | Lightweight mobile-friendly Docker Swarm management UI | swarmpit | 1378 |
-| 2 |  [FiraCode](https://github.com/tonsky/FiraCode) | Monospaced font with programming ligatures | tonsky | 44975 |
-
-**[⬆ Back to Index](#-contents)**
-
-## HTML
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [personal-website](https://github.com/github/personal-website) | Code that'll help you kickstart a personal website that showcases your work as a software developer. | github | 5879 |
-| 2 |  [HBBatchBeast](https://github.com/HaveAGitGat/HBBatchBeast) | A free GUI application for HandBrake and FFmpeg/FFprobe with an emphasis on batch conversion (including recursive folder scans and folder watching) -Windows, macOS, Linux & Docker | HaveAGitGat | 151 |
-| 3 |  [typedoc](https://github.com/TypeStrong/typedoc) | Documentation generator for TypeScript projects. | TypeStrong | 3473 |
-| 4 |  [async-javascript-cheatsheet](https://github.com/frontarm/async-javascript-cheatsheet) | Cheatsheet for promises and async/await. | frontarm | 1854 |
-| 5 |  [samples](https://github.com/GoogleChrome/samples) | A repo containing samples tied to new functionality in each release of Google Chrome. | GoogleChrome | 4690 |
-| 6 |  [pymk-inspector](https://github.com/GMG-Special-Projects-Desk/pymk-inspector) | See the people Facebook thinks you know | GMG-Special-Projects-Desk | 192 |
-| 7 |  [sing-app](https://github.com/flatlogic/sing-app) | 💥Free and open-source admin dashboard template built with Bootstrap 4 💥 | flatlogic | 1072 |
-| 8 |  [Winds](https://github.com/GetStream/Winds) | A Beautiful Open Source RSS & Podcast App Powered by Getstream.io | GetStream | 7312 |
-| 9 |  [coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | CoreUI is free bootstrap admin template | coreui | 9623 |
-| 10 |  [gitstars](https://github.com/Monine/gitstars) | Github Stars Repositories Manager | Monine | 178 |
-| 11 |  [portainer](https://github.com/portainer/portainer) | Making Docker management easy. | portainer | 14090 |
-| 12 |  [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) | A curated list of awesome Webpack resources, libraries and tools | webpack-contrib | 3858 |
-| 13 |  [material-design-lite](https://github.com/google/material-design-lite) | Material Design Components in HTML/CSS/JS | google | 31557 |
-| 14 |  [keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) | If you build software, keep a changelog. | olivierlacan | 3942 |
-| 15 |  [Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) | Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber | nsacyber | 1172 |
-| 16 |  [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) | One of the 'BEST' markdown preview extensions for Atom editor! | shd101wyy | 2538 |
-| 17 |  [flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) | Grid based on CSS3 flexbox | kristoferjoseph | 8686 |
-| 18 |  [Work-Sans](https://github.com/weiweihuanghuang/Work-Sans) | A grotesque sans. | weiweihuanghuang | 1151 |
-| 19 |  [youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) |  | HubSpot | 12175 |
-| 20 |  [process-customization-scripts](https://github.com/microsoft/process-customization-scripts) | sample scripts for customers who are exporting and importing process templates to/from TFS | microsoft | 42 |
-| 21 |  [mailgen](https://github.com/eladnava/mailgen) | A Node.js package that generates clean, responsive HTML e-mails for sending transactional mail. | eladnava | 2278 |
-| 22 |  [starwarsintro](https://github.com/PolarNotion/starwarsintro) | A CSS Library for the Star Wars Intro Crawl | PolarNotion | 171 |
-| 23 |  [foundation-emails](https://github.com/foundation/foundation-emails) | Quickly create responsive HTML emails that work on any device and client. Even Outlook. | foundation | 7283 |
-| 24 |  [AjaxQ](https://github.com/Foliotek/AjaxQ) | A tiny, simple jQuery plugin for sequential ajax requests | Foliotek | 199 |
-| 25 |  [SJSJ](https://github.com/HugoGiraudel/SJSJ) | Simplified JavaScript Jargon | HugoGiraudel | 2198 |
-| 26 |  [markdown-styles](https://github.com/mixu/markdown-styles) | Markdown to static HTML generator and multiple CSS themes for Markdown | mixu | 1466 |
-| 27 |  [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) | The minimal amount of CSS to replicate the GitHub Markdown style | sindresorhus | 4447 |
-| 28 |  [intro.js](https://github.com/usablica/intro.js) | A better way for new feature introduction and step-by-step users guide for your website and project. | usablica | 18957 |
-| 29 |  [epoch](https://github.com/epochjs/epoch) | A general purpose, real-time visualization library. | epochjs | 4987 |
-| 30 |  [bootstrap-chosen](https://github.com/alxlit/bootstrap-chosen) | An alternate stylesheet for Chosen that integrates with Bootstrap. | alxlit | 703 |
-| 31 |  [jsrsasign](https://github.com/kjur/jsrsasign) | The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript. | kjur | 2162 |
-| 32 |  [SubtlePatterns](https://github.com/atlemo/SubtlePatterns) | All the patterns | atlemo | 4337 |
-| 33 |  [free-for-dev](https://github.com/ripienaar/free-for-dev) | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev | ripienaar | 33087 |
-| 34 |  [jquery-cascading-dropdown](https://github.com/dnasir/jquery-cascading-dropdown) | A simple and lighweight jQuery plugin for cascading dropdown. | dnasir | 221 |
-| 35 |  [Testify](https://github.com/AdamMurray/Testify) | A test bed for viewing multiple mobile form factors on a single page | AdamMurray | 25 |
-| 36 |  [Rotativa](https://github.com/webgio/Rotativa) | Rotativa, /rota'tiva/. Make Pdf from Asp.Net MVC. Available on Nuget https://www.nuget.org/packages/Rotativa | webgio | 544 |
-| 37 |  [chartinator](https://github.com/jbowyers/chartinator) | A jQuery plugin for transforming HTML tables into charts using Google Charts | jbowyers | 48 |
-| 38 |  [fonts](https://github.com/google/fonts) | Font files available from Google Fonts | google | 13092 |
-| 39 |  [polymer](https://github.com/Polymer/polymer) | Our original Web Component library. | Polymer | 21378 |
-| 40 |  [grunt-uncss](https://github.com/uncss/grunt-uncss) | :scissors: A grunt task for removing unused CSS from your projects. | uncss | 3881 |
-| 41 |  [zepto](https://github.com/madrobby/zepto) | Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API | madrobby | 14708 |
-| 42 |  [Cerberus](https://github.com/TedGoas/Cerberus) | A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail. | TedGoas | 3783 |
-| 43 |  [grunticon](https://github.com/filamentgroup/grunticon) | A mystical CSS icon solution. | filamentgroup | 3372 |
-| 44 |  [dashboards](https://github.com/keen/dashboards) | Responsive dashboard templates 📊✨ | keen | 10733 |
-| 45 |  [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) | Loading icons and small animations built with pure SVG. | SamHerbert | 4339 |
-| 46 |  [Image-Select](https://github.com/websemantics/Image-Select) | Image Select is an extension of Chosen, a jQuery plugin that makes long, unwieldy select boxes much more user-friendly. It provides image support for Single and Multi select HTML tags. | websemantics | 139 |
-| 47 |  [javascript-patterns](https://github.com/shichuan/javascript-patterns) | JavaScript Patterns | shichuan | 8878 |
-| 48 |  [jQuery-tagEditor](https://github.com/Pixabay/jQuery-tagEditor) | A powerful and lightweight tag editor plugin for jQuery. | Pixabay | 452 |
-| 49 |  [RWDPerf](https://github.com/lafikl/RWDPerf) | Performance testing tool for Responsive web designs. | lafikl | 632 |
-| 50 |  [webui-popover](https://github.com/sandywalker/webui-popover) | A lightWeight popover plugin with jquery ,enchance the popover plugin of bootstrap with some awesome new features | sandywalker | 887 |
-| 51 |  [bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) | Tiny bootstrap-compatible WYSIWYG rich text editor | steveathon | 584 |
-| 52 |  [Visual-Studio-jQuery-Code-Snippets](https://github.com/kspearrin/Visual-Studio-jQuery-Code-Snippets) | 130+ jQuery code snippets for Visual Studio 2012-2019. | kspearrin | 240 |
-| 53 |  [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) | YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more. | YePpHa | 2914 |
-| 54 |  [chosen](https://github.com/harvesthq/chosen) | Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly. | harvesthq | 22212 |
-| 55 |  [bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect) | JQuery multiselect plugin based on Twitter Bootstrap. | davidstutz | 3286 |
-| 56 |  [bootstrap-accessibility-plugin](https://github.com/paypal/bootstrap-accessibility-plugin) | Accessibility Plugin for Bootstrap 3 and Bootstrap 3 as SubModule | paypal | 799 |
-| 57 |  [jquery-dropdown](https://github.com/soundasleep/jquery-dropdown) | Bootstrap-style dropdowns with some added features and no dependencies. | soundasleep | 787 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Vala
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [timeshift](https://github.com/teejee2008/timeshift) | System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. | teejee2008 | 1737 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Kotlin
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [blokada](https://github.com/blokadaorg/blokada) | Free ad blocker for Android with the best open source community. | blokadaorg | 1408 |
-| 2 |  [qksms](https://github.com/moezbhatti/qksms) | The most beautiful SMS messenger for Android | moezbhatti | 2753 |
-
-**[⬆ Back to Index](#-contents)**
-
-## CSS
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [paperless](https://github.com/the-paperless-project/paperless) | Scan, index, and archive all of your paper documents | the-paperless-project | 6483 |
-| 2 |  [bulma](https://github.com/jgthms/bulma) | Modern CSS framework based on Flexbox | jgthms | 38760 |
-| 3 |  [screenly-ose](https://github.com/Screenly/screenly-ose) | The most popular digital signage project on Github! | Screenly | 1002 |
-| 4 |  [uswds](https://github.com/uswds/uswds) | The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites. | uswds | 5477 |
-| 5 |  [Muximux](https://github.com/mescon/Muximux) | A lightweight way to manage your HTPC | mescon | 924 |
-| 6 |  [material-kit](https://github.com/creativetimofficial/material-kit) | Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design | creativetimofficial | 5339 |
-| 7 |  [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) | CSS is powerful, you can do a lot of things without JS. | you-dont-need | 13096 |
-| 8 |  [simpsons-in-css](https://github.com/pattle/simpsons-in-css) | Simpsons characters in CSS | pattle | 3984 |
-| 9 |  [pa11y-dashboard](https://github.com/pa11y/pa11y-dashboard) | Pa11y Dashboard is a web interface which helps you monitor the accessibility of your websites | pa11y | 704 |
-| 10 |  [balloon.css](https://github.com/kazzkiq/balloon.css) | Simple tooltips made of pure CSS | kazzkiq | 4579 |
-| 11 |  [big-rig](https://github.com/googlearchive/big-rig) | A proof-of-concept Performance Dashboard, CLI and Node module | googlearchive | 879 |
-| 12 |  [photon](https://github.com/connors/photon) | The fastest way to build beautiful Electron apps using simple HTML and CSS | connors | 9308 |
-| 13 |  [landio-html](https://github.com/tatygrassini/landio-html) | Landio design (Sketch 2 HTML) | tatygrassini | 811 |
-| 14 |  [wallop](https://github.com/peduarte/wallop) | :no_entry: currently unmaintained :no_entry: A minimal JS library for showing & hiding things | peduarte | 1140 |
-| 15 |  [stretchy](https://github.com/LeaVerou/stretchy) | Form element autosizing, the way it should be. | LeaVerou | 1207 |
-| 16 |  [select2-bootstrap-css](https://github.com/t0m/select2-bootstrap-css) | simple css to make select2 widgets fit in with bootstrap | t0m | 702 |
-| 17 |  [bootcards](https://github.com/bootcards/bootcards) | No longer maintained. See below for details. | bootcards | 1074 |
-| 18 |  [jsonlint.com](https://github.com/circlecell/jsonlint.com) | Source code for jsonlint.com | circlecell | 746 |
-| 19 |  [compass](https://github.com/Compass/compass) | Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain. | Compass | 6888 |
-| 20 |  [Flat-UI](https://github.com/designmodo/Flat-UI) | Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. | designmodo | 14667 |
-| 21 |  [normalize.css](https://github.com/necolas/normalize.css) | A modern alternative to CSS resets | necolas | 37961 |
-| 22 |  [css](https://github.com/primer/css) | The CSS design system that powers GitHub | primer | 8949 |
-| 23 |  [loaders.css](https://github.com/ConnorAtherton/loaders.css) | Delightful, performance-focused pure css loading animations. | ConnorAtherton | 9476 |
-| 24 |  [url.js](https://github.com/jillix/url.js) | :page_with_curl: A lightweight JavaScript library to manipulate the page url. | jillix | 237 |
-| 25 |  [localFont](https://github.com/jaicab/localFont) | Implement localStorage web font caching in seconds | jaicab | 862 |
-| 26 |  [booterator](https://github.com/cardeo/booterator) | Front end boilerplate using Harp.js, Bootstrap & Less | cardeo | 166 |
-| 27 |  [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js) | fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect. | joaopereirawd | 681 |
-| 28 |  [Material-Preloader](https://github.com/aarondo/Material-Preloader) | A jQuery plugin that recreates the Material Design pre-loader (as seen on inbox). | aarondo | 385 |
-| 29 |  [picroscopy](https://github.com/waveform80/picroscopy) | A Python web-application to turn a Raspberry Pi and PiCam into a microscopy solution | waveform80 | 55 |
-| 30 |  [BerryCamExpress](https://github.com/pitography/BerryCamExpress) |  | pitography | 34 |
-| 31 |  [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) | A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox. | philipwalton | 12567 |
-| 32 |  [animate.css](https://github.com/daneden/animate.css) | 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. | daneden | 65169 |
-| 33 |  [bootstrap](https://github.com/jasny/bootstrap) | The missing components for your favorite front-end framework. | jasny | 2690 |
-| 34 |  [tuktuk](https://github.com/soyjavi/tuktuk) | Simple (but powerful) RWD Framework | soyjavi | 556 |
-| 35 |  [smoothState.js](https://github.com/miguel-perez/smoothState.js) | Unobtrusive page transitions with jQuery. | miguel-perez | 4393 |
-| 36 |  [typeahead.js-bootstrap-css](https://github.com/bassjobsen/typeahead.js-bootstrap-css) | LESS / CSS code for using typeahead.js with Bootstrap 3 | bassjobsen | 192 |
-| 37 |  [autofill](https://github.com/dsheiko/autofill) | Bookmarklet to fill out forms when testing by simply clicking on it. | dsheiko | 53 |
-| 38 |  [ASP.NET-Solution](https://github.com/kriasoft/ASP.NET-Solution) | ASP.NET solution / project template for a typical web application, pre-configured with Git, Gulp.js (or Grunt), NuGet and StyleCop development tools. It is well suited for building a single-page web application (SPA). | kriasoft | 32 |
-| 39 |  [offline](https://github.com/HubSpot/offline) | Automatically display online/offline indication to your users | HubSpot | 8562 |
-| 40 |  [pace](https://github.com/HubSpot/pace) | Automatically add a progress bar to your site. #hubspot-open-source | HubSpot | 14795 |
-| 41 |  [lirc_web](https://github.com/alexbain/lirc_web) | Control LIRC from the web using NodeJS and lirc_node | alexbain | 112 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Jupyter Notebook
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [DeOldify](https://github.com/jantic/DeOldify) | A Deep Learning based project for colorizing and restoring old images (and video!) | jantic | 9359 |
-| 2 |  [tigertoolbox](https://github.com/microsoft/tigertoolbox) | Toolbox repository for Tiger team | microsoft | 845 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Ruby
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [adobe-connect-to-mkv-to-kaltura](https://github.com/kaltura/adobe-connect-to-mkv-to-kaltura) | Generate MKV files out of Adobe Connect recordings and [optionally] ingest them onto Kaltura | kaltura | 6 |
-| 2 |  [mailcatcher](https://github.com/sj26/mailcatcher) | Catches mail and serves it through a dream. | sj26 | 4921 |
-| 3 |  [canvas-lms](https://github.com/instructure/canvas-lms) | The open LMS by Instructure, Inc. | instructure | 3134 |
-| 4 |  [logstash](https://github.com/elastic/logstash) | Logstash - transport and process your logs, events, or other data | elastic | 11137 |
-| 5 |  [fontcustom](https://github.com/FontCustom/fontcustom) | Generate custom icon webfonts from the comfort of the command line. | FontCustom | 3242 |
-| 6 |  [wraith](https://github.com/BBC-News/wraith) | Wraith — A responsive screenshot comparison tool | BBC-News | 4654 |
-| 7 |  [kss](https://github.com/kneath/kss) | A methodology for documenting CSS and generating styleguides. | kneath | 4096 |
-| 8 |  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness | bayandin | 25707 |
-| 9 |  [errbit](https://github.com/errbit/errbit) | The open source error catcher that's Airbrake API compliant | errbit | 4072 |
-| 10 |  [sensu](https://github.com/sensu/sensu) | Monitoring for today's infrastructure. | sensu | 2967 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Lua
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [nmap-vulners](https://github.com/vulnersCom/nmap-vulners) | NSE script based on Vulners.com API | vulnersCom | 1964 |
-| 2 |  [PathOfBuilding](https://github.com/Openarl/PathOfBuilding) | Offline build planner for Path of Exile. | Openarl | 1868 |
-
-**[⬆ Back to Index](#-contents)**
-
-## F#
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [altcover](https://github.com/SteveGilham/altcover) | Cross-platform coverage gathering and processing tool set for .net/.net core and Mono | SteveGilham | 292 |
-| 2 |  [Paket](https://github.com/fsprojects/Paket) | A dependency manager for .NET with support for NuGet packages and Git repositories. | fsprojects | 1573 |
-| 3 |  [LinqOptimizer](https://github.com/nessos/LinqOptimizer) | An automatic query optimizer-compiler for Sequential and Parallel LINQ. | nessos | 413 |
-| 4 |  [GpuLinq](https://github.com/nessos/GpuLinq) | Democratizing GPGPU programming through OpenCL and LINQ. | nessos | 180 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Batchfile
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [standalone_scripts](https://github.com/bmrf/standalone_scripts) | Various standalone scripts | bmrf | 182 |
-| 2 |  [tron](https://github.com/bmrf/tron) | Tron | bmrf | 2137 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Makefile
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [motioneyeos](https://github.com/ccrisan/motioneyeos) | A Video Surveillance OS For Single-board Computers | ccrisan | 4901 |
-| 2 |  [motionpie](https://github.com/ccrisan/motionpie) | A video surveillance OS for single-board computers | ccrisan | 585 |
-
-**[⬆ Back to Index](#-contents)**
-
-## PLpgSQL
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [UndercoverToolbox](https://github.com/SQLUndercover/UndercoverToolbox) | A collection of cool and useful tools, procedures and scripts for the discerning DBA | SQLUndercover | 49 |
-| 2 |  [SQLServerHelpScripts](https://github.com/rolftesmer/SQLServerHelpScripts) | A collection of various adhoc SQL Server scripts which can be used to monitor, administer, copy, tune etc varous SQL Server database, tables, indexes or instances | rolftesmer | 11 |
-| 3 |  [generate-sql-merge](https://github.com/readyroll/generate-sql-merge) | Generate SQL MERGE statements with Table data | readyroll | 198 |
-
-**[⬆ Back to Index](#-contents)**
-
-## AutoHotkey
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [POE-ItemInfo](https://github.com/aRTy42/POE-ItemInfo) | Item Info Script for Path of Exile | aRTy42 | 167 |
-| 2 |  [AHK-Studio](https://github.com/maestrith/AHK-Studio) | Created with AHK Studio | maestrith | 203 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Perl
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [SmokePing](https://github.com/oetiker/SmokePing) | The Active Monitoring System | oetiker | 537 |
-| 2 |  [cloc](https://github.com/AlDanial/cloc) | cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. | AlDanial | 8983 |
-| 3 |  [owasp-modsecurity-crs](https://github.com/SpiderLabs/owasp-modsecurity-crs) | OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository) | SpiderLabs | 2057 |
-| 4 |  [orion](https://github.com/davidus-sk/orion) | Automated timelapse image capture and stacking for Raspberry Pi and the Pi camera | davidus-sk | 21 |
-
-**[⬆ Back to Index](#-contents)**
-
-## HLSL
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [reshade-shaders](https://github.com/crosire/reshade-shaders) | A collection of post-processing shaders written for ReShade. | crosire | 471 |
-
-**[⬆ Back to Index](#-contents)**
-
-## CoffeeScript
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [aglio](https://github.com/danielgtaylor/aglio) | An API Blueprint renderer with theme support that outputs static HTML | danielgtaylor | 4446 |
-| 2 |  [swarm](https://github.com/swarmsim/swarm) | Swarm Simulator, an idle game with lots of bugs. | swarmsim | 368 |
-| 3 |  [bootstrap-tour](https://github.com/sorich87/bootstrap-tour) | Quick and easy product tours with Twitter Bootstrap Popovers | sorich87 | 4314 |
-| 4 |  [AmaranJS](https://github.com/hakanersu/AmaranJS) | Nice, sleek and stylish notifications. | hakanersu | 213 |
-
-**[⬆ Back to Index](#-contents)**
-
-## OpenSCAD
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [PiPiece](https://github.com/dmopalmer/PiPiece) | Electronic eyepiece for telescopes etc. using the Raspberry Pi camera module | dmopalmer | 8 |
-
-**[⬆ Back to Index](#-contents)**
-
-## AutoIt
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [UniExtract2](https://github.com/Bioruebe/UniExtract2) | Universal Extractor 2 is a tool to extract files from any type of archive or installer. | Bioruebe | 904 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Processing
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [spektrum](https://github.com/pavels/spektrum) | rtl-sdr spectrum analyzer | pavels | 202 |
-
-**[⬆ Back to Index](#-contents)**
-
-## CMake
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [PothosSDR](https://github.com/pothosware/PothosSDR) | Pothos SDR windows development environment | pothosware | 149 |
-
-**[⬆ Back to Index](#-contents)**
-
-## R
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [fio_scripts](https://github.com/khailey/fio_scripts) | scripts for running fio, parsing the data and graphing the output | khailey | 121 |
-
-**[⬆ Back to Index](#-contents)**
-
-## D
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [trimcheck](https://github.com/CyberShadow/trimcheck) | SSD TRIM check tool for Windows | CyberShadow | 157 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Haskell
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [pandoc](https://github.com/jgm/pandoc) | Universal markup converter | jgm | 18297 |
-
-**[⬆ Back to Index](#-contents)**
-
-## Objective-C
-|  | Name 	|  Description 	| Author  	|  Stars 	|
-|---	|---	|---	|---	|---	|
-| 1 |  [MiniMobileDeviceLab](https://github.com/GoogleChromeLabs/MiniMobileDeviceLab) | A mini mobile web device lab | GoogleChromeLabs | 390 |
 
 **[⬆ Back to Index](#-contents)**
 
